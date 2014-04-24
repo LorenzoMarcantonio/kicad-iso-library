@@ -1,0 +1,55 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ANTENNA
+D Generic single ended antenna
+$ENDCMP
+#
+$CMP BGM1013
+D MMIC Wideband Amplifier
+$ENDCMP
+#
+$CMP LOOP_ANTENNA
+D PCB loop antenna
+$ENDCMP
+#
+$CMP LTC5507
+D 100KHz to 1GHz RF Power Detector
+$ENDCMP
+#
+$CMP LTC6903
+D 1KHz - 68MHz SPI Serial Port Programmable Oscillator
+$ENDCMP
+#
+$CMP LTC6904
+D 1KHz - 68MHz I2C Serial Port Programmable Oscillator
+$ENDCMP
+#
+$CMP RR8-315
+D 3V Supply Very Low Consumption Super Regenerative Radio Receiver (315 MHz)
+$ENDCMP
+#
+$CMP RR8-418
+D 3V Supply Very Low Consumption Super Regenerative Radio Receiver (418 MHz)
+$ENDCMP
+#
+$CMP RR8-433
+D 3V Supply Very Low Consumption Super Regenerative Radio Receiver (433 MHz)
+$ENDCMP
+#
+$CMP RT5-315
+D Radio Transmitter Module with SAW Resonator and External Antenna (315 MHz)
+$ENDCMP
+#
+$CMP RT5-418
+D Radio Transmitter Module with SAW Resonator and External Antenna (418 MHz)
+$ENDCMP
+#
+$CMP RT5-433
+D Radio Transmitter Module with SAW Resonator and External Antenna (433.9 MHz)
+$ENDCMP
+#
+$CMP SPBT2632C1A
+D Bluetooth® technology class-1 module
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,107 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAY10-100J4
+D CAY10 4x10 Chip Resistor Array
+$ENDCMP
+#
+$CMP CAY10-103J4
+D CAY10 4x10K Chip Resistor Array
+$ENDCMP
+#
+$CMP CAY10-104J4
+D CAY10 4x100K Chip Resistor Array
+$ENDCMP
+#
+$CMP CAY10-223J4
+D CAY10 4x22K Chip Resistor Array
+$ENDCMP
+#
+$CMP CAY10-224J4
+D CAY10 4x220K Chip Resistor Array
+$ENDCMP
+#
+$CMP CAY10-333J4
+D CAY10 4x33K Chip Resistor Array
+$ENDCMP
+#
+$CMP CAY10-334J4
+D CAY10 4x330K Chip Resistor Array
+$ENDCMP
+#
+$CMP CAY10-XXXJ4
+D CAY10 4x Chip Resistor Array
+$ENDCMP
+#
+$CMP POT
+D Potentiometer
+$ENDCMP
+#
+$CMP POT-DUAL
+D Dual Potentiometer
+$ENDCMP
+#
+$CMP POT-LOG
+D Potentiometer (Logarithmic Taper)
+$ENDCMP
+#
+$CMP POT-TAPER-M
+D Potentiometer (Audio Taper M)
+$ENDCMP
+#
+$CMP POT-TAPER-N
+D Potentiometer (Audio Taper N)
+$ENDCMP
+#
+$CMP POT-TAPPED
+D Potentiometer (Tapped)
+$ENDCMP
+#
+$CMP PT100
+D Resistence Thermometer Device, 100 ohm @ 0°C
+$ENDCMP
+#
+$CMP PT1000
+D Resistence Thermometer Device, 1000 ohm @ 0°C
+$ENDCMP
+#
+$CMP PT200
+D Resistence Thermometer Device, 200 ohm @ 0°C
+$ENDCMP
+#
+$CMP PT500
+D Resistence Thermometer Device, 500 ohm @ 0°C
+$ENDCMP
+#
+$CMP R
+D Resistor
+$ENDCMP
+#
+$CMP R-DUMMY
+D Resistor, Omitted
+$ENDCMP
+#
+$CMP RKELVIN
+D Resistor (Kelvin Sense)
+$ENDCMP
+#
+$CMP RTD
+D Resistence Thermometer Device
+$ENDCMP
+#
+$CMP RVAR
+D Resistor, Variable
+$ENDCMP
+#
+$CMP RVAR-NTC
+D Thermistor (Non-linear, Negative Coefficient)
+$ENDCMP
+#
+$CMP RVAR-PHOTO
+D Photoresistor (nonlinear)
+$ENDCMP
+#
+$CMP RVAR-PTC
+D Thermistor (Non-linear, Positive Coefficient)
+$ENDCMP
+#
+#End Doc Library

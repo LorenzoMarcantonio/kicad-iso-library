@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX5436
+D +-15V, 128-tap Digital Potentiometer - 50 Ko
+K SPI DIGITAL POT
+F maxim/MAX5436-MAX5439.pdf
+$ENDCMP
+#
+$CMP MAX5437
+D +-15V, 128-tap Digital Potentiometer - 50 Ko
+K SPI DIGITAL POT
+F maxim/MAX5436-MAX5439.pdf
+$ENDCMP
+#
+$CMP MAX5438
+D +-15V, 128-tap Digital Potentiometer - 100 Ko
+K SPI DIGITAL POT
+F maxim/MAX5436-MAX5439.pdf
+$ENDCMP
+#
+$CMP MAX5439
+D +-15V, 128-tap Digital Potentiometer - 100 Ko
+K SPI DIGITAL POT
+F maxim/MAX5436-MAX5439.pdf
+$ENDCMP
+#
+$CMP MCP41010
+D Single digital potentiometer with SPI interface - 10Ko
+K SPI DIGITAL POTENTIOMETER
+F microchip/mcp42010.pdf
+$ENDCMP
+#
+$CMP MCP41050
+D Single digital potentiometer with SPI interface - 50Ko
+K SPI DIGITAL POTENTIOMETER
+F microchip/mcp42010.pdf
+$ENDCMP
+#
+$CMP MCP41100
+D Single digital potentiometer with SPI interface - 100Ko
+K SPI DIGITAL POTENTIOMETER
+F microchip/mcp42010.pdf
+$ENDCMP
+#
+$CMP MCP42010
+D Dual digital potentiometer with SPI interface - 10Ko
+K SPI DUAL DIGITAL POTENTIOMETER
+F microchip/mcp42010.pdf
+$ENDCMP
+#
+$CMP MCP42050
+D Dual digital potentiometer with SPI interface - 50Ko
+K SPI DUAL DIGITAL POTENTIOMETER
+F microchip/mcp42010.pdf
+$ENDCMP
+#
+$CMP MCP42100
+D Dual digital potentiometer with SPI interface - 100Ko
+K SPI DUAL DIGITAL POTENTIOMETER
+F microchip/mcp42010.pdf
+$ENDCMP
+#
+#End Doc Library

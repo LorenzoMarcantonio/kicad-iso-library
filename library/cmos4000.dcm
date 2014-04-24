@@ -1,0 +1,173 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4001
+D Quad 2-input NOR gate
+K NOR
+$ENDCMP
+#
+$CMP 4002
+D Dual 4-input NOR gate
+K NOR
+$ENDCMP
+#
+$CMP 40106
+D Hex Inverting Schmitt-Trigger
+K INVERTER
+$ENDCMP
+#
+$CMP 4011
+D Buffered Quad 2-Input NAND gate
+K NAND
+$ENDCMP
+#
+$CMP 4012
+D Dual 4-input NAND gate
+K NAND
+$ENDCMP
+#
+$CMP 4013
+D Dual D-type flip-flop
+K FLIPFLOP
+$ENDCMP
+#
+$CMP 4016
+D Quad bilateral switch
+K ANALOG SWITCH
+$ENDCMP
+#
+$CMP 4017
+D Divide-by-10 counter (5-stage Johnson counter)
+K COUNTER
+$ENDCMP
+#
+$CMP 4020
+D 14-stage binary counter
+K BINARY COUNTER
+$ENDCMP
+#
+$CMP 4022
+D Divide-by-8 counter (4-stage Johnson counter)
+K COUNTER
+$ENDCMP
+#
+$CMP 4023
+D Triple 3-input NAND
+K NAND
+$ENDCMP
+#
+$CMP 4025
+D Triple tri-input NOR gate
+K NOR
+$ENDCMP
+#
+$CMP 4027
+D Dual JK flip-flop
+K FLIPFLOP
+$ENDCMP
+#
+$CMP 4028
+D BCD to decimal (1-of-10) decoder
+K BCD DECODER
+$ENDCMP
+#
+$CMP 4029
+D Presettable up/down counter, binary or BCD-decade
+K BINARY BCD COUNTER
+$ENDCMP
+#
+$CMP 4040
+D 12-stage binary ripple counter
+K BINARY COUNTER
+$ENDCMP
+#
+$CMP 4046
+D PLL with VCO
+K PLL
+$ENDCMP
+#
+$CMP 4049
+D Hex inverter/buffer
+K INVERTER
+$ENDCMP
+#
+$CMP 4050
+D Hex buffer/converter
+K BUFFER
+$ENDCMP
+#
+$CMP 4051
+D Analogue multiplexer/demultiplexer (1-of-8 switch)
+K ANALOG MULTIPLEXER DEMULTIPLEXER
+$ENDCMP
+#
+$CMP 4052
+D Analogue multiplexer/demultiplexer (Dual 1-of-4 switch)
+K ANALOG MULTIPLEXER DEMULTIPLEXER
+$ENDCMP
+#
+$CMP 4053
+D Analogue multiplexer/demultiplexer (Triple 1-of-2 switch)
+K ANALOG MULTIPLEXER DEMULTIPLEXER
+$ENDCMP
+#
+$CMP 4066
+D Quad Bilateral Switch
+K ANALOG SWITCH
+$ENDCMP
+#
+$CMP 4069
+D Hex inverter
+K INVERTER
+$ENDCMP
+#
+$CMP 4070
+D Quad exclusive-OR
+K XOR
+$ENDCMP
+#
+$CMP 4071
+D Quad 2-input OR gate
+K OR
+$ENDCMP
+#
+$CMP 4073
+D Triple tri-input AND gate
+K AND
+$ENDCMP
+#
+$CMP 4077
+D Quad 2-input EXCLUSIVE-NOR gate
+K XNOR
+$ENDCMP
+#
+$CMP 4081
+D Quad 2-input AND gate
+K AND
+$ENDCMP
+#
+$CMP 4510
+D Presettable 4-bit BCD up/down counter
+K BCD COUNTER
+$ENDCMP
+#
+$CMP 4518
+D Dual BCD up counter
+K BCD COUNTER
+$ENDCMP
+#
+$CMP 4520
+D Dual 4-bit binary up counter
+K BINARY COUNTER
+$ENDCMP
+#
+$CMP 4528
+D Dual Retriggerable Monostable Multivibrator with Reset
+K MONOSTABLE
+$ENDCMP
+#
+$CMP 4538
+D Dual Retriggerable Precision Monostable Multivibrator
+K MONOSTABLE
+$ENDCMP
+#
+#End Doc Library

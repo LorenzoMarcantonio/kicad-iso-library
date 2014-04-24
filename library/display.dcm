@@ -1,0 +1,251 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BI_LED
+D Bicolor LED, common K
+K LED
+$ENDCMP
+#
+$CMP BI_LED_2
+D Bicolor LED, polarity switch type
+K LED
+$ENDCMP
+#
+$CMP DA04-11GWA
+D LED 2x7 segments - Common Anode - Green
+K LED 7 SEGMENTS
+F display/display-DA04-11GWA.pdf
+$ENDCMP
+#
+$CMP DC04-11GWA
+D LED 2x7 segments - Common Catode - Green
+K LED 7 SEGMENTS
+F display/display-DC04-11GWA.pdf
+$ENDCMP
+#
+$CMP HDSP-4820
+D LED 10 element bar graph array - Red
+K LED 10 bar
+F display/HDSP-48xx.pdf
+$ENDCMP
+#
+$CMP HDSP-4830
+D LED 10 element bar graph array - High Efficiency Red
+K LED 10 bar
+F display/HDSP-48xx.pdf
+$ENDCMP
+#
+$CMP HDSP-4832
+D LED 10 element bar graph array - Red Yellow Green
+K LED 10 bar
+F display/HDSP-48xx.pdf
+$ENDCMP
+#
+$CMP HDSP-4836
+D LED 10 element bar graph array - Red Yellow Green Yellow Red
+K LED 10 bar
+F display/HDSP-48xx.pdf
+$ENDCMP
+#
+$CMP HDSP-4840
+D LED 10 element bar graph array - Yellow
+K LED 10 bar
+F display/HDSP-48xx.pdf
+$ENDCMP
+#
+$CMP HDSP-4850
+D LED 10 element bar graph array - Green
+K LED 10 bar
+F display/HDSP-48xx.pdf
+$ENDCMP
+#
+$CMP HDSP-7401
+D LED 7 segments - Function A - Yellow
+K LED 7 SEGMENTS
+F display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-7402
+D LED 7 segments - Function B - Yellow
+K LED 7 SEGMENTS
+F display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-7403
+D LED 7 segments - Function C - Yellow
+K LED 7 SEGMENTS
+F display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-7404
+D LED 7 segments - Function D - Yellow
+K LED 7 SEGMENTS
+F display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-7501
+D LED 7 segments - Function A - High Efficiency Red
+K LED 7 SEGMENTS
+F display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-7502
+D LED 7 segments - Function B - High Efficiency Red
+K LED 7 SEGMENTS
+F display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-7503
+D LED 7 segments - Function C - High Efficiency Red
+K LED 7 SEGMENTS
+F display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-7504
+D LED 7 segments - Function D - High Efficiency Red
+K LED 7 SEGMENTS
+F display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-7801
+D LED 7 segments - Function A - Green
+K LED 7 SEGMENTS
+F display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-7802
+D LED 7 segments - Function B - Green
+K LED 7 SEGMENTS
+F display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-7803
+D LED 7 segments - Function C - Green
+K LED 7 SEGMENTS
+F display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-7804
+D LED 7 segments - Function D - Green
+K LED 7 SEGMENTS
+F display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-A151
+D LED 7 segments - Function A - AlGaAs Red
+K LED 7 SEGMENTS
+F display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-A153
+D LED 7 segments - Function C - AlGaAs Red
+K LED 7 SEGMENTS
+F display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-A401
+D LED 7 segments - Function A - Orange
+K LED 7 SEGMENTS
+F display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-A403
+D LED 7 segments - Function C - Orange
+K LED 7 SEGMENTS
+F display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HLCP-J100
+D LED 10 element bar graph array - AlGaAs Red
+K LED 10 bar
+F display/HDSP-48xx.pdf
+$ENDCMP
+#
+$CMP LTS-6960HR
+D LED 7 segments - Common Anode - High Efficiency Red
+K LED 7 SEGMENTS
+F display/LTC-6960HR.pdf
+$ENDCMP
+#
+$CMP LTS-6980HR
+D LED 7 segments - Common Catode - High Efficiency Red
+K LED 7 SEGMENTS
+F display/LTC-6980HR.pdf
+$ENDCMP
+#
+$CMP MAN3410A
+D LED 7 segments - Function A - High Efficiency Green
+K LED 7 SEGMENTS
+F display/MAN3640A.pdf
+$ENDCMP
+#
+$CMP MAN3420A
+D LED 7 segments - Function B - High Efficiency Green
+K LED 7 SEGMENTS
+F display/MAN3640A.pdf
+$ENDCMP
+#
+$CMP MAN3440A
+D LED 7 segments - Function D - High Efficiency Green
+K LED 7 SEGMENTS
+F display/MAN3640A.pdf
+$ENDCMP
+#
+$CMP MAN3610A
+D LED 7 segments - Function A - Orange
+K LED 7 SEGMENTS
+F display/MAN3640A.pdf
+$ENDCMP
+#
+$CMP MAN3620A
+D LED 7 segments - Function B - Orange
+K LED 7 SEGMENTS
+F display/MAN3640A.pdf
+$ENDCMP
+#
+$CMP MAN3640A
+D LED 7 segments - Function D - Orange
+K LED 7 SEGMENTS
+F display/MAN3640A.pdf
+$ENDCMP
+#
+$CMP MAN3810A
+D LED 7 segments - Function A - Yellow
+K LED 7 SEGMENTS
+F display/MAN3640A.pdf
+$ENDCMP
+#
+$CMP MAN3820A
+D LED 7 segments - Function B - Yellow
+K LED 7 SEGMENTS
+F display/MAN3640A.pdf
+$ENDCMP
+#
+$CMP MAN3840A
+D LED 7 segments - Function D - Yellow
+K LED 7 SEGMENTS
+F display/MAN3640A.pdf
+$ENDCMP
+#
+$CMP MAN71A
+D LED 7 segments - Function A - Red
+K LED 7 SEGMENTS
+F display/MAN3640A.pdf
+$ENDCMP
+#
+$CMP MAN72A
+D LED 7 segments - Function B - Red
+K LED 7 SEGMENTS
+F display/MAN3640A.pdf
+$ENDCMP
+#
+$CMP MAN74A
+D LED 7 segments - Function D - Red
+K LED 7 SEGMENTS
+F display/MAN3640A.pdf
+$ENDCMP
+#
+$CMP PG12864F
+D Powertip PG12864-F Graphic LCD Module
+$ENDCMP
+#
+#End Doc Library

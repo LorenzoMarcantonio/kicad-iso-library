@@ -1,0 +1,107 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BL02RN2
+D Leaded Ferrite Bead
+$ENDCMP
+#
+$CMP BLA2
+D Chip Ferrite Bead, 4-lines Array, 0804 size
+$ENDCMP
+#
+$CMP BLM18PG600SN1
+D Chip Ferrite Bead 0603 size for Power Lines, 60 ohm
+$ENDCMP
+#
+$CMP CHOKE
+D Common Mode Choke
+$ENDCMP
+#
+$CMP EMI-DECOUPLER
+D EMI Decoupling Network
+$ENDCMP
+#
+$CMP EMI-FILTER
+D EMI Filter, Generic
+$ENDCMP
+#
+$CMP EMI-FILTER-DIFF
+D EMI Filter, Differential Signal
+$ENDCMP
+#
+$CMP FERRITE
+D Ferrite Bead
+$ENDCMP
+#
+$CMP L
+D Inductor, Generic or Air Cored
+$ENDCMP
+#
+$CMP L-CORE
+D Inductor, Magnetic Core
+$ENDCMP
+#
+$CMP LVAR
+D Inductor, Variable
+$ENDCMP
+#
+$CMP TRANSF-0-0
+D Transformer
+$ENDCMP
+#
+$CMP TRANSF-0-0-AIR
+D Transformer, Air Core
+$ENDCMP
+#
+$CMP TRANSF-0-0-SHIELD
+D Transformer, Shielded
+$ENDCMP
+#
+$CMP TRANSF-0-0-STEPUP
+D Transformer, Step-up
+$ENDCMP
+#
+$CMP TRANSF-0-0-VAR
+D Transformer, Variable
+$ENDCMP
+#
+$CMP TRANSF-0-00
+D Transformer, Dual Sec.
+$ENDCMP
+#
+$CMP TRANSF-0-1
+D Transformer, Tapped Sec.
+$ENDCMP
+#
+$CMP TRANSF-1-00
+D Transformer, Tapped Pri., Dual Sec.
+$ENDCMP
+#
+$CMP TRANSF-1-1
+D Transformer, Tapped Pri., Tapped Sec.
+$ENDCMP
+#
+$CMP TRANSF-1-11
+D Transformer, Tapper Pri., Dual Tapped Sec.
+$ENDCMP
+#
+$CMP TRANSF-EI60-1-7:9+10-12+13
+D Transformer EI60 core, Pri. 1-7, Sec. 9+10-12+13
+$ENDCMP
+#
+$CMP TRANSF-EI60-1-7:9-13
+D Transformer EI60 core, Pri. 1-7, Sec. 9-13
+$ENDCMP
+#
+$CMP TRANSF-I-METER
+D Transformer, Current Metering
+$ENDCMP
+#
+$CMP TRANSF-V-METER
+D Transformer, Voltage Metering
+$ENDCMP
+#
+$CMP TRANSF-X-1
+D Autotransformer, 1-tap
+$ENDCMP
+#
+#End Doc Library

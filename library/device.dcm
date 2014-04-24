@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FIDUCIAL
+D Fiducial Mark
+$ENDCMP
+#
+$CMP HEATSINK
+D Heat sink
+$ENDCMP
+#
+$CMP HOLE
+D Mechanical Hole
+$ENDCMP
+#
+$CMP HOLE_NOPAD
+D Mechanical Hole (no pad)
+$ENDCMP
+#
+$CMP JUMPER-2
+D Jumper Block, 2 units
+$ENDCMP
+#
+$CMP JUMPER-3
+D Jumper Block, 3 units
+$ENDCMP
+#
+$CMP JUMPER-4
+D Jumper Block, 4 units
+$ENDCMP
+#
+$CMP JUMPER-5
+D Jumper Block, 5 units
+$ENDCMP
+#
+$CMP JUMPER-6
+D Jumper Block, 6 units
+$ENDCMP
+#
+$CMP JUMPER-7
+D Jumper Block, 7 units
+$ENDCMP
+#
+$CMP JUMPER-8
+D Jumper Block, 3 units
+$ENDCMP
+#
+$CMP PIEZO_XCEIVER
+D Piezoeletric Transceiver
+$ENDCMP
+#
+$CMP RSM200S-32.768-12.5-T
+D Surface Mount Tuning Fork Crystal Unit
+$ENDCMP
+#
+$CMP THERMOCOUPLE
+D Thermocouple
+$ENDCMP
+#
+$CMP THERMOCOUPLE_GND
+D Thermocouple, Grounded Joint
+$ENDCMP
+#
+#End Doc Library

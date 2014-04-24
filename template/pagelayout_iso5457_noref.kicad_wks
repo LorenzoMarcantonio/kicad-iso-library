@@ -1,0 +1,51 @@
+(page_layout
+  (setup 
+    (textsize 3.5 3.5) 
+    (linewidth 0.35) 
+    (textlinewidth 0.35)
+    (left_margin 20) 
+    (right_margin 10) 
+    (top_margin 10)
+    (bottom_margin 10))
+
+# Drawing area
+    (rect (linewidth 0.7) 
+      (start 0 0 ltcorner) (end 0 0 rbcorner))
+
+# Title block frame
+    (line (start 180 0) (end 180 40))
+    (line (start 180 40) (end 0 40))
+
+# Bottom line
+    (line (start 180 10) (end 0 10))
+    (tbtext "Sheet" (pos 13 7.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "%S/%N" (pos 13 3.2) (justify left))
+    (line (start 15 0) (end 15 10))
+    (tbtext "Size" (pos 28 7.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "%Z" (pos 28 3.2) (justify left))
+    (line (start 30 0) (end 30 10))
+    (tbtext "Revision" (pos 58 7.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "%R" (pos 58 3.2) (justify left))
+    (line (start 60 0) (end 60 10))
+    (tbtext "Issue Date" (pos 88 7.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "%D" (pos 88 3.2) (justify left))
+    (line (start 90 0) (end 90 10))
+    (tbtext "Scale" (pos 103 7.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "1:1" (pos 103 3.2) (justify left))
+    (line (start 105 0) (end 105 10))
+    (tbtext "Filename" (pos 178 7.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "%F" (pos 178 3.2) (justify left))
+
+# Owner block
+    (line (start 120 20) (end 0 20))
+    (line (start 120 10) (end 120 40))
+    (tbtext "%Y" (pos 178 33.2) (justify left))
+
+# Title, path, subtitles (comments). C0 is the subtitle
+    (tbtext "Title" (pos 118 37.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "%T" (pos 118 33.2) (justify left))
+    (tbtext "%P" (pos 118 27.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "%C0" (pos 118 23.2) (justify left))
+    (tbtext "Reference" (pos 118 17.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "%C1" (pos 118 13.2) (justify left))
+)

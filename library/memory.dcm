@@ -1,0 +1,322 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2130
+D biPort RAM (1Ko)
+K RAM BiPort 1KO
+$ENDCMP
+#
+$CMP 23A1024
+D 1Mbit SPI Serial SRAM with SDI and SQI Interface
+$ENDCMP
+#
+$CMP 24C16
+D Serial EEPROM
+K EEPROM Serial
+$ENDCMP
+#
+$CMP 27128
+D REPROM 128KO
+K REPROM 128KO
+$ENDCMP
+#
+$CMP 2716
+D REPROM 2KO
+K REPTOM 2KO
+$ENDCMP
+#
+$CMP 27256
+D REPROM 32 KO
+K REPROM 32KO
+$ENDCMP
+#
+$CMP 2732
+D REPROM 4 Ko
+K REPROM 4KO
+$ENDCMP
+#
+$CMP 27512
+D REPROM 64 Ko
+K REPROM 64KO
+$ENDCMP
+#
+$CMP 2764
+D REPROM 8Ko
+K REPROM 8KO
+$ENDCMP
+#
+$CMP 27C010
+D REPROM 128K x  8 bits (32 pins DIP or PLCC)
+K REPROM 128KO
+F memory/27c010.pdf
+$ENDCMP
+#
+$CMP 27C020
+D REPROM 256K x  8 bits (32 pins DIP or PLCC)
+K REPROM 256KO
+F memory/27c020.pdf
+$ENDCMP
+#
+$CMP 27C040
+D REPROM 512 K x  8 bits (32 pins DIP or PLCC)
+K REPROM 512KO
+F memory/27c040.pdf
+$ENDCMP
+#
+$CMP 27C080
+D REPROM 1024 K x  8 bits (32 pins DIP or PLCC)
+K REPROM 1M x 8 bits
+F memory/27c080.pdf
+$ENDCMP
+#
+$CMP 27C128
+D REPROM 128KO
+K REPROM 128KO
+$ENDCMP
+#
+$CMP 27C256
+D REPROM 32 KO
+K REPROM 32KO
+$ENDCMP
+#
+$CMP 27C512
+D REPROM 64 Ko
+K REPROM 64KO
+$ENDCMP
+#
+$CMP 27C512PLCC
+D REPROM 64 Ko Plcc
+K REPROM 64KO CMS
+$ENDCMP
+#
+$CMP 27C64
+D REPROM 8Ko
+K REPROM 8KO
+$ENDCMP
+#
+$CMP 28C256
+D EEROM 32Kx8bits
+K EEROM ROM
+F memory/28c256.pdf
+$ENDCMP
+#
+$CMP 29W040
+D Flash EEProm 512PP (TSOP 32) 3,3V
+K EEPROM FLASH 512KO
+$ENDCMP
+#
+$CMP 628128
+D RAM 128 Ko
+K RAM 128KO
+$ENDCMP
+#
+$CMP CY7C185-15
+D 8K x 8 Static RAM - 15ns
+K STATIC RAM
+F cypress/cy7c185.pdf
+$ENDCMP
+#
+$CMP CY7C185-20
+D 8K x 8 Static RAM - 20ns
+K STATIC RAM
+F cypress/cy7c185.pdf
+$ENDCMP
+#
+$CMP CY7C185-25
+D 8K x 8 Static RAM - 25ns
+K STATIC RAM
+F cypress/cy7c185.pdf
+$ENDCMP
+#
+$CMP CY7C185-35
+D 8K x 8 Static RAM - 35ns
+K STATIC RAM
+F cypress/cy7c185.pdf
+$ENDCMP
+#
+$CMP CY7C186-20
+D 8K x 8 Static RAM - 20ns
+K STATIC RAM
+F cypress/cy7c186.pdf
+$ENDCMP
+#
+$CMP CY7C186-25
+D 8K x 8 Static RAM - 25ns
+K STATIC RAM
+F cypress/cy7c186.pdf
+$ENDCMP
+#
+$CMP CY7C186-35
+D 8K x 8 Static RAM - 35ns
+K STATIC RAM
+F cypress/cy7c186.pdf
+$ENDCMP
+#
+$CMP CY7C194-12
+D 64K x 4 Static RAM - 12ns
+K STATIC RAM
+F cypress/cy7c194.pdf
+$ENDCMP
+#
+$CMP CY7C194-15
+D 64K x 4 Static RAM - 15ns
+K STATIC RAM
+F cypress/cy7c194.pdf
+$ENDCMP
+#
+$CMP CY7C194-25
+D 64K x 4 Static RAM - 25ns
+K STATIC RAM
+F cypress/cy7c194.pdf
+$ENDCMP
+#
+$CMP CY7C194-35
+D 64K x 4 Static RAM - 35ns
+K STATIC RAM
+F cypress/cy7c194.pdf
+$ENDCMP
+#
+$CMP CY7C194-45
+D 64K x 4 Static RAM - 45ns
+K STATIC RAM
+F cypress/cy7c194.pdf
+$ENDCMP
+#
+$CMP CY7C195-12
+D 64K x 4 Static RAM - 12ns
+K STATIC RAM
+F cypress/cy7c194.pdf
+$ENDCMP
+#
+$CMP CY7C195-15
+D 64K x 4 Static RAM - 15ns
+K STATIC RAM
+F cypress/cy7c194.pdf
+$ENDCMP
+#
+$CMP CY7C195-20
+D 64K x 4 Static RAM - 20ns
+K STATIC RAM
+F cypress/cy7c194.pdf
+$ENDCMP
+#
+$CMP CY7C195-25
+D 64K x 4 Static RAM - 25ns
+K STATIC RAM
+F cypress/cy7c194.pdf
+$ENDCMP
+#
+$CMP CY7C195-35
+D 64K x 4 Static RAM - 35ns
+K STATIC RAM
+F cypress/cy7c194.pdf
+$ENDCMP
+#
+$CMP CY7C196-12
+D 64K x 4 Static RAM - 12ns
+K STATIC RAM
+F cypress/cy7c194.pdf
+$ENDCMP
+#
+$CMP CY7C196-15
+D 64K x 4 Static RAM - 15ns
+K STATIC RAM
+F cypress/cy7c194.pdf
+$ENDCMP
+#
+$CMP CY7C196-25
+D 64K x 4 Static RAM - 25ns
+K STATIC RAM
+F cypress/cy7c194.pdf
+$ENDCMP
+#
+$CMP CY7C196-35
+D 64K x 4 Static RAM - 35ns
+K STATIC RAM
+F cypress/cy7c194.pdf
+$ENDCMP
+#
+$CMP CY7C196-45
+D 64K x 4 Static RAM - 45ns
+K STATIC RAM
+F cypress/cy7c194.pdf
+$ENDCMP
+#
+$CMP CY7C199-10
+D 32K x 8 static RAM - 10ns
+K STATIC RAM
+F cypress/cy7c199.pdf
+$ENDCMP
+#
+$CMP CY7C199-12
+D 32K x 8 static RAM - 12ns
+K STATIC RAM
+F cypress/cy7c199.pdf
+$ENDCMP
+#
+$CMP CY7C199-15
+D 32K x 8 static RAM - 15ns
+K STATIC RAM
+F cypress/cy7c199.pdf
+$ENDCMP
+#
+$CMP CY7C199-20
+D 32K x 8 static RAM - 20ns
+K STATIC RAM
+F cypress/cy7c199.pdf
+$ENDCMP
+#
+$CMP CY7C199-25
+D 32K x 8 static RAM - 25ns
+K STATIC RAM
+F cypress/cy7c199.pdf
+$ENDCMP
+#
+$CMP CY7C199-35
+D 32K x 8 static RAM - 35ns
+K STATIC RAM
+F cypress/cy7c199.pdf
+$ENDCMP
+#
+$CMP CY7C199-45
+D 32K x 8 static RAM - 45ns
+K STATIC RAM
+F cypress/cy7c199.pdf
+$ENDCMP
+#
+$CMP CY7C199-8
+D 32K x 8 static RAM - 8ns
+K STATIC RAM
+F cypress/cy7c199.pdf
+$ENDCMP
+#
+$CMP DRAM_1MX16_SOJ
+D DRAM 16 MBits (1M x 16bits)
+K DRAM 2MO
+$ENDCMP
+#
+$CMP M29W004
+D Flash EEProm 512Ko (TSOP 40 pack.) 3,3V
+K EEPROM FLASH 512KO
+$ENDCMP
+#
+$CMP M29W008
+D Flash EEProm 1MO (TSOP 40 pack.) 3,3V
+K EEPROM FLASH 1MO
+$ENDCMP
+#
+$CMP MS628128
+D SRAM 128K x 8 bits
+K RAM SRAM
+$ENDCMP
+#
+$CMP SIM4X32
+D Barrette SIMM 4Mo (1M x 32bits)
+K DRAM 4MO
+$ENDCMP
+#
+$CMP SIMM
+D Barrette SIMM 1 Mo ( 1M x 9 bits)
+K DRAM 1MO
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,105 @@
+EESchema-DOCLIB  Version 2.0  Date: mar 02 giu 2009 11:08:23 CEST
+#
+$CMP ADG308
+D Quad SPST analog switch
+K ANALOG SWITCH
+F analog_mux&switches/dg308.pdf
+$ENDCMP
+#
+$CMP ADG309
+D Quad SPST analog switch
+K ANALOG SWITCH
+F analog_mux&switches/dg308.pdf
+$ENDCMP
+#
+$CMP ADG417
+D SPST analog switch
+K ANALOG SWITCH
+F analog_mux&switches/DG417-DG419.pdf
+$ENDCMP
+#
+$CMP ADG418
+D SPST analog switch
+K ANALOG SWITCH
+F analog_mux&switches/DG417-DG419.pdf
+$ENDCMP
+#
+$CMP ADG441
+D Quad SPST analog switch
+K ANALOG SWITCH
+F analog_mux&switches/dg308.pdf
+$ENDCMP
+#
+$CMP ADG442
+D Quad SPST analog switch
+K ANALOG SWITCH
+F analog_mux&switches/dg308.pdf
+$ENDCMP
+#
+$CMP ADG9421
+D SPST analog switch 
+K ANALOG SWITCH
+F analog_mux&switches/dg9421-22.pdf
+$ENDCMP
+#
+$CMP ADG9422
+D SPST analog switch 
+K ANALOG SWITCH
+F analog_mux&switches/dg9421-22.pdf
+$ENDCMP
+#
+$CMP DG308
+D Quad SPST analog switch
+K ANALOG SWITCH
+F analog_mux&switches/dg308.pdf
+$ENDCMP
+#
+$CMP DG309
+D Quad SPST analog switch
+K ANALOG SWITCH
+F analog_mux&switches/dg308.pdf
+$ENDCMP
+#
+$CMP DG417
+D SPST analog switch
+K ANALOG SWITCH
+F analog_mux&switches/DG417-DG419.pdf
+$ENDCMP
+#
+$CMP DG418
+D SPST analog switch
+K ANALOG SWITCH
+F analog_mux&switches/DG417-DG419.pdf
+$ENDCMP
+#
+$CMP DG419
+D SPDT analog switch
+K ANALOG SWITCH
+F analog_mux&switches/DG417-DG419.pdf
+$ENDCMP
+#
+$CMP DG441
+D Quad SPST analog switch
+K ANALOG SWITCH
+F intersil/dg441_2.pdf
+$ENDCMP
+#
+$CMP DG442
+D Quad SPST analog switch
+K ANALOG SWITCH
+F intersil/dg441_2.pdf
+$ENDCMP
+#
+$CMP DG9421
+D SPST analog switch 
+K ANALOG SWITCH
+F analog_mux&switches/dg9421-22.pdf
+$ENDCMP
+#
+$CMP DG9422
+D SPST analog switch 
+K ANALOG SWITCH
+F analog_mux&switches/dg9421-22.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATMEGA1281
+D 8-bit AVR Microcontroller with 128K bytes In-System Programmable Flash
+$ENDCMP
+#
+$CMP ATMEGA2561
+D 8-bit AVR Microcontroller with 256K bytes In-System Programmable Flash
+$ENDCMP
+#
+#End Doc Library

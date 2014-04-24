@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP2515_20PIN
+D Stand-alone CAN Controller with SPI Interface
+$ENDCMP
+#
+$CMP SN65HVD230
+D 3.3V CAN Transceiver with Standby
+K CAN TRANSCEIVER
+$ENDCMP
+#
+$CMP SN65HVD231
+D 3.3V CAN Transceiver with Sleep
+K CAN TRANSCEIVER
+$ENDCMP
+#
+$CMP SN65HVD232
+D Economy 3.3V CAN Transceiver
+K CAN TRANSCEIVER
+$ENDCMP
+#
+$CMP SN65HVD233
+D 3.3V CAN Transceiver with Loopback
+K CAN TRANSCEIVER
+$ENDCMP
+#
+$CMP SN65HVD234
+D 3.3V CAN Transceiver with Sleep
+K CAN TRANSCEIVER
+$ENDCMP
+#
+$CMP SN65HVD235
+D 3.3V CAN Transceiver with Autobaud
+K CAN TRANSCEIVER
+$ENDCMP
+#
+$CMP SN65HVDA540
+D 5V CAN Transceiver with I/O Level Shifting
+K CAN TRANSCEIVER
+$ENDCMP
+#
+$CMP SN65HVDA541
+D 5V CAN Transceiver with I/O Level Shifting and Low Power Mode Supply Optimization
+K CAN TRANSCEIVER
+$ENDCMP
+#
+$CMP TJA1041A
+D High-speed CAN Transceiver
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0  Date: mar 24 mag 2011 08:48:42 CEST
+#
+$CMP FDC6330L
+D Integrated Load Switch
+$ENDCMP
+#
+$CMP LTC4365_TSOT8
+D UV, OV and Reverse Supply Protection Controller
+$ENDCMP
+#
+$CMP LTC4412
+D Low Loss PowerPath Controller in ThinSOT
+$ENDCMP
+#
+$CMP MIC2026-1
+D 0.5A Dual-Channel Power Distribution Switch
+$ENDCMP
+#
+$CMP MIC2026-2
+D 0.5A Dual-Channel Power Distribution Switch
+$ENDCMP
+#
+$CMP MIC2076-1
+D 1A Dual-Channel Power Distribution Switch
+$ENDCMP
+#
+$CMP MIC2076-2
+D 1A Dual-Channel Power Distribution Switch
+$ENDCMP
+#
+#End Doc Library

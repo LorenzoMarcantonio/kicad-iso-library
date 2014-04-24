@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0  Date: gio 28 mag 2009 19:19:52 CEST
+#
+$CMP 16C754
+D Quad UART with 64-byte FIFO
+K QUAD UART
+F texas/tl16c754b.pdf
+$ENDCMP
+#
+$CMP 16C754B
+D Quad UART with 64-byte FIFO
+K QUAD UART
+F texas/tl16c754b.pdf
+$ENDCMP
+#
+$CMP TL16C754
+D Quad UART with 64-byte FIFO
+K QUAD UART
+F texas/tl16c754b.pdf
+$ENDCMP
+#
+$CMP TL16C754B
+D Quad UART with 64-byte FIFO
+K QUAD UART
+F texas/tl16c754b.pdf
+$ENDCMP
+#
+#End Doc Library

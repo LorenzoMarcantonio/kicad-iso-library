@@ -1,0 +1,402 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7400
+D Quad 2-input NAND gate
+K NAND
+$ENDCMP
+#
+$CMP 7402
+D Quad 2-input NOR gate
+K NOR
+$ENDCMP
+#
+$CMP 7404
+D Hex Inverter
+K INVERTER
+$ENDCMP
+#
+$CMP 7408
+D Quad 2-input AND gate
+K AND
+$ENDCMP
+#
+$CMP 7410
+D Triple 3-input NAND gate
+K NAND
+$ENDCMP
+#
+$CMP 7411
+D Triple 3-input AND gate
+K AND
+$ENDCMP
+#
+$CMP 74123
+D Dual Retriggerable Monostable Multivibrator with Clear
+K MONOSTABLE
+$ENDCMP
+#
+$CMP 74125
+D Quad Bus Buffer with Negative Enable (3-state)
+K BUFFER
+$ENDCMP
+#
+$CMP 74126
+D Quad Bus Buffer with Positive Enable (3-state)
+K BUFFER
+$ENDCMP
+#
+$CMP 74132
+D Quad 2-input NAND Schmitt trigger
+K NAND
+$ENDCMP
+#
+$CMP 74133
+D 13-Input NAND Gate
+K NAND
+$ENDCMP
+#
+$CMP 74136
+D Quad 2-Input XOR gate (OC)
+K XOR
+$ENDCMP
+#
+$CMP 7414
+D Hex Schmitt Trigger Inverter
+K INVERTER
+$ENDCMP
+#
+$CMP 74151
+D 8-Line to 1-Line Data Selector/Multiplexer
+K SELECTOR MULTIPLEXER
+$ENDCMP
+#
+$CMP 74153
+D Dual 4-Line to 1-Line Data Selector/Multiplexer
+K SELECTOR MULTIPLEXER
+$ENDCMP
+#
+$CMP 74157
+D Quad 2-Line to 1-Line Data Selector/Multiplexer, Noninverting
+K SELECTOR MULTIPLEXER
+$ENDCMP
+#
+$CMP 74158
+D Quad 2-Line to 1-Line Data Selector/Multiplexer, Inverting
+K SELECTOR MULTIPLEXER
+$ENDCMP
+#
+$CMP 74161
+D Synchronous 4-bit Binary Counter with Asynchronous Clear
+K BINARY COUNTER
+$ENDCMP
+#
+$CMP 74163
+D Synchronous 4-bit Binary Counter with Synchronous Clear
+K BINARY COUNTER
+$ENDCMP
+#
+$CMP 74165
+D 8-bit Serial Shift Register, Parallel Load, Complementary Outputs
+K SHIFT REGISTER
+$ENDCMP
+#
+$CMP 74166
+D Parallel-Load 8-Bit Shift Register
+K SHIFT REGISTER
+$ENDCMP
+#
+$CMP 74169
+D Synchronous 4-Bit Up/Down Binary Counter
+K BINARY COUNTER
+$ENDCMP
+#
+$CMP 74175
+D Quad D Edge-Triggered Flip-Flop with Complementary Outputs and Asynchronous Clear
+K FLIPFLOP
+$ENDCMP
+#
+$CMP 74190
+D Synchronous Up/Down Decade Counter
+K DECADE COUNTER
+$ENDCMP
+#
+$CMP 74191
+D Synchronous Up/Down Binary Counter
+K BINARY COUNTER
+$ENDCMP
+#
+$CMP 74192
+D Synchronous Up/Down Decade Counter with Clear
+K DECADE COUNTER
+$ENDCMP
+#
+$CMP 74193
+D Synchronous Up/Down Binary Counter with Clear
+K BINARY COUNTER
+$ENDCMP
+#
+$CMP 74194
+D 4-bit Bidirectional Universal Shift Register
+K SHIFT REGISTER
+$ENDCMP
+#
+$CMP 74195
+D 4-bit Parallel-Access Shift Register
+K SHIFT REGISTER
+$ENDCMP
+#
+$CMP 7420
+D Dual 4-input NAND Gate
+K NAND
+$ENDCMP
+#
+$CMP 7421
+D Dual 4-input AND gate
+K AND
+$ENDCMP
+#
+$CMP 74221
+D Dual Monostable Multivibrator with Schmitt trigger input
+K MONOSTABLE
+$ENDCMP
+#
+$CMP 74240
+D Octal Buffer with Inverted outputs (3-state)
+K BUFFER
+$ENDCMP
+#
+$CMP 74241
+D Octal Buffer with Noninverted outputs (3-state)
+K BUFFER
+$ENDCMP
+#
+$CMP 74243
+D Quad Bus Transceiver with Noninverted outputs (3-state)
+K TRANSCEIVER
+$ENDCMP
+#
+$CMP 74244
+D Octal Buffer with Noninverted three-state outputs
+K BUFFER
+$ENDCMP
+#
+$CMP 74245
+D Octal transceiver (3-state)
+K TRANSCEIVER
+$ENDCMP
+#
+$CMP 74251
+D 8-line to 1-line Data Selector/Multiplexer (3-state)
+K SELECTOR MULTIPLEXER
+$ENDCMP
+#
+$CMP 74253
+D Dual 4-line to 1-line Data Selector/Multiplexer (3-state)
+K SELECTOR MULTIPLEXER
+$ENDCMP
+#
+$CMP 74257
+D Quad 2-line to 1-line Data Selector/Multiplexer with Noninverted  outputs (3-state)
+K SELECTOR MULTIPLEXER
+$ENDCMP
+#
+$CMP 74258
+D Quad 2-line to 1-line Data Selector/Multiplexer with Inverted outputs (3-state)
+K SELECTOR MULTIPLEXER
+$ENDCMP
+#
+$CMP 74259
+D 8-bit Addressable Latch
+K LATCH
+$ENDCMP
+#
+$CMP 7427
+D Triple 3-input NOR Gate
+K NOR
+$ENDCMP
+#
+$CMP 74273
+D 8-bit Register with Reset
+K REGISTER
+$ENDCMP
+#
+$CMP 74280
+D 9-bit Odd/Even Parity Generator/Checker
+$ENDCMP
+#
+$CMP 74283
+D 4-bit Binary Full adder
+K ADDER
+$ENDCMP
+#
+$CMP 74293
+D 4-bit Binary Counter (separate divide-by-2 and divide-by-8 sections)
+K BINARY COUNTER
+$ENDCMP
+#
+$CMP 74295
+D 4-Bit Bidirectional Register (3-state)
+K REGISTER
+$ENDCMP
+#
+$CMP 74298
+D Quad 2-Input Multiplexer with Storage
+K MULTIPLEXER
+$ENDCMP
+#
+$CMP 74299
+D 8-Bit Bidirectional Universal Shift/Storage Register (3-state)
+K SHIFT REGISTER
+$ENDCMP
+#
+$CMP 7430
+D 8-input NAND Gate
+K NAND
+$ENDCMP
+#
+$CMP 7432
+D Quad 2-input OR Gate
+K OR
+$ENDCMP
+#
+$CMP 7433
+D Quad 2-input NOR Buffer (OC)
+K NOR
+$ENDCMP
+#
+$CMP 74367
+D Hex Buffer with Noninverted outputs (3-state)
+K BUFFER
+$ENDCMP
+#
+$CMP 74368
+D Hex Buffer with Inverted outputs (3-state)
+K BUFFER
+$ENDCMP
+#
+$CMP 74373
+D Octal Transparent Latch (3-state)
+K LATCH
+$ENDCMP
+#
+$CMP 74374
+D Octal Register
+K REGISTER
+$ENDCMP
+#
+$CMP 74375
+D Quad Bistable Latch
+K LATCH
+$ENDCMP
+#
+$CMP 74377
+D 8-bit Register with Clock Enable
+K REGISTER
+$ENDCMP
+#
+$CMP 74390
+D Dual 4-bit Decade Counter
+K DECADE COUNTER
+$ENDCMP
+#
+$CMP 74393
+D Dual 4-bit Binary Counter
+K BINARY COUNTER
+$ENDCMP
+#
+$CMP 7442
+D BCD to Decimal Decoder
+K BCD DECIMAL DECODER
+$ENDCMP
+#
+$CMP 74540
+D Inverting Octal Buffer (3-state)
+K BUFFER
+$ENDCMP
+#
+$CMP 74541
+D Non-inverting Octal Buffer (3-state)
+K BUFFER
+$ENDCMP
+#
+$CMP 74573
+D Octal D-Type Transparent Latch (3-state)
+K LATCH
+$ENDCMP
+#
+$CMP 74574
+D Octal D-Type Edge-Triggered Flip-flop (3-state)
+K FLIPFLOP
+$ENDCMP
+#
+$CMP 74688
+D 8-bit Magnitude Comparator
+K COMPARATOR
+$ENDCMP
+#
+$CMP 7473
+D Dual J-K Flip-Flop with Clear
+K FLIPFLOP
+$ENDCMP
+#
+$CMP 7474
+D Dual D Positive Edge Triggered Flip-Flop with Preset and Clear
+K FLIPFLOP
+$ENDCMP
+#
+$CMP 7475
+D 4-bit Bistable Latch
+K LATCH
+$ENDCMP
+#
+$CMP 7485
+D 4-bit Magnitude Comparator
+K COMPARATOR
+$ENDCMP
+#
+$CMP 7486
+D Quad 2-input XOR gate
+K XOR
+$ENDCMP
+#
+$CMP 7493
+D 4-bit Binary Counter (separate Divide-by-2 and Divide-by-8 sections)
+K BINARY COUNTER
+$ENDCMP
+#
+$CMP 74HC00
+D Quad 2-input NAND gate
+K NAND
+$ENDCMP
+#
+$CMP 74HC08
+D Quad 2-input AND gate
+K AND
+$ENDCMP
+#
+$CMP 74HCT08
+D Quad 2-input AND gate
+K AND
+$ENDCMP
+#
+$CMP 74LVC08
+D Quad 2-input AND gate
+K AND
+$ENDCMP
+#
+$CMP 74LVC4245A
+D Octal Bus Transceiver and 3.3V to 5V Shifter with 3-state Outputs
+K TRANSCEIVER
+$ENDCMP
+#
+$CMP 74LVX3245
+D 8-bin Dual Supply Translating Transceiver with 3-state Outputs
+K TRANSCEIVER
+$ENDCMP
+#
+$CMP NC7S08
+D TinlyLogic HS 2-Input AND Gate
+K AND
+$ENDCMP
+#
+#End Doc Library

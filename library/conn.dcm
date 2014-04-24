@@ -1,0 +1,126 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BNC
+D BNC Connector
+K BNC
+$ENDCMP
+#
+$CMP BUSAT
+D 16-bit ISA bus
+K ISA
+$ENDCMP
+#
+$CMP BUSPC
+D 8-bit ISA BUS
+K ISA
+$ENDCMP
+#
+$CMP C64AB
+D Eurocard, A and B rows
+K EUROCARD
+$ENDCMP
+#
+$CMP C64AC
+D Eurocard, A and C rows
+K EUROCARD
+$ENDCMP
+#
+$CMP C96ABC
+D Eurocard, rows A, B and C
+K EUROCARD
+$ENDCMP
+#
+$CMP DIN-4
+D Stereo DIN connector
+K DIN
+$ENDCMP
+#
+$CMP DIN-5
+D Stereo DIN connector
+K DIN
+$ENDCMP
+#
+$CMP DIN-6
+D Stereo DIN connector
+K DIN
+$ENDCMP
+#
+$CMP DIN-7
+D Stereo DIN connector
+K DIN
+$ENDCMP
+#
+$CMP DIN-8
+D Stereo DIN connector
+K DIN
+$ENDCMP
+#
+$CMP I3E1394
+D IEEE1394 (Firewire) Connector
+K IEEE1394 FIREWIRE
+$ENDCMP
+#
+$CMP SCART-F
+D SCART Connector
+K SCART
+$ENDCMP
+#
+$CMP SDCARD_SD
+D SD Card Connector, SD mode
+$ENDCMP
+#
+$CMP SDCARD_SPI
+D SD Card Connector, SPI mode
+$ENDCMP
+#
+$CMP XLR3-F
+D XLR 3 pins
+K XLR
+$ENDCMP
+#
+$CMP XLR3-M
+D XLR 3 pins
+K XLR
+$ENDCMP
+#
+$CMP XLR4-F
+D XLR 4 pins
+K XLR
+$ENDCMP
+#
+$CMP XLR4-M
+D XLR 4 pins
+K XLR
+$ENDCMP
+#
+$CMP XLR5-F
+D XLR 5 pins
+K XLR
+$ENDCMP
+#
+$CMP XLR5-M
+D XLR 5 pins
+K XLR
+$ENDCMP
+#
+$CMP XLR6A-F
+D XLR 5 pins
+K XLR
+$ENDCMP
+#
+$CMP XLR6A-M
+D XLR 5 pins
+K XLR
+$ENDCMP
+#
+$CMP XLR7-F
+D XLR 5 pins
+K XLR
+$ENDCMP
+#
+$CMP XLR7-M
+D XLR 5 pins
+K XLR
+$ENDCMP
+#
+#End Doc Library

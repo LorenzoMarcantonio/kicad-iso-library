@@ -1,0 +1,231 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A2982SLW
+D Eight Source Drivers
+$ENDCMP
+#
+$CMP CP2103
+D Single-Chip USB to UART Bridge
+$ENDCMP
+#
+$CMP DS3695
+D Multipoint RS-485/RS-422 Transceiver
+$ENDCMP
+#
+$CMP DS3696
+D Multipoint RS-485/RS-422 Transceiver
+$ENDCMP
+#
+$CMP DS3697
+D Multipoint RS-485/RS-422 Transceiver
+$ENDCMP
+#
+$CMP EL7242C
+D Dual-Input High Speed Dual Channel Power Mosfet Driver
+$ENDCMP
+#
+$CMP EL7252C
+D Dual-Input High Speed Dual Channel Power Mosfet Driver
+$ENDCMP
+#
+$CMP FT232RL
+D FT232R USB UART IC
+$ENDCMP
+#
+$CMP ICL3232E
+D 3V to 5.5V Dual Channel RS-232 Line Driver/Receiver with 15kV ESD Protection
+$ENDCMP
+#
+$CMP IR2104
+D Half-Bridge Driver
+$ENDCMP
+#
+$CMP IR2110
+D High and Low Side Driver
+$ENDCMP
+#
+$CMP IR2110S
+D High and Low Side Driver
+$ENDCMP
+#
+$CMP IR2113
+D High and Low Side Driver
+$ENDCMP
+#
+$CMP IR2113S
+D High and Low Side Driver
+$ENDCMP
+#
+$CMP IR4426
+D Dual Low Side Driver
+$ENDCMP
+#
+$CMP IR4426S
+D Dual Low Side Driver
+$ENDCMP
+#
+$CMP IR4427
+D Dual Low Side Driver
+$ENDCMP
+#
+$CMP IR4427S
+D Dual Low Side Driver
+$ENDCMP
+#
+$CMP IR4428
+D Dual Low Side Driver
+$ENDCMP
+#
+$CMP IR4428S
+D Dual Low Side Driver
+$ENDCMP
+#
+$CMP L6219
+D Stepper Motor Driver
+$ENDCMP
+#
+$CMP MAX202
+D RS232 Line Transceiver
+$ENDCMP
+#
+$CMP MAX220
+D RS232 Line Transceiver
+$ENDCMP
+#
+$CMP MAX232
+D RS232 Line Transceiver
+$ENDCMP
+#
+$CMP MAX232A
+D RS232 Line Transceiver
+$ENDCMP
+#
+$CMP MAX3221
+D 3V to 5.5V Single Channel RS-232 Line Driver/Receiver with 15kV ESD Protection
+$ENDCMP
+#
+$CMP MAX3226
+D 1uA 3.0-5.0V RS232 Line Transceiver
+$ENDCMP
+#
+$CMP MAX3227
+D 3V to 5.5V Dual Channel RS-232 Line Driver/Receiver
+$ENDCMP
+#
+$CMP MAX3227E
+D 3V to 5.5V Dual Channel RS-232 Line Driver/Receiver with 15kV ESD Protection
+$ENDCMP
+#
+$CMP MAX3311
+D 460kbps, 1uA RS232-Compatible Line Transceiver
+$ENDCMP
+#
+$CMP MAX3313
+D 460kbps, 1uA RS232-Compatible Line Transceiver
+$ENDCMP
+#
+$CMP MAX485
+D Low-Power, Slew-Rate-Limited RS-485/RS-422 Transceiver
+$ENDCMP
+#
+$CMP MC33290
+D ISO K Line Serial Link Interface
+$ENDCMP
+#
+$CMP MCP2200
+D USB 2.0 to UART Protocol Converter with GPIO
+$ENDCMP
+#
+$CMP SN65176B
+D Differential Bus Transceiver
+$ENDCMP
+#
+$CMP SN75176B
+D Differential Bus Transceiver
+$ENDCMP
+#
+$CMP UC1708-8pin
+D Dual Non-Inverting Power Driver
+$ENDCMP
+#
+$CMP UC2708-8pin
+D Dual Non-Inverting Power Driver
+$ENDCMP
+#
+$CMP UC3708-8PIN
+D Dual Non-Inverting Power Driver
+$ENDCMP
+#
+$CMP UDN2981A
+D Eight Source Drivers
+$ENDCMP
+#
+$CMP UDN2982A
+D Eight Source Drivers
+$ENDCMP
+#
+$CMP UDN2982LW
+D Eight Source Drivers
+$ENDCMP
+#
+$CMP UDN2983A
+D Eight Source Drivers
+$ENDCMP
+#
+$CMP ULN2003A
+D Seven Darlington Array
+$ENDCMP
+#
+$CMP ULN2003L
+D Seven Darlington Array
+$ENDCMP
+#
+$CMP ULN2004A
+D Seven Darlington Array
+$ENDCMP
+#
+$CMP ULN2004L
+D Seven Darlington Array
+$ENDCMP
+#
+$CMP ULN2023A
+D Seven Darlington Array
+$ENDCMP
+#
+$CMP ULN2023L
+D Seven Darlington Array
+$ENDCMP
+#
+$CMP ULN2024A
+D Seven Darlington Array
+$ENDCMP
+#
+$CMP ULN2024L
+D Seven Darlington Array
+$ENDCMP
+#
+$CMP ULN2801A
+D Eight Darlington Array
+$ENDCMP
+#
+$CMP ULN2802A
+D Eight Darlington Array
+$ENDCMP
+#
+$CMP ULN2803A
+D Eight Darlington Array
+$ENDCMP
+#
+$CMP ULN2804A
+D Eight Darlington Array
+$ENDCMP
+#
+$CMP ULN2805A
+D Eight Darlington Array
+$ENDCMP
+#
+$CMP USB2512
+D USB 2.0 Hi-Speed Hub Controller (2 ports)
+$ENDCMP
+#
+#End Doc Library

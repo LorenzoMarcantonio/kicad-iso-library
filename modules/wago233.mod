@@ -1,0 +1,258 @@
+PCBNEW-LibModule-V1  sab 17 ago 2013 22:34:35 CEST
+# encoding utf-8
+Units mm
+$INDEX
+WAGO-233-202
+WAGO-233-212
+$EndINDEX
+$MODULE WAGO-233-202
+Po 65 25 0 15 520F4C8E 00000000 ~~
+Li WAGO-233-202
+Cd Wago PCB Terminal Strip 2.5 mm pitch, Series 233, 2 poles
+Sc 0
+AR WAGO-233-202
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "WAGO-233-202"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "WAGO-233-202"
+DS -4.45 8.9 -4.45 -7.2 0.01 32
+DS -4.45 -7.2 3.85 -7.2 0.01 32
+DS 3.85 -7.2 3.85 8.9 0.01 32
+DS 3.85 8.9 -4.45 8.9 0.01 32
+DS -1.25 7.2 -1.85 8.4 0.12 21
+DS -1.85 8.4 -0.65 8.4 0.12 21
+DS -0.65 8.4 -1.25 7.2 0.12 21
+DS -2.2 7.2 -3.95 7.2 0.12 21
+DS -3.95 7.2 -3.95 -6.7 0.12 21
+DS -3.95 -6.7 3.35 -6.7 0.12 21
+DS 3.35 -6.7 3.35 7.2 0.12 21
+DS 3.35 7.2 -0.3 7.2 0.12 21
+DS -2.95 7.2 -3.95 6.2 0.12 30
+DS -3.95 7.2 3.35 7.2 0.12 30
+DS -3.95 -6.7 3.35 -6.7 0.12 30
+DS 3.35 -6.7 3.35 7.2 0.12 30
+DS -3.95 -6.7 -3.95 7.2 0.12 30
+$PAD
+Sh "1" R 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.25 2.5
+$EndPAD
+$PAD
+Sh "2" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.25 2.5
+$EndPAD
+$PAD
+Sh "1" R 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.25 -2.5
+$EndPAD
+$PAD
+Sh "2" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.25 -2.5
+$EndPAD
+$EndMODULE WAGO-233-202
+$MODULE WAGO-233-212
+Po 40 25 0 15 520F4D0F 00000000 ~P
+Li WAGO-233-212
+Cd Wago PCB Terminal Strip 2.5 mm pitch, Series 233, 12 poles
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "WAGO-233-212"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "WAGO-233-212"
+DS 15.55 8.9 -16.95 8.9 0.01 31
+DS -16.95 8.9 -16.95 -7.2 0.01 32
+DS -16.95 -7.2 15.55 -7.2 0.01 32
+DS 15.55 -7.2 15.55 8.9 0.01 32
+DS -13.75 7.2 -14.35 8.4 0.12 21
+DS -14.35 8.4 -13.15 8.4 0.12 21
+DS -13.15 8.4 -13.75 7.2 0.12 21
+DS -14.7 7.2 -16.45 7.2 0.12 21
+DS -16.45 7.2 -16.45 -6.7 0.12 21
+DS -16.45 -6.7 15.05 -6.7 0.12 21
+DS 15.05 -6.7 15.05 7.2 0.12 21
+DS 15.05 7.2 -12.8 7.2 0.12 21
+DS -15.45 7.2 -16.45 6.2 0.12 30
+DS 15.05 7.2 -16.45 7.2 0.12 30
+DS -16.45 -6.7 15.05 -6.7 0.12 30
+DS -16.45 -6.7 -16.45 7.2 0.12 30
+DS 15.05 -6.7 15.05 7.2 0.12 30
+$PAD
+Sh "1" R 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.75 2.5
+$EndPAD
+$PAD
+Sh "2" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.25 2.5
+$EndPAD
+$PAD
+Sh "3" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.75 2.5
+$EndPAD
+$PAD
+Sh "4" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.25 2.5
+$EndPAD
+$PAD
+Sh "5" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.75 2.5
+$EndPAD
+$PAD
+Sh "6" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.25 2.5
+$EndPAD
+$PAD
+Sh "7" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.25 2.5
+$EndPAD
+$PAD
+Sh "8" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.75 2.5
+$EndPAD
+$PAD
+Sh "9" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.25 2.5
+$EndPAD
+$PAD
+Sh "10" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.75 2.5
+$EndPAD
+$PAD
+Sh "11" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.25 2.5
+$EndPAD
+$PAD
+Sh "12" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.75 2.5
+$EndPAD
+$PAD
+Sh "1" R 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.75 -2.5
+$EndPAD
+$PAD
+Sh "2" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.25 -2.5
+$EndPAD
+$PAD
+Sh "3" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.75 -2.5
+$EndPAD
+$PAD
+Sh "4" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.25 -2.5
+$EndPAD
+$PAD
+Sh "5" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.75 -2.5
+$EndPAD
+$PAD
+Sh "6" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.25 -2.5
+$EndPAD
+$PAD
+Sh "7" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.25 -2.5
+$EndPAD
+$PAD
+Sh "8" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.75 -2.5
+$EndPAD
+$PAD
+Sh "9" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.25 -2.5
+$EndPAD
+$PAD
+Sh "10" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.75 -2.5
+$EndPAD
+$PAD
+Sh "11" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.25 -2.5
+$EndPAD
+$PAD
+Sh "12" C 1.9 1.9 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.75 -2.5
+$EndPAD
+$EndMODULE WAGO-233-212
+$EndLIBRARY

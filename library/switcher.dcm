@@ -1,0 +1,203 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ICL7660S
+D Super Voltage Converter
+$ENDCMP
+#
+$CMP ICL7662
+D CMOS Voltage Converters
+$ENDCMP
+#
+$CMP LM22674-5.0
+D 5V, 500mA Simple Switcher Step-Down Voltage Regulator with Precision Enable
+$ENDCMP
+#
+$CMP LM22674-ADJ
+D 500mA Simple Switcher Step-Down Voltage Regulator with Precision Enable
+$ENDCMP
+#
+$CMP LM22676-5.0_PSOP
+D 3A Simple Switcher Step-Down Voltage Regulator with Precision Enable
+$ENDCMP
+#
+$CMP LM22678-ADJ
+D 5A Simple Switcher Step-Down Voltage Regulator with Precision Enable
+$ENDCMP
+#
+$CMP LM25574
+D 42V 0.5A Step-Down Switching Regulator
+$ENDCMP
+#
+$CMP LM2574-12_14PIN
+D Simple Switcher 12V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574-12_8PIN
+D Simple Switcher 12V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574-15_14PIN
+D Simple Switcher 15V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574-15_8PIN
+D Simple Switcher 15V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574-3.3_14PIN
+D Simple Switcher 3.3V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574-3.3_8PIN
+D Simple Switcher 3.3V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574-5.0_14PIN
+D Simple Switcher 5V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574-5.0_8PIN
+D Simple Switcher 5V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574-ADJ_14PIN
+D Simple Switcher 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574-ADJ_8PIN
+D Simple Switcher 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574HV-12_14PIN
+D Simple Switcher 12V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574HV-12_8PIN
+D Simple Switcher 12V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574HV-15_14PIN
+D Simple Switcher 15V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574HV-15_8PIN
+D Simple Switcher 15V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574HV-3.3_14PIN
+D Simple Switcher 3.3V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574HV-3.3_8PIN
+D Simple Switcher 3.3V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574HV-5.0_14PIN
+D Simple Switcher 5V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574HV-5.0_8PIN
+D Simple Switcher 5V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574HV-ADJ_14PIN
+D Simple Switcher 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2574HV-ADJ_8PIN
+D Simple Switcher 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2594-12
+D Simple Switcher 150KHz 12V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2594-3.3
+D Simple Switcher 150KHz 3.3V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2594-5.0
+D Simple Switcher 150KHz 5V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2594-ADJ
+D Simple Switcher 150KHz 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2594HV-3.3
+D Simple Switcher 150KHz 3.3V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2594HV-5.0
+D Simple Switcher 150KHz 5V 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2594HV-ADJ
+D Simple Switcher 150KHz 0.5A Step Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2651
+D 1.5A High Efficiency Switching Regulator 
+$ENDCMP
+#
+$CMP LM2651-1.8
+D 1.8V 1.5A High Efficiency Switching Regulator 
+$ENDCMP
+#
+$CMP LM2651-2.5
+D 2.5V 1.5A High Efficiency Switching Regulator 
+$ENDCMP
+#
+$CMP LM2651-3.3
+D 3.3V 1.5A High Efficiency Switching Regulator 
+$ENDCMP
+#
+$CMP LM2651-ADJ
+D 1.5A High Efficiency Switching Regulator 
+$ENDCMP
+#
+$CMP LM2736X
+D Thin SOT23 750mA Load 1.6MHz Step-Down DC-DC Regulator 
+$ENDCMP
+#
+$CMP LM2736Y
+D Thin SOT23 750mA Load 550KHz Step-Down DC-DC Regulator 
+$ENDCMP
+#
+$CMP LM3671
+D 2MHz, 600mA Step-Down DC-DC Converter
+$ENDCMP
+#
+$CMP LT3652
+D Power Tracking 2A Battery Charger for Solar Power
+$ENDCMP
+#
+$CMP LTC4009
+D High Efficiency Multi Chemistry Battery Charger
+$ENDCMP
+#
+$CMP MAX1920
+D Low-Voltage, 400mA Step-Down DC-DC Converter in SOT23
+$ENDCMP
+#
+$CMP MER1
+D Murata MER1 1W DC/DC Insulated Converter
+$ENDCMP
+#
+$CMP NCP3063
+D 1.5A Step-Up/Down/Inverting Switching Regulator
+$ENDCMP
+#
+$CMP NME
+D Murata NME 1W DC/DC Insulated Converter
+$ENDCMP
+#
+$CMP PT6300
+D 3 A Adjustable Postitive Step-Down Integrated Switching Regulator
+$ENDCMP
+#
+$CMP TPS60400
+D Unregulated 60mA Charge Pump Voltage Inverter
+$ENDCMP
+#
+#End Doc Library

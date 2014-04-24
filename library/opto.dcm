@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: ven 20 apr 2012 11:36:39 CEST
+#
+$CMP 6N135
+D Single Channel High Speed Optocoupler
+$ENDCMP
+#
+$CMP PS2701-1
+D NEC High Isolation Voltage SOP Photocoupler
+$ENDCMP
+#
+$CMP TLP127
+D Toshiba Optocoupler
+$ENDCMP
+#
+#End Doc Library

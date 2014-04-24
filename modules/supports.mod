@@ -1,0 +1,9449 @@
+PCBNEW-LibModule-V1  sab 17 ago 2013 22:33:54 CEST
+# encoding utf-8
+Units mm
+$INDEX
+10DIP300
+10DIP300-ELL
+14DIP300
+14DIP300-ELL
+16DIP300
+16DIP300-ELL
+18DIP300
+18DIP300-ELL
+20DIP300
+20DIP300-ELL
+22DIP300
+22DIP300-ELL
+22DIP400
+22DIP400-ELL
+24DIP-ELL400
+24DIP300
+24DIP300-ELL
+24DIP400
+24DIP600
+24DIP600-ELL
+28DIP300
+28DIP300-600-ELL
+28DIP300-ELL
+28DIP600
+28DIP600-ELL
+32DIP600
+32DIP600-ELL
+40DIP1000
+40DIP1000-ELL
+40DIP600
+40DIP600-ELL
+48DIP600
+48DIP600-ELL
+64DIP600
+64DIP600-ELL
+64DIP900
+64DIP900-ELL
+6DIP300
+6DIP300-ELL
+8DIP300
+8DIP300-ELL
+H08
+ZIP20
+ZIP24
+ZIP28
+$EndINDEX
+$MODULE 10DIP300
+Po 35 75 0 15 4659ABFC 00000000 ~~
+Li 10DIP300
+Cd DIP 10 round pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "10DIP300"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "10DIP300"
+DS -7.62 2.54 7.62 2.54 0.12 30
+DS 7.62 2.54 7.62 -2.54 0.12 30
+DS 7.62 -2.54 -7.62 -2.54 0.12 30
+DS -7.62 -1.27 -6.35 -1.27 0.12 30
+DS -6.35 -1.27 -6.35 1.27 0.12 30
+DS -6.35 1.27 -7.62 1.27 0.12 30
+DS -7.62 -2.54 -7.62 2.54 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 3.81
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 3.81
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 -3.81
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 -3.81
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -3.81
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 -3.81
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 -3.81
+$EndPAD
+$EndMODULE 10DIP300
+$MODULE 10DIP300-ELL
+Po 35 65 0 15 4659ABCA 00000000 ~~
+Li 10DIP300-ELL
+Cd DIP 10 elliptical pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "10DIP300-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "10DIP300-ELL"
+DS -7.62 2.54 7.62 2.54 0.12 30
+DS 7.62 2.54 7.62 -2.54 0.12 30
+DS 7.62 -2.54 -7.62 -2.54 0.12 30
+DS -7.62 -1.27 -6.35 -1.27 0.12 30
+DS -6.35 -1.27 -6.35 1.27 0.12 30
+DS -6.35 1.27 -7.62 1.27 0.12 30
+DS -7.62 -2.54 -7.62 2.54 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 3.81
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 3.81
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 -3.81
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 -3.81
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -3.81
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 -3.81
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 -3.81
+$EndPAD
+$EndMODULE 10DIP300-ELL
+$MODULE 14DIP300
+Po 35 95 0 15 4659AC82 00000000 ~~
+Li 14DIP300
+Cd DIP 14 round pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "14DIP300"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "14DIP300"
+DS -10.16 -2.54 10.16 -2.54 0.12 30
+DS 10.16 2.54 -10.16 2.54 0.12 30
+DS -10.16 2.54 -10.16 -2.54 0.12 30
+DS -10.16 -1.27 -8.89 -1.27 0.12 30
+DS -8.89 -1.27 -8.89 1.27 0.12 30
+DS -8.89 1.27 -10.16 1.27 0.12 30
+DS 10.16 -2.54 10.16 2.54 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.62 3.81
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 3.81
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 3.81
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.62 3.81
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.62 -3.81
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 -3.81
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 -3.81
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -3.81
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 -3.81
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 -3.81
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.62 -3.81
+$EndPAD
+$EndMODULE 14DIP300
+$MODULE 14DIP300-ELL
+Po 35 85 0 15 4659AC39 00000000 ~~
+Li 14DIP300-ELL
+Cd DIP 14 elliptical pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "14DIP-ELL300"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "14DIP-ELL300"
+DS -10.16 -2.54 10.16 -2.54 0.12 30
+DS 10.16 2.54 -10.16 2.54 0.12 30
+DS -10.16 2.54 -10.16 -2.54 0.12 30
+DS -10.16 -1.27 -8.89 -1.27 0.12 30
+DS -8.89 -1.27 -8.89 1.27 0.12 30
+DS -8.89 1.27 -10.16 1.27 0.12 30
+DS 10.16 -2.54 10.16 2.54 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.62 3.81
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.62 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.62 -3.81
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 -3.81
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 -3.81
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -3.81
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 -3.81
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 -3.81
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.62 -3.81
+$EndPAD
+$EndMODULE 14DIP300-ELL
+$MODULE 16DIP300
+Po 35 115 0 15 4659AD08 00000000 ~~
+Li 16DIP300
+Cd DIP 16 round pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "16DIP300"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "16DIP300"
+DS -11.43 -1.27 -11.43 -1.27 0.12 30
+DS -11.43 -1.27 -10.16 -1.27 0.12 30
+DS -10.16 -1.27 -10.16 1.27 0.12 30
+DS -10.16 1.27 -11.43 1.27 0.12 30
+DS -11.43 -2.54 11.43 -2.54 0.12 30
+DS 11.43 -2.54 11.43 2.54 0.12 30
+DS 11.43 2.54 -11.43 2.54 0.12 30
+DS -11.43 2.54 -11.43 -2.54 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 3.81
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 3.81
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -3.81
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -3.81
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -3.81
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -3.81
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -3.81
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -3.81
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -3.81
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -3.81
+$EndPAD
+$EndMODULE 16DIP300
+$MODULE 16DIP300-ELL
+Po 35 105 0 15 4659ACBB 00000000 ~~
+Li 16DIP300-ELL
+Cd DIP 16 elliptical pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "16DIP300-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "16DIP300-ELL"
+DS -11.43 -1.27 -11.43 -1.27 0.12 30
+DS -11.43 -1.27 -10.16 -1.27 0.12 30
+DS -10.16 -1.27 -10.16 1.27 0.12 30
+DS -10.16 1.27 -11.43 1.27 0.12 30
+DS -11.43 -2.54 11.43 -2.54 0.12 30
+DS 11.43 -2.54 11.43 2.54 0.12 30
+DS 11.43 2.54 -11.43 2.54 0.12 30
+DS -11.43 2.54 -11.43 -2.54 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 3.81
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 3.81
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -3.81
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -3.81
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -3.81
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -3.81
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -3.81
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -3.81
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -3.81
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -3.81
+$EndPAD
+$EndMODULE 16DIP300-ELL
+$MODULE 18DIP300
+Po 35 135 0 15 4659AD8C 00000000 ~~
+Li 18DIP300
+Cd DIP 18 round pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "18DIP300"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "18DIP300"
+DS -12.7 -1.27 -11.43 -1.27 0.12 30
+DS -11.43 -1.27 -11.43 1.27 0.12 30
+DS -11.43 1.27 -12.7 1.27 0.12 30
+DS -12.7 -2.54 12.7 -2.54 0.12 30
+DS 12.7 -2.54 12.7 2.54 0.12 30
+DS 12.7 2.54 -12.7 2.54 0.12 30
+DS -12.7 2.54 -12.7 -2.54 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.16 3.81
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.62 3.81
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 3.81
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 3.81
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.62 3.81
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.16 3.81
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.16 -3.81
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.62 -3.81
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 -3.81
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 -3.81
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -3.81
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 -3.81
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 -3.81
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.62 -3.81
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.16 -3.81
+$EndPAD
+$EndMODULE 18DIP300
+$MODULE 18DIP300-ELL
+Po 35 125 0 15 4659AD47 00000000 ~~
+Li 18DIP300-ELL
+Cd DIP 18 elliptical pins, 300 mil
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "18DIP300-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "18DIP300-ELL"
+DS -12.7 -1.27 -11.43 -1.27 0.12 30
+DS -11.43 -1.27 -11.43 1.27 0.12 30
+DS -11.43 1.27 -12.7 1.27 0.12 30
+DS -12.7 -2.54 12.7 -2.54 0.12 30
+DS 12.7 -2.54 12.7 2.54 0.12 30
+DS 12.7 2.54 -12.7 2.54 0.12 30
+DS -12.7 2.54 -12.7 -2.54 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.16 3.81
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.62 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 3.81
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.62 3.81
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.16 3.81
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.16 -3.81
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.62 -3.81
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 -3.81
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 -3.81
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -3.81
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 -3.81
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 -3.81
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.62 -3.81
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.16 -3.81
+$EndPAD
+$EndMODULE 18DIP300-ELL
+$MODULE 20DIP300
+Po 35 160 0 15 4659AE13 00000000 ~~
+Li 20DIP300
+Cd DIP 20 round pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "20DIP300"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "20DIP300"
+DS -13.97 -1.27 -12.7 -1.27 0.12 30
+DS -12.7 -1.27 -12.7 1.27 0.12 30
+DS -12.7 1.27 -13.97 1.27 0.12 30
+DS -13.97 -2.54 13.97 -2.54 0.12 30
+DS 13.97 -2.54 13.97 2.54 0.12 30
+DS 13.97 2.54 -13.97 2.54 0.12 30
+DS -13.97 2.54 -13.97 -2.54 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 3.81
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 3.81
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 3.81
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 3.81
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -3.81
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -3.81
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -3.81
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -3.81
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -3.81
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -3.81
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -3.81
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -3.81
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -3.81
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -3.81
+$EndPAD
+$EndMODULE 20DIP300
+$MODULE 20DIP300-ELL
+Po 35 145 0 15 4659ADD8 00000000 ~~
+Li 20DIP300-ELL
+Cd DIP 20 elliptical pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "20DIP300-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "20DIP300-ELL"
+DS -13.97 -1.27 -12.7 -1.27 0.12 30
+DS -12.7 -1.27 -12.7 1.27 0.12 30
+DS -12.7 1.27 -13.97 1.27 0.12 30
+DS -13.97 -2.54 13.97 -2.54 0.12 30
+DS 13.97 -2.54 13.97 2.54 0.12 30
+DS 13.97 2.54 -13.97 2.54 0.12 30
+DS -13.97 2.54 -13.97 -2.54 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 3.81
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 3.81
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -3.81
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -3.81
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -3.81
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -3.81
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -3.81
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -3.81
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -3.81
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -3.81
+$EndPAD
+$PAD
+Sh "19" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -3.81
+$EndPAD
+$PAD
+Sh "20" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -3.81
+$EndPAD
+$EndMODULE 20DIP300-ELL
+$MODULE 22DIP300
+Po 70 30 0 15 4659AFCF 00000000 ~~
+Li 22DIP300
+Cd DIP 22 round pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "22DIP300"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "22DIP300"
+DS -15.24 -2.54 15.24 -2.54 0.12 30
+DS 15.24 -2.54 15.24 2.54 0.12 30
+DS 15.24 2.54 -15.24 2.54 0.12 30
+DS -15.24 2.54 -15.24 -2.54 0.12 30
+DS -15.24 -1.27 -13.97 -1.27 0.12 30
+DS -13.97 -1.27 -13.97 1.27 0.12 30
+DS -13.97 1.27 -15.24 1.27 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -12.7 3.81
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.16 3.81
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.62 3.81
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 3.81
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 3.81
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.62 3.81
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.16 3.81
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 12.7 3.81
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 12.7 -3.81
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.16 -3.81
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.62 -3.81
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 -3.81
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 -3.81
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -3.81
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 -3.81
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 -3.81
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.62 -3.81
+$EndPAD
+$PAD
+Sh "21" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.16 -3.81
+$EndPAD
+$PAD
+Sh "22" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -12.7 -3.81
+$EndPAD
+$EndMODULE 22DIP300
+$MODULE 22DIP300-ELL
+Po 70 20 0 15 4659AFA9 00000000 ~~
+Li 22DIP300-ELL
+Cd DIP 22 elliptical pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "22DIP300-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "22DIP300-ELL"
+DS -15.24 -2.54 15.24 -2.54 0.12 30
+DS 15.24 -2.54 15.24 2.54 0.12 30
+DS 15.24 2.54 -15.24 2.54 0.12 30
+DS -15.24 2.54 -15.24 -2.54 0.12 30
+DS -15.24 -1.27 -13.97 -1.27 0.12 30
+DS -13.97 -1.27 -13.97 1.27 0.12 30
+DS -13.97 1.27 -15.24 1.27 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -12.7 3.81
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.16 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.62 3.81
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 3.81
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.62 3.81
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.16 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 12.7 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 12.7 -3.81
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.16 -3.81
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.62 -3.81
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 -3.81
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 -3.81
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -3.81
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 -3.81
+$EndPAD
+$PAD
+Sh "19" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 -3.81
+$EndPAD
+$PAD
+Sh "20" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.62 -3.81
+$EndPAD
+$PAD
+Sh "21" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.16 -3.81
+$EndPAD
+$PAD
+Sh "22" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -12.7 -3.81
+$EndPAD
+$EndMODULE 22DIP300-ELL
+$MODULE 22DIP400
+Po 70 60 0 15 4659B035 00000000 ~~
+Li 22DIP400
+Cd DIP 22 round pins, 400 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "22DIP400"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "22DIP400"
+DS -15.24 -1.27 -13.97 -1.27 0.12 30
+DS -13.97 -1.27 -13.97 1.27 0.12 30
+DS -13.97 1.27 -15.24 1.27 0.12 30
+DS -15.24 -3.81 15.24 -3.81 0.12 30
+DS 15.24 -3.81 15.24 3.81 0.12 30
+DS 15.24 3.81 -15.24 3.81 0.12 30
+DS -15.24 3.81 -15.24 -3.81 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -12.7 5.08
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.16 5.08
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.62 5.08
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 5.08
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 5.08
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 5.08
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 5.08
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 5.08
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.62 5.08
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.16 5.08
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 12.7 5.08
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 12.7 -5.08
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.16 -5.08
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.62 -5.08
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 -5.08
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 -5.08
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -5.08
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 -5.08
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 -5.08
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.62 -5.08
+$EndPAD
+$PAD
+Sh "21" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.16 -5.08
+$EndPAD
+$PAD
+Sh "22" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -12.7 -5.08
+$EndPAD
+$EndMODULE 22DIP400
+$MODULE 22DIP400-ELL
+Po 69.99986 45.00118 0 15 4659B00C 00000000 ~~
+Li 22DIP400-ELL
+Cd DIP 22 elliptical pins, 400 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "22DIP400-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "22DIP400-ELL"
+DS -15.24 -1.27 -13.97 -1.27 0.12 30
+DS -13.97 -1.27 -13.97 1.27 0.12 30
+DS -13.97 1.27 -15.24 1.27 0.12 30
+DS -15.24 -3.81 15.24 -3.81 0.12 30
+DS 15.24 -3.81 15.24 3.81 0.12 30
+DS 15.24 3.81 -15.24 3.81 0.12 30
+DS -15.24 3.81 -15.24 -3.81 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -12.7 5.08
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.16 5.08
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.62 5.08
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 5.08
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 5.08
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 5.08
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 5.08
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 5.08
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.62 5.08
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.16 5.08
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 12.7 5.08
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 12.7 -5.08
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.16 -5.08
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.62 -5.08
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.08 -5.08
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 -5.08
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -5.08
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 -5.08
+$EndPAD
+$PAD
+Sh "19" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.08 -5.08
+$EndPAD
+$PAD
+Sh "20" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.62 -5.08
+$EndPAD
+$PAD
+Sh "21" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.16 -5.08
+$EndPAD
+$PAD
+Sh "22" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -12.7 -5.08
+$EndPAD
+$EndMODULE 22DIP400-ELL
+$MODULE 24DIP-ELL400
+Po 70 100 0 15 4659B20D 00000000 ~~
+Li 24DIP-ELL400
+Cd DIP 24 elliptical pins, 400 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "24DIP400-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "24DIP400-ELL"
+DS -16.51 -1.27 -15.24 -1.27 0.12 30
+DS -15.24 -1.27 -15.24 1.27 0.12 30
+DS -15.24 1.27 -16.51 1.27 0.12 30
+DS -16.51 -3.81 16.51 -3.81 0.12 30
+DS 16.51 -3.81 16.51 3.81 0.12 30
+DS 16.51 3.81 -16.51 3.81 0.12 30
+DS -16.51 3.81 -16.51 -3.81 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 5.08
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 5.08
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 5.08
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 5.08
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 5.08
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 5.08
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 5.08
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 5.08
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 5.08
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 5.08
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 5.08
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 5.08
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -5.08
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -5.08
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -5.08
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -5.08
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -5.08
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -5.08
+$EndPAD
+$PAD
+Sh "19" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -5.08
+$EndPAD
+$PAD
+Sh "20" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -5.08
+$EndPAD
+$PAD
+Sh "21" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -5.08
+$EndPAD
+$PAD
+Sh "22" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -5.08
+$EndPAD
+$PAD
+Sh "23" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -5.08
+$EndPAD
+$PAD
+Sh "24" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -5.08
+$EndPAD
+$EndMODULE 24DIP-ELL400
+$MODULE 24DIP300
+Po 70 85 0 15 4659B184 00000000 ~~
+Li 24DIP300
+Cd DIP 24 round pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "24DIP300"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "24DIP300"
+DS -16.51 -1.27 -15.24 -1.27 0.12 30
+DS -15.24 -1.27 -15.24 1.27 0.12 30
+DS -15.24 1.27 -16.51 1.27 0.12 30
+DS -16.51 1.27 -16.51 1.27 0.12 30
+DS -16.51 -2.54 16.51 -2.54 0.12 30
+DS 16.51 -2.54 16.51 2.54 0.12 30
+DS 16.51 2.54 -16.51 2.54 0.12 30
+DS -16.51 2.54 -16.51 -2.54 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 3.81
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 3.81
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 3.81
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 3.81
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 3.81
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 3.81
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -3.81
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -3.81
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -3.81
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -3.81
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -3.81
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -3.81
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -3.81
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -3.81
+$EndPAD
+$PAD
+Sh "21" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -3.81
+$EndPAD
+$PAD
+Sh "22" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -3.81
+$EndPAD
+$PAD
+Sh "23" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -3.81
+$EndPAD
+$PAD
+Sh "24" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -3.81
+$EndPAD
+$EndMODULE 24DIP300
+$MODULE 24DIP300-ELL
+Po 69.99986 75.00112 0 15 4659B152 00000000 ~~
+Li 24DIP300-ELL
+Cd DIP 24 elliptical pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "24DIP300-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "24DIP300-ELL"
+DS -16.51 -1.27 -15.24 -1.27 0.12 30
+DS -15.24 -1.27 -15.24 1.27 0.12 30
+DS -15.24 1.27 -16.51 1.27 0.12 30
+DS -16.51 1.27 -16.51 1.27 0.12 30
+DS -16.51 -2.54 16.51 -2.54 0.12 30
+DS 16.51 -2.54 16.51 2.54 0.12 30
+DS 16.51 2.54 -16.51 2.54 0.12 30
+DS -16.51 2.54 -16.51 -2.54 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 3.81
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 3.81
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 3.81
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -3.81
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -3.81
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -3.81
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -3.81
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -3.81
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -3.81
+$EndPAD
+$PAD
+Sh "19" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -3.81
+$EndPAD
+$PAD
+Sh "20" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -3.81
+$EndPAD
+$PAD
+Sh "21" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -3.81
+$EndPAD
+$PAD
+Sh "22" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -3.81
+$EndPAD
+$PAD
+Sh "23" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -3.81
+$EndPAD
+$PAD
+Sh "24" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -3.81
+$EndPAD
+$EndMODULE 24DIP300-ELL
+$MODULE 24DIP400
+Po 70 115 0 15 4659B1F8 00000000 ~~
+Li 24DIP400
+Cd DIP 24 round pins, 400 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "24DIP400"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "24DIP400"
+DS -16.51 -1.27 -15.24 -1.27 0.12 30
+DS -15.24 -1.27 -15.24 1.27 0.12 30
+DS -15.24 1.27 -16.51 1.27 0.12 30
+DS -16.51 -3.81 16.51 -3.81 0.12 30
+DS 16.51 -3.81 16.51 3.81 0.12 30
+DS 16.51 3.81 -16.51 3.81 0.12 30
+DS -16.51 3.81 -16.51 -3.81 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 5.08
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 5.08
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 5.08
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 5.08
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 5.08
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 5.08
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 5.08
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 5.08
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 5.08
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 5.08
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 5.08
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 5.08
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -5.08
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -5.08
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -5.08
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -5.08
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -5.08
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -5.08
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -5.08
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -5.08
+$EndPAD
+$PAD
+Sh "21" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -5.08
+$EndPAD
+$PAD
+Sh "22" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -5.08
+$EndPAD
+$PAD
+Sh "23" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -5.08
+$EndPAD
+$PAD
+Sh "24" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -5.08
+$EndPAD
+$EndMODULE 24DIP400
+$MODULE 24DIP600
+Po 70 150 0 15 4659B28A 00000000 ~~
+Li 24DIP600
+Cd DIP 24 round pins, 600 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "24DIP600"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "24DIP600"
+DS -16.51 -1.27 -15.24 -1.27 0.12 30
+DS -15.24 -1.27 -15.24 1.27 0.12 30
+DS -15.24 1.27 -16.51 1.27 0.12 30
+DS -16.51 -6.35 16.51 -6.35 0.12 30
+DS 16.51 -6.35 16.51 6.35 0.12 30
+DS 16.51 6.35 -16.51 6.35 0.12 30
+DS -16.51 6.35 -16.51 -6.35 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 7.62
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 7.62
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 7.62
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 7.62
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 7.62
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 7.62
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 7.62
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 7.62
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 7.62
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 7.62
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 7.62
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 7.62
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -7.62
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -7.62
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -7.62
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -7.62
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -7.62
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -7.62
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -7.62
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -7.62
+$EndPAD
+$PAD
+Sh "21" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -7.62
+$EndPAD
+$PAD
+Sh "22" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -7.62
+$EndPAD
+$PAD
+Sh "23" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -7.62
+$EndPAD
+$PAD
+Sh "24" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -7.62
+$EndPAD
+$EndMODULE 24DIP600
+$MODULE 24DIP600-ELL
+Po 70 130 0 15 4659B265 00000000 ~~
+Li 24DIP600-ELL
+Cd DIP 24 elliptical pins, 600 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "24DIP600-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "24DIP600-ELL"
+DS -16.51 -1.27 -15.24 -1.27 0.12 30
+DS -15.24 -1.27 -15.24 1.27 0.12 30
+DS -15.24 1.27 -16.51 1.27 0.12 30
+DS -16.51 -6.35 16.51 -6.35 0.12 30
+DS 16.51 -6.35 16.51 6.35 0.12 30
+DS 16.51 6.35 -16.51 6.35 0.12 30
+DS -16.51 6.35 -16.51 -6.35 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 7.62
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 7.62
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 7.62
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 7.62
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 7.62
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 7.62
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 7.62
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 7.62
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 7.62
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 7.62
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 7.62
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 7.62
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -7.62
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -7.62
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -7.62
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -7.62
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -7.62
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -7.62
+$EndPAD
+$PAD
+Sh "19" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -7.62
+$EndPAD
+$PAD
+Sh "20" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -7.62
+$EndPAD
+$PAD
+Sh "21" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -7.62
+$EndPAD
+$PAD
+Sh "22" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -7.62
+$EndPAD
+$PAD
+Sh "23" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -7.62
+$EndPAD
+$PAD
+Sh "24" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -7.62
+$EndPAD
+$EndMODULE 24DIP600-ELL
+$MODULE 28DIP300
+Po 110 70 0 15 4659B430 00000000 ~~
+Li 28DIP300
+Cd DIP 28 round pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "28DIP300"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "28DIP300"
+DS -19.05 -2.54 19.05 -2.54 0.12 30
+DS 19.05 -2.54 19.05 2.54 0.12 30
+DS 19.05 2.54 -19.05 2.54 0.12 30
+DS -19.05 2.54 -19.05 -2.54 0.12 30
+DS -19.05 -1.27 -17.78 -1.27 0.12 30
+DS -17.78 -1.27 -17.78 1.27 0.12 30
+DS -17.78 1.27 -19.05 1.27 0.12 30
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 3.81
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 3.81
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 3.81
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 3.81
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 3.81
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 3.81
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 3.81
+$EndPAD
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 3.81
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -3.81
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -3.81
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -3.81
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -3.81
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -3.81
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -3.81
+$EndPAD
+$PAD
+Sh "21" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -3.81
+$EndPAD
+$PAD
+Sh "22" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -3.81
+$EndPAD
+$PAD
+Sh "23" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -3.81
+$EndPAD
+$PAD
+Sh "24" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -3.81
+$EndPAD
+$PAD
+Sh "25" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -3.81
+$EndPAD
+$PAD
+Sh "26" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -3.81
+$EndPAD
+$PAD
+Sh "27" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -3.81
+$EndPAD
+$PAD
+Sh "28" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -3.81
+$EndPAD
+$EndMODULE 28DIP300
+$MODULE 28DIP300-600-ELL
+Po 110 35 0 15 4659B3DB 00000000 ~~
+Li 28DIP300-600-ELL
+Cd DIP 28 elliptical pins, 300+600 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "28DIP300-600-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "28DIP300-600-ELL"
+DS -19.05 2.54 -17.78 2.54 0.12 30
+DS -17.78 2.54 -17.78 5.08 0.12 30
+DS -17.78 5.08 -19.05 5.08 0.12 30
+DS -19.05 1.27 19.05 1.27 0.12 30
+DS -19.05 -1.27 -19.05 -1.27 0.12 30
+DS -19.05 -1.27 -17.78 -1.27 0.12 30
+DS -17.78 -1.27 -17.78 1.27 0.12 30
+DS -17.78 1.27 -19.05 1.27 0.12 30
+DS -19.05 -6.35 19.05 -6.35 0.12 30
+DS 19.05 -6.35 19.05 6.35 0.12 30
+DS 19.05 6.35 -19.05 6.35 0.12 30
+DS -19.05 6.35 -19.05 -6.35 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 7.62
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 7.62
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 7.62
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 7.62
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 7.62
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 7.62
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 7.62
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 7.62
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 7.62
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 7.62
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 7.62
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 7.62
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 7.62
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 7.62
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -7.62
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -7.62
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -7.62
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -7.62
+$EndPAD
+$PAD
+Sh "19" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -7.62
+$EndPAD
+$PAD
+Sh "20" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -7.62
+$EndPAD
+$PAD
+Sh "21" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -7.62
+$EndPAD
+$PAD
+Sh "22" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -7.62
+$EndPAD
+$PAD
+Sh "23" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -7.62
+$EndPAD
+$PAD
+Sh "24" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -7.62
+$EndPAD
+$PAD
+Sh "25" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -7.62
+$EndPAD
+$PAD
+Sh "26" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -7.62
+$EndPAD
+$PAD
+Sh "27" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -7.62
+$EndPAD
+$PAD
+Sh "28" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -7.62
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 0
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 0
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 0
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 0
+$EndPAD
+$PAD
+Sh "19" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 0
+$EndPAD
+$PAD
+Sh "20" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$PAD
+Sh "21" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "22" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "23" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "24" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 0
+$EndPAD
+$PAD
+Sh "25" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 0
+$EndPAD
+$PAD
+Sh "26" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 0
+$EndPAD
+$PAD
+Sh "27" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 0
+$EndPAD
+$PAD
+Sh "28" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 0
+$EndPAD
+$EndMODULE 28DIP300-600-ELL
+$MODULE 28DIP300-ELL
+Po 110 20 0 15 4659B3B3 00000000 ~~
+Li 28DIP300-ELL
+Cd DIP 28 elliptical pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "28DIP300-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "28DIP300-ELL"
+DS -19.05 -2.54 19.05 -2.54 0.12 30
+DS 19.05 -2.54 19.05 2.54 0.12 30
+DS 19.05 2.54 -19.05 2.54 0.12 30
+DS -19.05 2.54 -19.05 -2.54 0.12 30
+DS -19.05 -1.27 -17.78 -1.27 0.12 30
+DS -17.78 -1.27 -17.78 1.27 0.12 30
+DS -17.78 1.27 -19.05 1.27 0.12 30
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 3.81
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 3.81
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 3.81
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 3.81
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 3.81
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 3.81
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 3.81
+$EndPAD
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 3.81
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -3.81
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -3.81
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -3.81
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -3.81
+$EndPAD
+$PAD
+Sh "19" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -3.81
+$EndPAD
+$PAD
+Sh "20" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -3.81
+$EndPAD
+$PAD
+Sh "21" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -3.81
+$EndPAD
+$PAD
+Sh "22" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -3.81
+$EndPAD
+$PAD
+Sh "23" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -3.81
+$EndPAD
+$PAD
+Sh "24" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -3.81
+$EndPAD
+$PAD
+Sh "25" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -3.81
+$EndPAD
+$PAD
+Sh "26" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -3.81
+$EndPAD
+$PAD
+Sh "27" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -3.81
+$EndPAD
+$PAD
+Sh "28" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -3.81
+$EndPAD
+$EndMODULE 28DIP300-ELL
+$MODULE 28DIP600
+Po 110 85 0 15 4659B477 00000000 ~~
+Li 28DIP600
+Cd DIP 28 round pins, 600 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "28DIP600"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "28DIP600"
+DS -19.05 -1.27 -19.05 -1.27 0.12 30
+DS -19.05 -1.27 -17.78 -1.27 0.12 30
+DS -17.78 -1.27 -17.78 1.27 0.12 30
+DS -17.78 1.27 -19.05 1.27 0.12 30
+DS -19.05 -6.35 19.05 -6.35 0.12 30
+DS 19.05 -6.35 19.05 6.35 0.12 30
+DS 19.05 6.35 -19.05 6.35 0.12 30
+DS -19.05 6.35 -19.05 -6.35 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 7.62
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 7.62
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 7.62
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 7.62
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 7.62
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 7.62
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 7.62
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 7.62
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 7.62
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 7.62
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 7.62
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 7.62
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 7.62
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 7.62
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -7.62
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -7.62
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -7.62
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -7.62
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -7.62
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -7.62
+$EndPAD
+$PAD
+Sh "21" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -7.62
+$EndPAD
+$PAD
+Sh "22" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -7.62
+$EndPAD
+$PAD
+Sh "23" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -7.62
+$EndPAD
+$PAD
+Sh "24" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -7.62
+$EndPAD
+$PAD
+Sh "25" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -7.62
+$EndPAD
+$PAD
+Sh "26" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -7.62
+$EndPAD
+$PAD
+Sh "27" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -7.62
+$EndPAD
+$PAD
+Sh "28" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -7.62
+$EndPAD
+$EndMODULE 28DIP600
+$MODULE 28DIP600-ELL
+Po 110 55 0 15 4659B404 00000000 ~~
+Li 28DIP600-ELL
+Cd DIP 28 elliptical pins, 600 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "28DIP600-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "28DIP600-ELL"
+DS -19.05 -1.27 -19.05 -1.27 0.12 30
+DS -19.05 -1.27 -17.78 -1.27 0.12 30
+DS -17.78 -1.27 -17.78 1.27 0.12 30
+DS -17.78 1.27 -19.05 1.27 0.12 30
+DS -19.05 -6.35 19.05 -6.35 0.12 30
+DS 19.05 -6.35 19.05 6.35 0.12 30
+DS 19.05 6.35 -19.05 6.35 0.12 30
+DS -19.05 6.35 -19.05 -6.35 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 7.62
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 7.62
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 7.62
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 7.62
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 7.62
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 7.62
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 7.62
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 7.62
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 7.62
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 7.62
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 7.62
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 7.62
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 7.62
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 7.62
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -7.62
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -7.62
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -7.62
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -7.62
+$EndPAD
+$PAD
+Sh "19" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -7.62
+$EndPAD
+$PAD
+Sh "20" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -7.62
+$EndPAD
+$PAD
+Sh "21" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -7.62
+$EndPAD
+$PAD
+Sh "22" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -7.62
+$EndPAD
+$PAD
+Sh "23" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -7.62
+$EndPAD
+$PAD
+Sh "24" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -7.62
+$EndPAD
+$PAD
+Sh "25" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -7.62
+$EndPAD
+$PAD
+Sh "26" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -7.62
+$EndPAD
+$PAD
+Sh "27" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -7.62
+$EndPAD
+$PAD
+Sh "28" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -7.62
+$EndPAD
+$EndMODULE 28DIP600-ELL
+$MODULE 32DIP600
+Po 110 125 0 15 4659B51E 00000000 ~~
+Li 32DIP600
+Cd DIP 32 round pins, 600 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "32DIP600"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "32DIP600"
+DS -21.59 -6.35 21.59 -6.35 0.12 30
+DS 21.59 -6.35 21.59 6.35 0.12 30
+DS 21.59 6.35 -21.59 6.35 0.12 30
+DS -21.59 6.35 -21.59 -6.35 0.12 30
+DS -21.59 1.27 -20.32 1.27 0.12 30
+DS -20.32 1.27 -20.32 -1.27 0.12 30
+DS -20.32 -1.27 -21.59 -1.27 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 7.62
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 7.62
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 7.62
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 7.62
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 7.62
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 7.62
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 7.62
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 7.62
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 7.62
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 7.62
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 7.62
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 7.62
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 7.62
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 7.62
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 7.62
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 7.62
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 -7.62
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -7.62
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -7.62
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -7.62
+$EndPAD
+$PAD
+Sh "21" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -7.62
+$EndPAD
+$PAD
+Sh "22" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -7.62
+$EndPAD
+$PAD
+Sh "23" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -7.62
+$EndPAD
+$PAD
+Sh "24" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -7.62
+$EndPAD
+$PAD
+Sh "25" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -7.62
+$EndPAD
+$PAD
+Sh "26" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -7.62
+$EndPAD
+$PAD
+Sh "27" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -7.62
+$EndPAD
+$PAD
+Sh "28" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -7.62
+$EndPAD
+$PAD
+Sh "29" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -7.62
+$EndPAD
+$PAD
+Sh "30" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -7.62
+$EndPAD
+$PAD
+Sh "31" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -7.62
+$EndPAD
+$PAD
+Sh "32" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 -7.62
+$EndPAD
+$EndMODULE 32DIP600
+$MODULE 32DIP600-ELL
+Po 110 105 0 15 4659B4FA 00000000 ~~
+Li 32DIP600-ELL
+Cd DIP 32 elliptical pins, 600 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "32DIP600-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "32DIP600-ELL"
+DS -21.59 -6.35 21.59 -6.35 0.12 30
+DS 21.59 -6.35 21.59 6.35 0.12 30
+DS 21.59 6.35 -21.59 6.35 0.12 30
+DS -21.59 6.35 -21.59 -6.35 0.12 30
+DS -21.59 1.27 -20.32 1.27 0.12 30
+DS -20.32 1.27 -20.32 -1.27 0.12 30
+DS -20.32 -1.27 -21.59 -1.27 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 7.62
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 7.62
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 7.62
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 7.62
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 7.62
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 7.62
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 7.62
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 7.62
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 7.62
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 7.62
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 7.62
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 7.62
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 7.62
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 7.62
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 7.62
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 7.62
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 -7.62
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -7.62
+$EndPAD
+$PAD
+Sh "19" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -7.62
+$EndPAD
+$PAD
+Sh "20" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -7.62
+$EndPAD
+$PAD
+Sh "21" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -7.62
+$EndPAD
+$PAD
+Sh "22" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -7.62
+$EndPAD
+$PAD
+Sh "23" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -7.62
+$EndPAD
+$PAD
+Sh "24" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -7.62
+$EndPAD
+$PAD
+Sh "25" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -7.62
+$EndPAD
+$PAD
+Sh "26" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -7.62
+$EndPAD
+$PAD
+Sh "27" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -7.62
+$EndPAD
+$PAD
+Sh "28" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -7.62
+$EndPAD
+$PAD
+Sh "29" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -7.62
+$EndPAD
+$PAD
+Sh "30" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -7.62
+$EndPAD
+$PAD
+Sh "31" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -7.62
+$EndPAD
+$PAD
+Sh "32" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 -7.62
+$EndPAD
+$EndMODULE 32DIP600-ELL
+$MODULE 40DIP1000
+Po 160 100 0 15 491051E8 00000000 ~~
+Li 40DIP1000
+Cd DIP 40 round pins, 1000 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "40DIP1000"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "40DIP1000"
+DS 26.67 -0.635 26.67 12.065 0.12 30
+DS 26.67 12.065 -26.67 12.065 0.12 30
+DS 26.67 -0.635 26.67 -10.795 0.12 30
+DS 26.67 -10.795 -26.67 -10.795 0.12 30
+DS -26.67 12.065 -26.67 -10.795 0.12 30
+DS -26.67 3.175 -24.13 3.175 0.12 30
+DS -24.13 3.175 -24.13 -3.175 0.12 30
+DS -24.13 -3.175 -26.67 -3.175 0.12 30
+$PAD
+Sh "1" R 1.397 1.397 0 0 0
+Dr 0.8 0 0
+At STD N 00F0FFFF
+Ne 0 ""
+Po -24.13 13.335
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 13.335
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 13.335
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 13.335
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 13.335
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 13.335
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 13.335
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 13.335
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 13.335
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 13.335
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 13.335
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 13.335
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 13.335
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 13.335
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 13.335
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 13.335
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 13.335
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 13.335
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 13.335
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 13.335
+$EndPAD
+$PAD
+Sh "21" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 -12.065
+$EndPAD
+$PAD
+Sh "22" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 -12.065
+$EndPAD
+$PAD
+Sh "23" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 -12.065
+$EndPAD
+$PAD
+Sh "24" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -12.065
+$EndPAD
+$PAD
+Sh "25" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -12.065
+$EndPAD
+$PAD
+Sh "26" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -12.065
+$EndPAD
+$PAD
+Sh "27" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -12.065
+$EndPAD
+$PAD
+Sh "28" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -12.065
+$EndPAD
+$PAD
+Sh "29" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -12.065
+$EndPAD
+$PAD
+Sh "30" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -12.065
+$EndPAD
+$PAD
+Sh "31" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -12.065
+$EndPAD
+$PAD
+Sh "32" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -12.065
+$EndPAD
+$PAD
+Sh "33" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -12.065
+$EndPAD
+$PAD
+Sh "34" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -12.065
+$EndPAD
+$PAD
+Sh "35" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -12.065
+$EndPAD
+$PAD
+Sh "36" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -12.065
+$EndPAD
+$PAD
+Sh "37" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -12.065
+$EndPAD
+$PAD
+Sh "38" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 -12.065
+$EndPAD
+$PAD
+Sh "39" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 -12.065
+$EndPAD
+$PAD
+Sh "40" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 -12.065
+$EndPAD
+$EndMODULE 40DIP1000
+$MODULE 40DIP1000-ELL
+Po 160 70 0 15 4659B62B 00000000 ~~
+Li 40DIP1000-ELL
+Cd DIP 40 elliptical pins, 1000 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "40DIP1000-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "40DIP1000-ELL"
+DS 26.67 -1.27 26.67 11.43 0.12 30
+DS 26.67 11.43 -26.67 11.43 0.12 30
+DS 26.67 -1.27 26.67 -11.43 0.12 30
+DS 26.67 -11.43 -26.67 -11.43 0.12 30
+DS -26.67 11.43 -26.67 -11.43 0.12 30
+DS -26.67 2.54 -24.13 2.54 0.12 30
+DS -24.13 2.54 -24.13 -3.81 0.12 30
+DS -24.13 -3.81 -26.67 -3.81 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 12.7
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 12.7
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 12.7
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 12.7
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 12.7
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 12.7
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 12.7
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 12.7
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 12.7
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 12.7
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 12.7
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 12.7
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 12.7
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 12.7
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 12.7
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 12.7
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 12.7
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 12.7
+$EndPAD
+$PAD
+Sh "19" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 12.7
+$EndPAD
+$PAD
+Sh "20" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 12.7
+$EndPAD
+$PAD
+Sh "21" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 -12.7
+$EndPAD
+$PAD
+Sh "22" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 -12.7
+$EndPAD
+$PAD
+Sh "23" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 -12.7
+$EndPAD
+$PAD
+Sh "24" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -12.7
+$EndPAD
+$PAD
+Sh "25" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -12.7
+$EndPAD
+$PAD
+Sh "26" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -12.7
+$EndPAD
+$PAD
+Sh "27" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -12.7
+$EndPAD
+$PAD
+Sh "28" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -12.7
+$EndPAD
+$PAD
+Sh "29" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -12.7
+$EndPAD
+$PAD
+Sh "30" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -12.7
+$EndPAD
+$PAD
+Sh "31" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -12.7
+$EndPAD
+$PAD
+Sh "32" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -12.7
+$EndPAD
+$PAD
+Sh "33" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -12.7
+$EndPAD
+$PAD
+Sh "34" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -12.7
+$EndPAD
+$PAD
+Sh "35" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -12.7
+$EndPAD
+$PAD
+Sh "36" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -12.7
+$EndPAD
+$PAD
+Sh "37" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -12.7
+$EndPAD
+$PAD
+Sh "38" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 -12.7
+$EndPAD
+$PAD
+Sh "39" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 -12.7
+$EndPAD
+$PAD
+Sh "40" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 -12.7
+$EndPAD
+$EndMODULE 40DIP1000-ELL
+$MODULE 40DIP600
+Po 160 45 0 15 4659B5F9 00000000 ~~
+Li 40DIP600
+Cd DIP 40 round pins, 600 mil
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "40DIP600"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "40DIP600"
+DS -26.67 -1.27 -25.4 -1.27 0.12 30
+DS -25.4 -1.27 -25.4 1.27 0.12 30
+DS -25.4 1.27 -26.67 1.27 0.12 30
+DS -26.67 -6.35 26.67 -6.35 0.12 30
+DS 26.67 -6.35 26.67 6.35 0.12 30
+DS 26.67 6.35 -26.67 6.35 0.12 30
+DS -26.67 6.35 -26.67 -6.35 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 7.62
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 7.62
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 7.62
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 7.62
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 7.62
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 7.62
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 7.62
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 7.62
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 7.62
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 7.62
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 7.62
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 7.62
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 7.62
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 7.62
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 7.62
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 7.62
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 7.62
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 7.62
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 7.62
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 7.62
+$EndPAD
+$PAD
+Sh "21" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 -7.62
+$EndPAD
+$PAD
+Sh "22" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 -7.62
+$EndPAD
+$PAD
+Sh "23" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 -7.62
+$EndPAD
+$PAD
+Sh "24" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -7.62
+$EndPAD
+$PAD
+Sh "25" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -7.62
+$EndPAD
+$PAD
+Sh "26" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -7.62
+$EndPAD
+$PAD
+Sh "27" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -7.62
+$EndPAD
+$PAD
+Sh "28" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -7.62
+$EndPAD
+$PAD
+Sh "29" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -7.62
+$EndPAD
+$PAD
+Sh "30" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -7.62
+$EndPAD
+$PAD
+Sh "31" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -7.62
+$EndPAD
+$PAD
+Sh "32" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -7.62
+$EndPAD
+$PAD
+Sh "33" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -7.62
+$EndPAD
+$PAD
+Sh "34" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -7.62
+$EndPAD
+$PAD
+Sh "35" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -7.62
+$EndPAD
+$PAD
+Sh "36" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -7.62
+$EndPAD
+$PAD
+Sh "37" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -7.62
+$EndPAD
+$PAD
+Sh "38" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 -7.62
+$EndPAD
+$PAD
+Sh "39" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 -7.62
+$EndPAD
+$PAD
+Sh "40" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 -7.62
+$EndPAD
+$EndMODULE 40DIP600
+$MODULE 40DIP600-ELL
+Po 160 25 0 15 4659B5D4 00000000 ~~
+Li 40DIP600-ELL
+Cd DIP 40 elliptical pins, 600 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "40DIP600-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "40DIP600-ELL"
+DS -26.67 -1.27 -25.4 -1.27 0.12 30
+DS -25.4 -1.27 -25.4 1.27 0.12 30
+DS -25.4 1.27 -26.67 1.27 0.12 30
+DS -26.67 -6.35 26.67 -6.35 0.12 30
+DS 26.67 -6.35 26.67 6.35 0.12 30
+DS 26.67 6.35 -26.67 6.35 0.12 30
+DS -26.67 6.35 -26.67 -6.35 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 7.62
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 7.62
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 7.62
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 7.62
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 7.62
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 7.62
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 7.62
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 7.62
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 7.62
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 7.62
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 7.62
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 7.62
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 7.62
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 7.62
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 7.62
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 7.62
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 7.62
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 7.62
+$EndPAD
+$PAD
+Sh "19" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 7.62
+$EndPAD
+$PAD
+Sh "20" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 7.62
+$EndPAD
+$PAD
+Sh "21" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 -7.62
+$EndPAD
+$PAD
+Sh "22" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 -7.62
+$EndPAD
+$PAD
+Sh "23" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 -7.62
+$EndPAD
+$PAD
+Sh "24" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -7.62
+$EndPAD
+$PAD
+Sh "25" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -7.62
+$EndPAD
+$PAD
+Sh "26" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -7.62
+$EndPAD
+$PAD
+Sh "27" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -7.62
+$EndPAD
+$PAD
+Sh "28" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -7.62
+$EndPAD
+$PAD
+Sh "29" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -7.62
+$EndPAD
+$PAD
+Sh "30" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -7.62
+$EndPAD
+$PAD
+Sh "31" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -7.62
+$EndPAD
+$PAD
+Sh "32" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -7.62
+$EndPAD
+$PAD
+Sh "33" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -7.62
+$EndPAD
+$PAD
+Sh "34" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -7.62
+$EndPAD
+$PAD
+Sh "35" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -7.62
+$EndPAD
+$PAD
+Sh "36" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -7.62
+$EndPAD
+$PAD
+Sh "37" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -7.62
+$EndPAD
+$PAD
+Sh "38" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 -7.62
+$EndPAD
+$PAD
+Sh "39" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 -7.62
+$EndPAD
+$PAD
+Sh "40" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 -7.62
+$EndPAD
+$EndMODULE 40DIP600-ELL
+$MODULE 48DIP600
+Po 55 195 0 15 4659B6A3 00000000 ~~
+Li 48DIP600
+Cd DIP 48 round pins. 600 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "48DIP600"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "48DIP600"
+DS -31.75 -1.27 -30.48 -1.27 0.12 30
+DS -30.48 -1.27 -30.48 1.27 0.12 30
+DS -30.48 1.27 -31.75 1.27 0.12 30
+DS -31.75 -6.35 31.75 -6.35 0.12 30
+DS 31.75 -6.35 31.75 6.35 0.12 30
+DS 31.75 6.35 -31.75 6.35 0.12 30
+DS -31.75 6.35 -31.75 -6.35 0.12 30
+$PAD
+Sh "1" R 1.397 1.397 0 0 0
+Dr 0.8 0 0
+At STD N 00F0FFFF
+Ne 0 ""
+Po -29.21 7.62
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -26.67 7.62
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 7.62
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 7.62
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 7.62
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 7.62
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 7.62
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 7.62
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 7.62
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 7.62
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 7.62
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 7.62
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 7.62
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 7.62
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 7.62
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 7.62
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 7.62
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 7.62
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 7.62
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 7.62
+$EndPAD
+$PAD
+Sh "21" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 7.62
+$EndPAD
+$PAD
+Sh "22" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 7.62
+$EndPAD
+$PAD
+Sh "23" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 26.67 7.62
+$EndPAD
+$PAD
+Sh "24" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 29.21 7.62
+$EndPAD
+$PAD
+Sh "25" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 29.21 -7.62
+$EndPAD
+$PAD
+Sh "26" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 26.67 -7.62
+$EndPAD
+$PAD
+Sh "27" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 -7.62
+$EndPAD
+$PAD
+Sh "28" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 -7.62
+$EndPAD
+$PAD
+Sh "29" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 -7.62
+$EndPAD
+$PAD
+Sh "30" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -7.62
+$EndPAD
+$PAD
+Sh "31" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -7.62
+$EndPAD
+$PAD
+Sh "32" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -7.62
+$EndPAD
+$PAD
+Sh "33" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -7.62
+$EndPAD
+$PAD
+Sh "34" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -7.62
+$EndPAD
+$PAD
+Sh "35" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -7.62
+$EndPAD
+$PAD
+Sh "36" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -7.62
+$EndPAD
+$PAD
+Sh "37" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -7.62
+$EndPAD
+$PAD
+Sh "38" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -7.62
+$EndPAD
+$PAD
+Sh "39" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -7.62
+$EndPAD
+$PAD
+Sh "40" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -7.62
+$EndPAD
+$PAD
+Sh "41" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -7.62
+$EndPAD
+$PAD
+Sh "42" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -7.62
+$EndPAD
+$PAD
+Sh "43" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -7.62
+$EndPAD
+$PAD
+Sh "44" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 -7.62
+$EndPAD
+$PAD
+Sh "45" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 -7.62
+$EndPAD
+$PAD
+Sh "46" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 -7.62
+$EndPAD
+$PAD
+Sh "47" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -26.67 -7.62
+$EndPAD
+$PAD
+Sh "48" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -29.21 -7.62
+$EndPAD
+$EndMODULE 48DIP600
+$MODULE 48DIP600-ELL
+Po 55 175 0 15 4659B67E 00000000 ~~
+Li 48DIP600-ELL
+Cd DIP 48 elliptical pins, 600 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "48DIP600-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "48DIP600-ELL"
+DS -31.75 -1.27 -30.48 -1.27 0.12 30
+DS -30.48 -1.27 -30.48 1.27 0.12 30
+DS -30.48 1.27 -31.75 1.27 0.12 30
+DS -31.75 -6.35 31.75 -6.35 0.12 30
+DS 31.75 -6.35 31.75 6.35 0.12 30
+DS 31.75 6.35 -31.75 6.35 0.12 30
+DS -31.75 6.35 -31.75 -6.35 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -29.21 7.62
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -26.67 7.62
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 7.62
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 7.62
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 7.62
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 7.62
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 7.62
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 7.62
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 7.62
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 7.62
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 7.62
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 7.62
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 7.62
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 7.62
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 7.62
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 7.62
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 7.62
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 7.62
+$EndPAD
+$PAD
+Sh "19" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 7.62
+$EndPAD
+$PAD
+Sh "20" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 7.62
+$EndPAD
+$PAD
+Sh "21" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 7.62
+$EndPAD
+$PAD
+Sh "22" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 7.62
+$EndPAD
+$PAD
+Sh "23" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 26.67 7.62
+$EndPAD
+$PAD
+Sh "24" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 29.21 7.62
+$EndPAD
+$PAD
+Sh "25" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 29.21 -7.62
+$EndPAD
+$PAD
+Sh "26" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 26.67 -7.62
+$EndPAD
+$PAD
+Sh "27" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 -7.62
+$EndPAD
+$PAD
+Sh "28" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 -7.62
+$EndPAD
+$PAD
+Sh "29" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 -7.62
+$EndPAD
+$PAD
+Sh "30" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -7.62
+$EndPAD
+$PAD
+Sh "31" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -7.62
+$EndPAD
+$PAD
+Sh "32" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -7.62
+$EndPAD
+$PAD
+Sh "33" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -7.62
+$EndPAD
+$PAD
+Sh "34" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -7.62
+$EndPAD
+$PAD
+Sh "35" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -7.62
+$EndPAD
+$PAD
+Sh "36" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -7.62
+$EndPAD
+$PAD
+Sh "37" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -7.62
+$EndPAD
+$PAD
+Sh "38" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -7.62
+$EndPAD
+$PAD
+Sh "39" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -7.62
+$EndPAD
+$PAD
+Sh "40" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -7.62
+$EndPAD
+$PAD
+Sh "41" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -7.62
+$EndPAD
+$PAD
+Sh "42" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -7.62
+$EndPAD
+$PAD
+Sh "43" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -7.62
+$EndPAD
+$PAD
+Sh "44" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 -7.62
+$EndPAD
+$PAD
+Sh "45" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 -7.62
+$EndPAD
+$PAD
+Sh "46" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 -7.62
+$EndPAD
+$PAD
+Sh "47" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -26.67 -7.62
+$EndPAD
+$PAD
+Sh "48" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -29.21 -7.62
+$EndPAD
+$EndMODULE 48DIP600-ELL
+$MODULE 64DIP600
+Po 65 235 0 15 4659B7A5 00000000 ~~
+Li 64DIP600
+Cd DIP 64 round pins, 600 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "64DIP600"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "64DIP600"
+DS -41.91 -1.27 -40.64 -1.27 0.12 30
+DS -40.64 -1.27 -40.64 1.27 0.12 30
+DS -40.64 1.27 -41.91 1.27 0.12 30
+DS -41.91 -6.35 41.91 -6.35 0.12 30
+DS 41.91 -6.35 41.91 6.35 0.12 30
+DS 41.91 6.35 -41.91 6.35 0.12 30
+DS -41.91 6.35 -41.91 -6.35 0.12 30
+$PAD
+Sh "1" R 1.397 1.397 0 0 0
+Dr 0.8 0 0
+At STD N 00F0FFFF
+Ne 0 ""
+Po -39.37 7.62
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -36.83 7.62
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -34.29 7.62
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -31.75 7.62
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -29.21 7.62
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -26.67 7.62
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 7.62
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 7.62
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 7.62
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 7.62
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 7.62
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 7.62
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 7.62
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 7.62
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 7.62
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 7.62
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 7.62
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 7.62
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 7.62
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 7.62
+$EndPAD
+$PAD
+Sh "21" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 7.62
+$EndPAD
+$PAD
+Sh "22" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 7.62
+$EndPAD
+$PAD
+Sh "23" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 7.62
+$EndPAD
+$PAD
+Sh "24" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 7.62
+$EndPAD
+$PAD
+Sh "25" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 7.62
+$EndPAD
+$PAD
+Sh "26" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 7.62
+$EndPAD
+$PAD
+Sh "27" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 26.67 7.62
+$EndPAD
+$PAD
+Sh "28" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 29.21 7.62
+$EndPAD
+$PAD
+Sh "29" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 31.75 7.62
+$EndPAD
+$PAD
+Sh "30" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 34.29 7.62
+$EndPAD
+$PAD
+Sh "31" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 36.83 7.62
+$EndPAD
+$PAD
+Sh "32" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 39.37 7.62
+$EndPAD
+$PAD
+Sh "33" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 39.37 -7.62
+$EndPAD
+$PAD
+Sh "34" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 36.83 -7.62
+$EndPAD
+$PAD
+Sh "35" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 34.29 -7.62
+$EndPAD
+$PAD
+Sh "36" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 31.75 -7.62
+$EndPAD
+$PAD
+Sh "37" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 29.21 -7.62
+$EndPAD
+$PAD
+Sh "38" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 26.67 -7.62
+$EndPAD
+$PAD
+Sh "39" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 -7.62
+$EndPAD
+$PAD
+Sh "40" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 -7.62
+$EndPAD
+$PAD
+Sh "41" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 -7.62
+$EndPAD
+$PAD
+Sh "42" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -7.62
+$EndPAD
+$PAD
+Sh "43" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -7.62
+$EndPAD
+$PAD
+Sh "44" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -7.62
+$EndPAD
+$PAD
+Sh "45" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -7.62
+$EndPAD
+$PAD
+Sh "46" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -7.62
+$EndPAD
+$PAD
+Sh "47" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -7.62
+$EndPAD
+$PAD
+Sh "48" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -7.62
+$EndPAD
+$PAD
+Sh "49" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -7.62
+$EndPAD
+$PAD
+Sh "50" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -7.62
+$EndPAD
+$PAD
+Sh "51" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -7.62
+$EndPAD
+$PAD
+Sh "52" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -7.62
+$EndPAD
+$PAD
+Sh "53" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -7.62
+$EndPAD
+$PAD
+Sh "54" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -7.62
+$EndPAD
+$PAD
+Sh "55" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -7.62
+$EndPAD
+$PAD
+Sh "56" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 -7.62
+$EndPAD
+$PAD
+Sh "57" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 -7.62
+$EndPAD
+$PAD
+Sh "58" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 -7.62
+$EndPAD
+$PAD
+Sh "59" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -26.67 -7.62
+$EndPAD
+$PAD
+Sh "60" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -29.21 -7.62
+$EndPAD
+$PAD
+Sh "61" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -31.75 -7.62
+$EndPAD
+$PAD
+Sh "62" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -34.29 -7.62
+$EndPAD
+$PAD
+Sh "63" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -36.83 -7.62
+$EndPAD
+$PAD
+Sh "64" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -39.37 -7.62
+$EndPAD
+$EndMODULE 64DIP600
+$MODULE 64DIP600-ELL
+Po 65 215 0 15 4659B797 00000000 ~~
+Li 64DIP600-ELL
+Cd DIP 64 elliptical pins, 600 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "64DIP600-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "64DIP600-ELL"
+DS -41.91 -1.27 -40.64 -1.27 0.12 30
+DS -40.64 -1.27 -40.64 1.27 0.12 30
+DS -40.64 1.27 -41.91 1.27 0.12 30
+DS -41.91 -6.35 41.91 -6.35 0.12 30
+DS 41.91 -6.35 41.91 6.35 0.12 30
+DS 41.91 6.35 -41.91 6.35 0.12 30
+DS -41.91 6.35 -41.91 -6.35 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -39.37 7.62
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -36.83 7.62
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -34.29 7.62
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -31.75 7.62
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -29.21 7.62
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -26.67 7.62
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 7.62
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 7.62
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 7.62
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 7.62
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 7.62
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 7.62
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 7.62
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 7.62
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 7.62
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 7.62
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 7.62
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 7.62
+$EndPAD
+$PAD
+Sh "19" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 7.62
+$EndPAD
+$PAD
+Sh "20" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 7.62
+$EndPAD
+$PAD
+Sh "21" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 7.62
+$EndPAD
+$PAD
+Sh "22" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 7.62
+$EndPAD
+$PAD
+Sh "23" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 7.62
+$EndPAD
+$PAD
+Sh "24" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 7.62
+$EndPAD
+$PAD
+Sh "25" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 7.62
+$EndPAD
+$PAD
+Sh "26" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 7.62
+$EndPAD
+$PAD
+Sh "27" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 26.67 7.62
+$EndPAD
+$PAD
+Sh "28" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 29.21 7.62
+$EndPAD
+$PAD
+Sh "29" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 31.75 7.62
+$EndPAD
+$PAD
+Sh "30" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 34.29 7.62
+$EndPAD
+$PAD
+Sh "31" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 36.83 7.62
+$EndPAD
+$PAD
+Sh "32" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 39.37 7.62
+$EndPAD
+$PAD
+Sh "33" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 39.37 -7.62
+$EndPAD
+$PAD
+Sh "34" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 36.83 -7.62
+$EndPAD
+$PAD
+Sh "35" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 34.29 -7.62
+$EndPAD
+$PAD
+Sh "36" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 31.75 -7.62
+$EndPAD
+$PAD
+Sh "37" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 29.21 -7.62
+$EndPAD
+$PAD
+Sh "38" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 26.67 -7.62
+$EndPAD
+$PAD
+Sh "39" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 -7.62
+$EndPAD
+$PAD
+Sh "40" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 -7.62
+$EndPAD
+$PAD
+Sh "41" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 -7.62
+$EndPAD
+$PAD
+Sh "42" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -7.62
+$EndPAD
+$PAD
+Sh "43" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -7.62
+$EndPAD
+$PAD
+Sh "44" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -7.62
+$EndPAD
+$PAD
+Sh "45" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -7.62
+$EndPAD
+$PAD
+Sh "46" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -7.62
+$EndPAD
+$PAD
+Sh "47" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -7.62
+$EndPAD
+$PAD
+Sh "48" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -7.62
+$EndPAD
+$PAD
+Sh "49" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -7.62
+$EndPAD
+$PAD
+Sh "50" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -7.62
+$EndPAD
+$PAD
+Sh "51" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -7.62
+$EndPAD
+$PAD
+Sh "52" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -7.62
+$EndPAD
+$PAD
+Sh "53" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -7.62
+$EndPAD
+$PAD
+Sh "54" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -7.62
+$EndPAD
+$PAD
+Sh "55" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -7.62
+$EndPAD
+$PAD
+Sh "56" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 -7.62
+$EndPAD
+$PAD
+Sh "57" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 -7.62
+$EndPAD
+$PAD
+Sh "58" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 -7.62
+$EndPAD
+$PAD
+Sh "59" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -26.67 -7.62
+$EndPAD
+$PAD
+Sh "60" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -29.21 -7.62
+$EndPAD
+$PAD
+Sh "61" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -31.75 -7.62
+$EndPAD
+$PAD
+Sh "62" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -34.29 -7.62
+$EndPAD
+$PAD
+Sh "63" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -36.83 -7.62
+$EndPAD
+$PAD
+Sh "64" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -39.37 -7.62
+$EndPAD
+$EndMODULE 64DIP600-ELL
+$MODULE 64DIP900
+Po 155 230 0 15 4659B7D1 00000000 ~~
+Li 64DIP900
+Cd DIP 64 round pins, 900 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "64DIP900"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "64DIP900"
+DS -41.91 1.27 -40.64 1.27 0.12 30
+DS -40.64 1.27 -40.64 -1.27 0.12 30
+DS -40.64 -1.27 -41.91 -1.27 0.12 30
+DS -41.91 -10.16 41.91 -10.16 0.12 30
+DS 41.91 -10.16 41.91 10.16 0.12 30
+DS 41.91 10.16 -41.91 10.16 0.12 30
+DS -41.91 10.16 -41.91 -10.16 0.12 30
+$PAD
+Sh "1" R 1.397 1.397 0 0 0
+Dr 0.8 0 0
+At STD N 00F0FFFF
+Ne 0 ""
+Po -39.37 11.43
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -36.83 11.43
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -34.29 11.43
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -31.75 11.43
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -29.21 11.43
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -26.67 11.43
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 11.43
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 11.43
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 11.43
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 11.43
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 11.43
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 11.43
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 11.43
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 11.43
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 11.43
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 11.43
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 11.43
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 11.43
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 11.43
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 11.43
+$EndPAD
+$PAD
+Sh "21" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 11.43
+$EndPAD
+$PAD
+Sh "22" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 11.43
+$EndPAD
+$PAD
+Sh "23" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 11.43
+$EndPAD
+$PAD
+Sh "24" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 11.43
+$EndPAD
+$PAD
+Sh "25" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 11.43
+$EndPAD
+$PAD
+Sh "26" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 11.43
+$EndPAD
+$PAD
+Sh "27" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 26.67 11.43
+$EndPAD
+$PAD
+Sh "28" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 29.21 11.43
+$EndPAD
+$PAD
+Sh "29" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 31.75 11.43
+$EndPAD
+$PAD
+Sh "30" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 34.29 11.43
+$EndPAD
+$PAD
+Sh "31" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 36.83 11.43
+$EndPAD
+$PAD
+Sh "32" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 39.37 11.43
+$EndPAD
+$PAD
+Sh "33" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 39.37 -11.43
+$EndPAD
+$PAD
+Sh "34" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 36.83 -11.43
+$EndPAD
+$PAD
+Sh "35" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 34.29 -11.43
+$EndPAD
+$PAD
+Sh "36" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 31.75 -11.43
+$EndPAD
+$PAD
+Sh "37" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 29.21 -11.43
+$EndPAD
+$PAD
+Sh "38" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 26.67 -11.43
+$EndPAD
+$PAD
+Sh "39" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 -11.43
+$EndPAD
+$PAD
+Sh "40" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 -11.43
+$EndPAD
+$PAD
+Sh "41" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 -11.43
+$EndPAD
+$PAD
+Sh "42" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -11.43
+$EndPAD
+$PAD
+Sh "43" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -11.43
+$EndPAD
+$PAD
+Sh "44" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -11.43
+$EndPAD
+$PAD
+Sh "45" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -11.43
+$EndPAD
+$PAD
+Sh "46" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -11.43
+$EndPAD
+$PAD
+Sh "47" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -11.43
+$EndPAD
+$PAD
+Sh "48" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -11.43
+$EndPAD
+$PAD
+Sh "49" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -11.43
+$EndPAD
+$PAD
+Sh "50" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -11.43
+$EndPAD
+$PAD
+Sh "51" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -11.43
+$EndPAD
+$PAD
+Sh "52" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -11.43
+$EndPAD
+$PAD
+Sh "53" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -11.43
+$EndPAD
+$PAD
+Sh "54" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -11.43
+$EndPAD
+$PAD
+Sh "55" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -11.43
+$EndPAD
+$PAD
+Sh "56" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 -11.43
+$EndPAD
+$PAD
+Sh "57" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 -11.43
+$EndPAD
+$PAD
+Sh "58" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 -11.43
+$EndPAD
+$PAD
+Sh "59" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -26.67 -11.43
+$EndPAD
+$PAD
+Sh "60" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -29.21 -11.43
+$EndPAD
+$PAD
+Sh "61" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -31.75 -11.43
+$EndPAD
+$PAD
+Sh "62" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -34.29 -11.43
+$EndPAD
+$PAD
+Sh "63" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -36.83 -11.43
+$EndPAD
+$PAD
+Sh "64" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -39.37 -11.43
+$EndPAD
+$EndMODULE 64DIP900
+$MODULE 64DIP900-ELL
+Po 155 200 0 15 4659B7C0 00000000 ~~
+Li 64DIP900-ELL
+Cd DIP 64 elliptical pins, 900 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "64DIP900-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "64DIP900-ELL"
+DS -41.91 1.27 -40.64 1.27 0.12 30
+DS -40.64 1.27 -40.64 -1.27 0.12 30
+DS -40.64 -1.27 -41.91 -1.27 0.12 30
+DS -41.91 -10.16 41.91 -10.16 0.12 30
+DS 41.91 -10.16 41.91 10.16 0.12 30
+DS 41.91 10.16 -41.91 10.16 0.12 30
+DS -41.91 10.16 -41.91 -10.16 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -39.37 11.43
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -36.83 11.43
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -34.29 11.43
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -31.75 11.43
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -29.21 11.43
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -26.67 11.43
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 11.43
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 11.43
+$EndPAD
+$PAD
+Sh "9" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 11.43
+$EndPAD
+$PAD
+Sh "10" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 11.43
+$EndPAD
+$PAD
+Sh "11" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 11.43
+$EndPAD
+$PAD
+Sh "12" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 11.43
+$EndPAD
+$PAD
+Sh "13" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 11.43
+$EndPAD
+$PAD
+Sh "14" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 11.43
+$EndPAD
+$PAD
+Sh "15" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 11.43
+$EndPAD
+$PAD
+Sh "16" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 11.43
+$EndPAD
+$PAD
+Sh "17" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 11.43
+$EndPAD
+$PAD
+Sh "18" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 11.43
+$EndPAD
+$PAD
+Sh "19" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 11.43
+$EndPAD
+$PAD
+Sh "20" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 11.43
+$EndPAD
+$PAD
+Sh "21" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 11.43
+$EndPAD
+$PAD
+Sh "22" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 11.43
+$EndPAD
+$PAD
+Sh "23" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 11.43
+$EndPAD
+$PAD
+Sh "24" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 11.43
+$EndPAD
+$PAD
+Sh "25" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 11.43
+$EndPAD
+$PAD
+Sh "26" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 11.43
+$EndPAD
+$PAD
+Sh "27" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 26.67 11.43
+$EndPAD
+$PAD
+Sh "28" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 29.21 11.43
+$EndPAD
+$PAD
+Sh "29" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 31.75 11.43
+$EndPAD
+$PAD
+Sh "30" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 34.29 11.43
+$EndPAD
+$PAD
+Sh "31" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 36.83 11.43
+$EndPAD
+$PAD
+Sh "32" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 39.37 11.43
+$EndPAD
+$PAD
+Sh "33" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 39.37 -11.43
+$EndPAD
+$PAD
+Sh "34" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 36.83 -11.43
+$EndPAD
+$PAD
+Sh "35" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 34.29 -11.43
+$EndPAD
+$PAD
+Sh "36" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 31.75 -11.43
+$EndPAD
+$PAD
+Sh "37" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 29.21 -11.43
+$EndPAD
+$PAD
+Sh "38" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 26.67 -11.43
+$EndPAD
+$PAD
+Sh "39" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 24.13 -11.43
+$EndPAD
+$PAD
+Sh "40" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 21.59 -11.43
+$EndPAD
+$PAD
+Sh "41" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 19.05 -11.43
+$EndPAD
+$PAD
+Sh "42" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.51 -11.43
+$EndPAD
+$PAD
+Sh "43" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.97 -11.43
+$EndPAD
+$PAD
+Sh "44" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 11.43 -11.43
+$EndPAD
+$PAD
+Sh "45" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.89 -11.43
+$EndPAD
+$PAD
+Sh "46" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.35 -11.43
+$EndPAD
+$PAD
+Sh "47" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -11.43
+$EndPAD
+$PAD
+Sh "48" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -11.43
+$EndPAD
+$PAD
+Sh "49" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -11.43
+$EndPAD
+$PAD
+Sh "50" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -11.43
+$EndPAD
+$PAD
+Sh "51" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.35 -11.43
+$EndPAD
+$PAD
+Sh "52" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.89 -11.43
+$EndPAD
+$PAD
+Sh "53" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -11.43 -11.43
+$EndPAD
+$PAD
+Sh "54" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.97 -11.43
+$EndPAD
+$PAD
+Sh "55" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.51 -11.43
+$EndPAD
+$PAD
+Sh "56" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -19.05 -11.43
+$EndPAD
+$PAD
+Sh "57" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -21.59 -11.43
+$EndPAD
+$PAD
+Sh "58" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -24.13 -11.43
+$EndPAD
+$PAD
+Sh "59" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -26.67 -11.43
+$EndPAD
+$PAD
+Sh "60" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -29.21 -11.43
+$EndPAD
+$PAD
+Sh "61" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -31.75 -11.43
+$EndPAD
+$PAD
+Sh "62" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -34.29 -11.43
+$EndPAD
+$PAD
+Sh "63" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -36.83 -11.43
+$EndPAD
+$PAD
+Sh "64" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -39.37 -11.43
+$EndPAD
+$EndMODULE 64DIP900-ELL
+$MODULE 6DIP300
+Po 35 35 0 15 48CF7E57 00000000 ~~
+Li 6DIP300
+Cd DIP 6 round pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "6DIP300"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "6DIP300"
+DS -4.445 -2.54 4.445 -2.54 0.12 30
+DS 4.445 -2.54 4.445 2.54 0.12 30
+DS 4.445 2.54 -4.445 2.54 0.12 30
+DS -4.445 2.54 -4.445 -2.54 0.12 30
+DS -4.445 -0.635 -3.175 -0.635 0.12 30
+DS -3.175 -0.635 -3.175 0.635 0.12 30
+DS -3.175 0.635 -4.445 0.635 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 -3.81
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -3.81
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 -3.81
+$EndPAD
+$EndMODULE 6DIP300
+$MODULE 6DIP300-ELL
+Po 35 25 0 15 49105110 00000000 ~~
+Li 6DIP300-ELL
+Cd DIP 6 elliptical pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "6DIP300-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "6DIP300-ELL"
+DS -4.445 -2.54 4.445 -2.54 0.12 30
+DS 4.445 -2.54 4.445 2.54 0.12 30
+DS 4.445 2.54 -4.445 2.54 0.12 30
+DS -4.445 2.54 -4.445 -2.54 0.12 30
+DS -4.445 -0.635 -3.175 -0.635 0.12 30
+DS -3.175 -0.635 -3.175 0.635 0.12 30
+DS -3.175 0.635 -4.445 0.635 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.54 -3.81
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -3.81
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.54 -3.81
+$EndPAD
+$EndMODULE 6DIP300-ELL
+$MODULE 8DIP300
+Po 35 55 0 15 4659ABA4 00000000 ~~
+Li 8DIP300
+Cd DIP 8 round pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "8DIP300"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "8DIP300"
+DS -5.08 -1.27 -3.81 -1.27 0.12 30
+DS -3.81 -1.27 -3.81 1.27 0.12 30
+DS -3.81 1.27 -5.08 1.27 0.12 30
+DS -5.08 -2.54 5.08 -2.54 0.12 30
+DS 5.08 -2.54 5.08 2.54 0.12 30
+DS 5.08 2.54 -5.08 2.54 0.12 30
+DS -5.08 2.54 -5.08 -2.54 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -3.81
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -3.81
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -3.81
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -3.81
+$EndPAD
+$EndMODULE 8DIP300
+$MODULE 8DIP300-ELL
+Po 35 45 0 15 4659AB57 00000000 ~~
+Li 8DIP300-ELL
+Cd DIP 8 elliptical pins, 300 mils
+Kw DIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "8DIP300-ELL"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "8DIP300-ELL"
+DS -5.08 -1.27 -3.81 -1.27 0.12 30
+DS -3.81 -1.27 -3.81 1.27 0.12 30
+DS -3.81 1.27 -5.08 1.27 0.12 30
+DS -5.08 -2.54 5.08 -2.54 0.12 30
+DS 5.08 -2.54 5.08 2.54 0.12 30
+DS 5.08 2.54 -5.08 2.54 0.12 30
+DS -5.08 2.54 -5.08 -2.54 0.12 30
+$PAD
+Sh "1" R 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "2" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 3.81
+$EndPAD
+$PAD
+Sh "3" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 3.81
+$EndPAD
+$PAD
+Sh "4" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "5" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 -3.81
+$EndPAD
+$PAD
+Sh "6" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.27 -3.81
+$EndPAD
+$PAD
+Sh "7" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.27 -3.81
+$EndPAD
+$PAD
+Sh "8" O 1.3 2 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 -3.81
+$EndPAD
+$EndMODULE 8DIP300-ELL
+$MODULE H08
+Po 100 145 0 15 4910512C 00000000 ~~
+Li H08
+Cd Metal can package 8 pins
+Kw DEV
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "H08"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "H08"
+DS -1.27 7.62 -1.27 8.89 0.12 30
+DS -1.27 8.89 1.27 8.89 0.12 30
+DS 1.27 8.89 1.27 7.62 0.12 30
+DC 0 0 1.27 7.62 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.667 2.667
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 2.667 -2.667
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -3.81
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.667 -2.667
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -2.667 2.667
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$EndMODULE H08
+$MODULE ZIP20
+Po 110 160 0 15 491051A3 00000000 ~~
+Li ZIP20
+Cd ZIP 20 pins
+Kw ZIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "ZIP20"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "ZIP20"
+DS -13.335 2.54 -14.605 1.27 0.12 30
+DS -14.605 1.27 -14.605 -1.27 0.12 30
+DS -14.605 -1.27 -13.335 -2.54 0.12 30
+DS -13.335 -2.54 14.605 -2.54 0.12 30
+DS 14.605 -2.54 14.605 2.54 0.12 30
+DS 14.605 2.54 -13.335 2.54 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -12.065 1.27
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.795 -1.27
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -9.525 1.27
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.255 -1.27
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.985 1.27
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.715 -1.27
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -4.445 1.27
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.175 -1.27
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.905 1.27
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -0.635 -1.27
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0.635 1.27
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.905 -1.27
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.175 1.27
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 4.445 -1.27
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.715 1.27
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.985 -1.27
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.255 1.27
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 9.525 -1.27
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.795 1.27
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 12.065 -1.27
+$EndPAD
+$EndMODULE ZIP20
+$MODULE ZIP24
+Po 110 170 0 15 49105186 00000000 ~~
+Li ZIP24
+Cd ZIP 24 pins
+Kw ZIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "ZIP24"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "ZIP24"
+DS -15.875 2.54 -17.145 1.27 0.12 30
+DS -17.145 1.27 -17.145 -1.27 0.12 30
+DS -17.145 -1.27 -15.875 -2.54 0.12 30
+DS -15.875 -2.54 15.875 -2.54 0.12 30
+DS 15.875 -2.54 15.875 2.54 0.12 30
+DS 15.875 2.54 -15.875 2.54 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -14.605 1.27
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.335 -1.27
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -12.065 1.27
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.795 -1.27
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -9.525 1.27
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.255 -1.27
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.985 1.27
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.715 -1.27
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -4.445 1.27
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.175 -1.27
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.905 1.27
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -0.635 -1.27
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0.635 1.27
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.905 -1.27
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.175 1.27
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 4.445 -1.27
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.715 1.27
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.985 -1.27
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.255 1.27
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 9.525 -1.27
+$EndPAD
+$PAD
+Sh "21" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.795 1.27
+$EndPAD
+$PAD
+Sh "22" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 12.065 -1.27
+$EndPAD
+$PAD
+Sh "23" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.335 1.27
+$EndPAD
+$PAD
+Sh "24" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 14.605 -1.27
+$EndPAD
+$EndMODULE ZIP24
+$MODULE ZIP28
+Po 110 180 0 15 49105198 00000000 ~~
+Li ZIP28
+Cd ZIP 28 pins
+Kw ZIP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "ZIP28"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "ZIP28"
+DS -18.415 2.54 -19.685 1.27 0.12 30
+DS -19.685 1.27 -19.685 -1.27 0.12 30
+DS -19.685 -1.27 -18.415 -2.54 0.12 30
+DS -18.415 -2.54 18.415 -2.54 0.12 30
+DS 18.415 -2.54 18.415 2.54 0.12 30
+DS 18.415 2.54 -18.415 2.54 0.12 30
+$PAD
+Sh "1" R 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -17.145 1.27
+$EndPAD
+$PAD
+Sh "2" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -15.875 -1.27
+$EndPAD
+$PAD
+Sh "3" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -14.605 1.27
+$EndPAD
+$PAD
+Sh "4" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.335 -1.27
+$EndPAD
+$PAD
+Sh "5" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -12.065 1.27
+$EndPAD
+$PAD
+Sh "6" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.795 -1.27
+$EndPAD
+$PAD
+Sh "7" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -9.525 1.27
+$EndPAD
+$PAD
+Sh "8" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -8.255 -1.27
+$EndPAD
+$PAD
+Sh "9" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6.985 1.27
+$EndPAD
+$PAD
+Sh "10" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -5.715 -1.27
+$EndPAD
+$PAD
+Sh "11" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -4.445 1.27
+$EndPAD
+$PAD
+Sh "12" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3.175 -1.27
+$EndPAD
+$PAD
+Sh "13" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.905 1.27
+$EndPAD
+$PAD
+Sh "14" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -0.635 -1.27
+$EndPAD
+$PAD
+Sh "15" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0.635 1.27
+$EndPAD
+$PAD
+Sh "16" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.905 -1.27
+$EndPAD
+$PAD
+Sh "17" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3.175 1.27
+$EndPAD
+$PAD
+Sh "18" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 4.445 -1.27
+$EndPAD
+$PAD
+Sh "19" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 5.715 1.27
+$EndPAD
+$PAD
+Sh "20" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6.985 -1.27
+$EndPAD
+$PAD
+Sh "21" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 8.255 1.27
+$EndPAD
+$PAD
+Sh "22" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 9.525 -1.27
+$EndPAD
+$PAD
+Sh "23" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.795 1.27
+$EndPAD
+$PAD
+Sh "24" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 12.065 -1.27
+$EndPAD
+$PAD
+Sh "25" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.335 1.27
+$EndPAD
+$PAD
+Sh "26" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 14.605 -1.27
+$EndPAD
+$PAD
+Sh "27" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 15.875 1.27
+$EndPAD
+$PAD
+Sh "28" C 1.3 1.3 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 17.145 -1.27
+$EndPAD
+$EndMODULE ZIP28
+$EndLIBRARY

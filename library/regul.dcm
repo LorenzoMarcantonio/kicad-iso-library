@@ -1,0 +1,307 @@
+EESchema-DOCLIB  Version 2.0  Date: lun 14 nov 2011 15:41:03 CET
+#
+$CMP LM117
+D Linear Regulator (adjustable)
+F http://www.national.com/ds/LM/LM117.pdf
+$ENDCMP
+#
+$CMP LM136-2.5
+D Voltage Reference Diode - 2.5V
+F http://www.national.com/ds/LM/LM136-2.5.pdf
+$ENDCMP
+#
+$CMP LM136-5.0
+D Voltage Reference Diode - 5.0V
+F http://www.national.com/ds/LM/LM136-5.0.pdf
+$ENDCMP
+#
+$CMP LM236-2.5
+D Voltage Reference Diode - 2.5V
+F http://www.national.com/ds/LM/LM136-2.5.pdf
+$ENDCMP
+#
+$CMP LM236-5.0
+D Voltage Reference Diode - 5.0V
+F http://www.national.com/ds/LM/LM136-5.0.pdf
+$ENDCMP
+#
+$CMP LM2578
+D Switching Regulator (adjustable)
+F http://www.national.com/ds/LM/LM2578A.pdf
+$ENDCMP
+#
+$CMP LM2578A
+D Switching Regulator (adjustable)
+F http://www.national.com/ds/LM/LM2578A.pdf
+$ENDCMP
+#
+$CMP LM2941
+D 1A Low Dropout Adjustable Regulator
+$ENDCMP
+#
+$CMP LM317
+D Linear Regulator (adjustable)
+F http://www.national.com/ds/LM/LM117.pdf
+$ENDCMP
+#
+$CMP LM317A
+D Linear Regulator (adjustable)
+F http://www.national.com/ds/LM/LM117.pdf
+$ENDCMP
+#
+$CMP LM317L-SO8
+D 100mA Linear Regulator (adjustable)
+$ENDCMP
+#
+$CMP LM320L-05
+D Linear Regulator -5V TO92
+F http://www.national.com/ds/LM/LM320L.pdf
+$ENDCMP
+#
+$CMP LM320L-12
+D Linear Regulator -12V TO92
+F http://www.national.com/ds/LM/LM320L.pdf
+$ENDCMP
+#
+$CMP LM320L-15
+D Linear Regulator -15V TO92
+F http://www.national.com/ds/LM/LM320L.pdf
+$ENDCMP
+#
+$CMP LM336-2.5
+D Voltage Reference Diode - 2.5V
+F http://www.national.com/ds/LM/LM136-2.5.pdf
+$ENDCMP
+#
+$CMP LM336-5.0
+D Voltage Reference Diode - 5.0V
+F http://www.national.com/ds/LM/LM136-5.0.pdf
+$ENDCMP
+#
+$CMP LM3480-3.3
+D Linear Regulator +5V
+F http://www.national.com/ds/LM/LM7512C.pdf
+$ENDCMP
+#
+$CMP LM3578
+D Switching Regulator (adjustable)
+F http://www.national.com/ds/LM/LM2578A.pdf
+$ENDCMP
+#
+$CMP LM3578A
+D Switching Regulator (adjustable)
+F http://www.national.com/ds/LM/LM2578A.pdf
+$ENDCMP
+#
+$CMP LM4128
+D SOT-23 Precision Micropower Series Voltage Reference
+$ENDCMP
+#
+$CMP LM723
+D Linear Voltage Regulator (adjustable)
+F http://www.national.com/ds/LM/LM723.pdf
+$ENDCMP
+#
+$CMP LM723C
+D Linear Voltage Regulator (adjustable)
+F http://www.national.com/ds/LM/LM723.pdf
+$ENDCMP
+#
+$CMP LM7805
+D Linear Regulator +5V
+F http://www.national.com/ds/LM/LM7512C.pdf
+$ENDCMP
+#
+$CMP LM7812
+D Linear Regulator +12V
+F http://www.national.com/ds/LM/LM7512C.pdf
+$ENDCMP
+#
+$CMP LM7815
+D Linear Regulator +15V
+F http://www.national.com/ds/LM/LM7512C.pdf
+$ENDCMP
+#
+$CMP LM78L05
+D Linear Regulator +5V TO92
+F http://www.national.com/ds/LM/LM78L05.pdf
+$ENDCMP
+#
+$CMP LM78L05_SO8
+D Linear Regulator +5V SO8
+F http://www.national.com/ds/LM/LM78L05.pdf
+$ENDCMP
+#
+$CMP LM78L08_SO8
+D Linear Regulator +8V SO8
+F http://www.national.com/ds/LM/LM78L05.pdf
+$ENDCMP
+#
+$CMP LM78L09
+D Linear Regulator +9V TO92
+F http://www.national.com/ds/LM/LM78L05.pdf
+$ENDCMP
+#
+$CMP LM78L12
+D Linear Regulator +12V TO92
+F http://www.national.com/ds/LM/LM78L05.pdf
+$ENDCMP
+#
+$CMP LM78L12_SO8
+D Linear Regulator +12V SO8
+F http://www.national.com/ds/LM/LM78L05.pdf
+$ENDCMP
+#
+$CMP LM78L15
+D Linear Regulator +15V TO92
+F http://www.national.com/ds/LM/LM78L05.pdf
+$ENDCMP
+#
+$CMP LM78L15_SO8
+D Linear Regulator +15V SO8
+F http://www.national.com/ds/LM/LM78L05.pdf
+$ENDCMP
+#
+$CMP LM78L62
+D Linear Regulator +6.2V TO92
+F http://www.national.com/ds/LM/LM78L05.pdf
+$ENDCMP
+#
+$CMP LM78L82
+D Linear Regulator +8.2V TO92
+F http://www.national.com/ds/LM/LM78L05.pdf
+$ENDCMP
+#
+$CMP LM7905
+D Linear Regulator -5V
+F http://www.national.com/ds/LM/LM7905.pdf
+$ENDCMP
+#
+$CMP LM7912
+D Linear Regulator -12V
+F http://www.national.com/ds/LM/LM7905.pdf
+$ENDCMP
+#
+$CMP LM7915
+D Linear Regulator -15V
+F http://www.national.com/ds/LM/LM7915.pdf
+$ENDCMP
+#
+$CMP LM79L05
+D Linear Regulator -5V TO92
+F http://www.national.com/ds/LM/LM320L.pdf
+$ENDCMP
+#
+$CMP LM79L05_SO8
+D Linear Regulator -5V SO8
+F http://www.national.com/ds/LM/LM320L.pdf
+$ENDCMP
+#
+$CMP LM79L12
+D Linear Regulator -12V TO92
+F http://www.national.com/ds/LM/LM320L.pdf
+$ENDCMP
+#
+$CMP LM79L12_SO8
+D Linear Regulator -12V SO8
+F http://www.national.com/ds/LM/LM320L.pdf
+$ENDCMP
+#
+$CMP LM79L15
+D Linear Regulator -15V TO92
+F http://www.national.com/ds/LM/LM320L.pdf
+$ENDCMP
+#
+$CMP LM79L15_SO8
+D Linear Regulator -15V SO8
+F http://www.national.com/ds/LM/LM320L.pdf
+$ENDCMP
+#
+$CMP LP2985LV-1.5
+D 1.5V Micropower 150mA Low-Noise Low-Dropout Regulator
+F http://www.national.com/ds/LP/LP2985LV.pdf
+$ENDCMP
+#
+$CMP LP2985LV-135
+D 1.35V Micropower 150mA Low-Noise Low-Dropout Regulator
+F http://www.national.com/ds/LP/LP2985LV.pdf
+$ENDCMP
+#
+$CMP LP5900-LLP6
+D Ultra Low Noise, 150 mA Linear Regulator for RF/Analog Circuits requires No Bypass Capacitor
+$ENDCMP
+#
+$CMP LV2985LV-1.8
+D 1.8V Micropower 150mA Low-Noise Low-Dropout Regulator
+F http://www.national.com/ds/LP/LP2985LV.pdf
+$ENDCMP
+#
+$CMP LV2985LV-2.0
+D 2V Micropower 150mA Low-Noise Low-Dropout Regulator
+F http://www.national.com/ds/LP/LP2985LV.pdf
+$ENDCMP
+#
+$CMP MC33063A
+D 1.5A Step-Up/Down/Inverting Switching Regulator
+F http://www.onsemi.com/pub/Collateral/MC34063A-D.PDF
+$ENDCMP
+#
+$CMP MC34063
+D 1.5A Step-Up/Down/Inverting Switching Regulator
+F http://www.onsemi.com/pub/Collateral/MC34063A-D.PDF
+$ENDCMP
+#
+$CMP MC34063A
+D 1.5A Step-Up/Down/Inverting Switching Regulator
+F http://www.onsemi.com/pub/Collateral/MC34063A-D.PDF
+$ENDCMP
+#
+$CMP MC7815BD
+D Linear Regulator +15V
+$ENDCMP
+#
+$CMP MIC2177
+D Adjustable 2.5A Synchronous Buck Regulator
+F http://www.micrel.com/_PDF/mic2177.pdf
+$ENDCMP
+#
+$CMP MIC2177-3.3
+D 3.3V 2.5A Synchronous Buck Regulator
+F http://www.micrel.com/_PDF/mic2177.pdf
+$ENDCMP
+#
+$CMP MIC2177-5.0
+D 5V 2.5A Synchronous Buck Regulator
+F http://www.micrel.com/_PDF/mic2177.pdf
+$ENDCMP
+#
+$CMP PT6101
+D 5V 1A Adjustable Positive Step-Down Integrated Switching Regulator 
+F http://www.ti.com/lit/gpn/pt6101
+$ENDCMP
+#
+$CMP PT6102
+D 3.3V 1A Adjustable Positive Step-Down Integrated Switching Regulator 
+F http://www.ti.com/lit/gpn/pt6101
+$ENDCMP
+#
+$CMP PT6103
+D 12V 1A Adjustable Positive Step-Down Integrated Switching Regulator 
+F http://www.ti.com/lit/gpn/pt6101
+$ENDCMP
+#
+$CMP TL497
+D 500-mA Peak Step-Up, Step-Down, Inverting Switching Voltage Regulator
+F http://www.ti.com/lit/gpn/tl497a
+$ENDCMP
+#
+$CMP TL497A
+D 500-mA Peak Step-Up, Step-Down, Inverting Switching Voltage Regulator
+F http://www.ti.com/lit/gpn/tl497a
+$ENDCMP
+#
+$CMP TLV70033DDC
+D 200-mA, Low-Iq, Low-Dropout Regulator for Portable Device
+$ENDCMP
+#
+#End Doc Library

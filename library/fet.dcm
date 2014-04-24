@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDG6320C
+D Dual N & P Channel Digital FET
+$ENDCMP
+#
+$CMP FDS6961A
+D Dual N-Channel Logic Level PowerTrench MOSFET
+$ENDCMP
+#
+$CMP FDY3000NZ
+D Dual N-Channel 2.5V Specified PowerTrench MOSFET
+$ENDCMP
+#
+$CMP IPS6021
+D Intelligent Power High Side Switch
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,75 @@
+(page_layout
+  (setup 
+    (textsize 3.5 3.5) 
+    (linewidth 0.35) 
+    (textlinewidth 0.35)
+    (left_margin 15) 
+    (right_margin 5) 
+    (top_margin 5)
+    (bottom_margin 5))
+
+# Drawing area
+    (rect (linewidth 0.7) 
+      (start 5 5 ltcorner) (end 5 5 rbcorner))
+
+# Coordinate grid outer border
+    (rect (start 0 0 ltcorner) (end 0 0 rbcorner))
+
+# Horizontal centering marks
+    (line (start 200 0 ltcorner) (end 200 10 ltcorner) (linewidth 0.7))
+    (line (start 200 0 lbcorner) (end 200 10 lbcorner) (linewidth 0.7))
+
+# Horizontal grid marks
+    (line (start 50 5 ltcorner) (end 50 0 ltcorner) (repeat 100) (incrx 50))
+    (line (start 50 5 lbcorner) (end 50 0 lbcorner) (repeat 100) (incrx 50))
+
+    (tbtext "1" (pos 20 2.4 ltcorner) (justify center) (repeat 100) (incrx 50))
+    (tbtext "1" (pos 20 2.7 lbcorner) (justify center) (repeat 100) (incrx 50))
+
+# Vertical centering marks
+    (line (start 0 143.5 ltcorner) (end 10 143.5 ltcorner) (linewidth 0.7))
+    (line (start 0 143.5 rtcorner) (end 10 143.5 rtcorner) (linewidth 0.7))
+
+# Vertical grid marks
+    (line (start 0 43.5 ltcorner) (end 5 43.5 ltcorner) (repeat 100) (incry 50))
+    (line (start 0 43.5 rtcorner) (end 5 43.5 rtcorner) (repeat 100) (incry 50))
+
+    (tbtext "A" (pos 2.5 18.5 ltcorner) (justify center) (repeat 100) (incry 50))
+    (tbtext "A" (pos 2.5 18.5 rtcorner) (justify center) (repeat 100) (incry 50))
+
+# Title block frame
+    (line (start 185 5) (end 185 45))
+    (line (start 185 45) (end 5 45))
+
+# Bottom line
+    (line (start 185 15) (end 5 15))
+    (tbtext "Sheet" (pos 18 12.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "%S/%N" (pos 18 8.2) (justify left))
+    (line (start 20 5) (end 20 15))
+    (tbtext "Size" (pos 33 12.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "%Z" (pos 33 8.2) (justify left))
+    (line (start 35 5) (end 35 15))
+    (tbtext "Revision" (pos 63 12.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "%R" (pos 63 8.2) (justify left))
+    (line (start 65 5) (end 65 15))
+    (tbtext "Issue Date" (pos 93 12.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "%D" (pos 93 8.2) (justify left))
+    (line (start 95 5) (end 95 15))
+    (tbtext "Scale" (pos 108 12.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "1:1" (pos 108 8.2) (justify left))
+    (line (start 110 5) (end 110 15))
+    (tbtext "Filename" (pos 183 12.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "%F" (pos 183 8.2) (justify left))
+
+# Owner block
+    (line (start 125 25) (end 5 25))
+    (line (start 125 15) (end 125 45))
+    (tbtext "%Y" (pos 183 38.2) (justify left))
+
+# Title, path, subtitles (comments). C0 is the subtitle
+    (tbtext "Title" (pos 123 42.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "%T" (pos 123 38.2) (justify left))
+    (tbtext "%P" (pos 123 32.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "%C0" (pos 123 28.2) (justify left))
+    (tbtext "Reference" (pos 123 22.7) (font (size 2.5 2.5)) (justify left))
+    (tbtext "%C1" (pos 123 18.2) (justify left)))

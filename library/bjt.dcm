@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NPN
+D NPN Bipolar Transistor
+$ENDCMP
+#
+$CMP NPN-DARLINGTON
+D NPN Darlington Bipolar Transistor
+$ENDCMP
+#
+$CMP PNP
+D PNP Bipolar Transistor
+$ENDCMP
+#
+$CMP PNP-DARLINGTON
+D PNP Darlington Bipolar Transistor
+$ENDCMP
+#
+#End Doc Library

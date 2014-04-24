@@ -1,0 +1,79 @@
+EESchema-DOCLIB  Version 2.0  Date: ven 17 feb 2012 13:48:12 CET
+#
+$CMP COIL
+D Coil
+$ENDCMP
+#
+$CMP KONTACT_2P
+D Contactor - 2 poles
+$ENDCMP
+#
+$CMP KONTACT_3P
+D Contactor - 3 poles
+$ENDCMP
+#
+$CMP KONTACT_4P
+D Contactor - 4 poles
+$ENDCMP
+#
+$CMP POWERSUPPLY_ACDC
+D AC/DC Converter (Power Supply)
+$ENDCMP
+#
+$CMP POWERSUPPLY_DCAC
+D DC/AC Converter (Inverter)
+$ENDCMP
+#
+$CMP POWERSUPPLY_DCDC
+D DC/DC Converter
+$ENDCMP
+#
+$CMP RELAY_A
+D Relay - 1 A-Form Contact
+$ENDCMP
+#
+$CMP RELAY_AA
+D Relay - 2 A-Form Contacts
+$ENDCMP
+#
+$CMP RELAY_AAA
+D Relay - 3 A-Form Contacts
+$ENDCMP
+#
+$CMP RELAY_AAAA
+D Relay - 4 A-Form Contacts
+$ENDCMP
+#
+$CMP RELAY_AAAB
+D Relay - 3 A-Form + 1 B-Form Contacts
+$ENDCMP
+#
+$CMP RELAY_AABB
+D Relay - 2 A-Form + 2 B-Form Contacts
+$ENDCMP
+#
+$CMP RELAY_BAAA
+D Relay - 1 B-Form + 3 A-Form Contacts
+$ENDCMP
+#
+$CMP RELAY_C
+D Relay - 1 C-Form Contact
+$ENDCMP
+#
+$CMP SWDISC_1P
+D Switch-disconnector - 1 pole
+$ENDCMP
+#
+$CMP SWDISC_2P
+D Switch-disconnector - 2 poles
+$ENDCMP
+#
+$CMP SWDISC_3P
+D Switch-disconnector - 3 poles
+$ENDCMP
+#
+$CMP SWDISC_4P
+D Switch-disconnector - 3 poles
+$ENDCMP
+#
+#End Doc Library

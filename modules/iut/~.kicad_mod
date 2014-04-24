@@ -1,0 +1,6 @@
+(module "~" (layer "F.Cu")
+  (fp_text reference "~" (at 0 0) (layer "F.SilkS")  (effects (font (size 1.2 1.2) (thickness 0.12)))
+  )
+  (fp_text value "~" (at 0 0) (layer "F.SilkS") hide  (effects (font (size 1.2 1.2) (thickness 0.12)))
+  )
+)

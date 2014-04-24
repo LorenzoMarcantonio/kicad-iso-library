@@ -1,0 +1,79 @@
+EESchema-DOCLIB  Version 2.0  Date: gio 12 gen 2012 15:06:38 CET
+#
+$CMP MCP23017
+D 16-bit I/O Expander with Serial Interface
+$ENDCMP
+#
+$CMP PCA9516
+D 5 channels I2C hub
+K I2C HUB
+F philips/pca9516.pdf
+$ENDCMP
+#
+$CMP PCD8584
+D I2C bus controller (old name)
+K I2C CONTROLLER
+F philips/pcf8584.pdf
+$ENDCMP
+#
+$CMP PCF8563
+D Real time clock/calendar
+K I2C RTC
+F philips/pcf8563.pdf
+$ENDCMP
+#
+$CMP PCF8574
+D Remote 8 bit I/O expander for I2C bus
+K I2C EXPANDER
+F philips/pcf8574.pdf
+$ENDCMP
+#
+$CMP PCF8584
+D I2C bus controller
+K I2C CONTROLLER
+F philips/pcf8584.pdf
+$ENDCMP
+#
+$CMP PCF8591
+D I2C 8-bit A/D and D/A converter
+K I2C ADC DAC
+F philips/pcf8591.pdf
+$ENDCMP
+#
+$CMP SAA7182
+D Digital video encoder (EURO-DENC)
+K VIDEO ENCODER
+F philips/saa7182.pdf
+$ENDCMP
+#
+$CMP SAA7183
+D Digital video encoder with Macrovision protection (EURO-DENC) 
+K VIDEO ENCODER
+F philips/saa7182.pdf
+$ENDCMP
+#
+$CMP SC16IS752
+D Dual UART with I2C-bus/SPI interface
+K UART I2C SPI
+F philips/sc16is752.sc16is762.pdf
+$ENDCMP
+#
+$CMP SC16IS762
+D Dual UART with I2C-bus/SPI interface
+K UART I2C SPI
+F philips/sc16is752.sc16is762.pdf
+$ENDCMP
+#
+$CMP TDA8501
+D PAL/NTSC encoder
+K VIDEO PAL NTSC ENCODER
+F philips/tda8501.pdf
+$ENDCMP
+#
+$CMP TDA8772
+D Triple 8-bit video D/A converter
+K VIDEO DAC
+F philips/tda8772.pdf
+$ENDCMP
+#
+#End Doc Library

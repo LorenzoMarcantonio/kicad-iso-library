@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0  Date: gio 07 giu 2012 10:47:14 CEST
+#
+$CMP 41206ESDA
+D Four Element Array Chip Polymer ESD Suppressor with SurgX Technology
+$ENDCMP
+#
+$CMP GAS-SUPPRESSOR
+D Gas Suppressor
+$ENDCMP
+#
+$CMP GAS-SUPPRESSOR-3
+D Bipolar Gas Suppressor
+$ENDCMP
+#
+$CMP LT4356-1_MSOP10
+D Surge Stopper
+$ENDCMP
+#
+$CMP TVS-4PACK
+D Pack of 4 TVS diodes
+$ENDCMP
+#
+$CMP USBLC6-2
+D Very Low Capacitance ESD Protection
+$ENDCMP
+#
+$CMP VARISTOR
+D Varistor
+$ENDCMP
+#
+#End Doc Library

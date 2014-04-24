@@ -1,0 +1,2942 @@
+PCBNEW-LibModule-V1  sab 17 ago 2013 22:28:01 CEST
+# encoding utf-8
+Units mm
+$INDEX
+MICROFIT-43045-02
+MICROFIT-43045-04
+MICROFIT-43045-06
+MICROFIT-43045-08
+MICROFIT-43045-08RA
+MICROFIT-43045-10
+MICROFIT-43045-12
+MICROFIT-43045-14
+MICROFIT-43045-16
+MICROFIT-43045-18
+MICROFIT-43045-20
+MICROFIT-43045-22
+MICROFIT-43045-24
+$EndINDEX
+$MODULE MICROFIT-43045-02
+Po 50 30 0 15 514F4C10 00000000 ~~
+Li MICROFIT-43045-02
+Cd Microfit 3.0 vertical header 2x1 pin
+Sc 0
+AR MICROFIT-43045-02
+Op 0 0 0
+At SMD
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "MICROFIT-43045-02"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "MICROFIT-43045-02"
+DS 5.9 -6.25 -5.9 -6.25 0.01 32
+DS -5.9 -6.25 -5.9 6.25 0.01 32
+DS -5.9 6.25 5.9 6.25 0.01 32
+DS 5.9 6.25 5.9 -6.25 0.01 32
+DS -3.7 -2.3 -4.9 -1.7 0.12 21
+DS -4.9 -1.7 -4.9 -2.9 0.12 21
+DS -4.9 -2.9 -3.7 -2.3 0.12 21
+DS -1 3.4 -1 4.8 0.12 21
+DS -1 4.8 1 4.8 0.12 21
+DS 1 4.8 1 3.4 0.12 21
+DS -3.7 -4 -3.7 3.4 0.12 21
+DS -3.7 3.4 3.7 3.4 0.12 21
+DS 3.7 3.4 3.7 -4 0.12 21
+DS 3.7 -4 -3.7 -4 0.12 21
+$PAD
+Sh "1" R 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -1.5
+$EndPAD
+$PAD
+Sh "2" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 1.5
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po -3 2.4
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po 3 2.4
+$EndPAD
+$PAD
+Sh "1" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -4.7
+$EndPAD
+$PAD
+Sh "2" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 4.7
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.9 0
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.9 0
+$EndPAD
+$EndMODULE MICROFIT-43045-02
+$MODULE MICROFIT-43045-04
+Po 50 45 0 15 514F4C44 00000000 ~~
+Li MICROFIT-43045-04
+Cd Microfit 3.0 vertical header 2x2 pin
+Sc 0
+AR MICROFIT-43045-04
+Op 0 0 0
+At SMD
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "MICROFIT-43045-04"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "MICROFIT-43045-04"
+DS 7.4 -6.25 -7.4 -6.25 0.01 32
+DS -7.4 -6.25 -7.4 6.25 0.01 32
+DS -7.4 6.25 7.4 6.25 0.01 32
+DS 7.4 6.25 7.4 -6.25 0.01 32
+DS -5.2 -2.3 -6.4 -1.7 0.12 21
+DS -6.4 -1.7 -6.4 -2.9 0.12 21
+DS -6.4 -2.9 -5.2 -2.3 0.12 21
+DS 5.2 3.4 -5.2 3.4 0.12 21
+DS -5.2 -4 5.2 -4 0.12 21
+DS -1 3.4 -1 4.8 0.12 21
+DS -1 4.8 1 4.8 0.12 21
+DS 1 4.8 1 3.4 0.12 21
+DS -5.2 -4 -5.2 3.4 0.12 21
+DS 5.2 3.4 5.2 -4 0.12 21
+$PAD
+Sh "1" R 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.5 -1.5
+$EndPAD
+$PAD
+Sh "3" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.5 1.5
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po -4.5 2.4
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po 4.5 2.4
+$EndPAD
+$PAD
+Sh "2" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.5 -1.5
+$EndPAD
+$PAD
+Sh "4" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.5 1.5
+$EndPAD
+$PAD
+Sh "1" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.5 -4.7
+$EndPAD
+$PAD
+Sh "2" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 -4.7
+$EndPAD
+$PAD
+Sh "3" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.5 4.7
+$EndPAD
+$PAD
+Sh "4" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 4.7
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.4 0
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.4 0
+$EndPAD
+$EndMODULE MICROFIT-43045-04
+$MODULE MICROFIT-43045-06
+Po 50 60 0 15 514F4C80 00000000 ~~
+Li MICROFIT-43045-06
+Cd Microfit 3.0 vertical header 2x3 pin
+Sc 0
+AR MICROFIT-43045-06
+Op 0 0 0
+At SMD
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "MICROFIT-43045-06"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "MICROFIT-43045-06"
+DS 8.9 -6.25 -8.9 -6.25 0.01 32
+DS -8.9 -6.25 -8.9 6.25 0.01 32
+DS -8.9 6.25 8.9 6.25 0.01 32
+DS 8.9 6.25 8.9 -6.25 0.01 32
+DS -6.7 -2.3 -7.9 -2.9 0.12 21
+DS -7.9 -2.9 -7.9 -1.7 0.12 21
+DS -7.9 -1.7 -6.7 -2.3 0.12 21
+DS 6.7 3.4 -6.7 3.4 0.12 21
+DS -6.7 -4 6.7 -4 0.12 21
+DS -1 3.4 -1 4.8 0.12 21
+DS -1 4.8 1 4.8 0.12 21
+DS 1 4.8 1 3.4 0.12 21
+DS -6.7 -4 -6.7 3.4 0.12 21
+DS 6.7 3.4 6.7 -4 0.12 21
+$PAD
+Sh "1" R 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3 -1.5
+$EndPAD
+$PAD
+Sh "3" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3 -1.5
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po -6 2.4
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po 6 2.4
+$EndPAD
+$PAD
+Sh "2" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -1.5
+$EndPAD
+$PAD
+Sh "4" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3 1.5
+$EndPAD
+$PAD
+Sh "5" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 1.5
+$EndPAD
+$PAD
+Sh "6" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3 1.5
+$EndPAD
+$PAD
+Sh "1" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 -4.7
+$EndPAD
+$PAD
+Sh "2" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -4.7
+$EndPAD
+$PAD
+Sh "3" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 -4.7
+$EndPAD
+$PAD
+Sh "4" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 4.7
+$EndPAD
+$PAD
+Sh "5" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 4.7
+$EndPAD
+$PAD
+Sh "6" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 4.7
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.9 0
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.9 0
+$EndPAD
+$EndMODULE MICROFIT-43045-06
+$MODULE MICROFIT-43045-08
+Po 50 75 0 15 514F4CB4 00000000 ~~
+Li MICROFIT-43045-08
+Cd Microfit 3.0 vertical header 2x4 pin
+Sc 0
+AR MICROFIT-43045-08
+Op 0 0 0
+At SMD
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "MICROFIT-43045-08"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "MICROFIT-43045-08"
+DS 10.4 -6.25 -10.4 -6.25 0.01 32
+DS -10.4 -6.25 -10.4 6.25 0.01 32
+DS -10.4 6.25 10.4 6.25 0.01 32
+DS 10.4 6.25 10.4 -6.25 0.01 32
+DS -8.2 -2.3 -9.4 -1.7 0.12 21
+DS -9.4 -1.7 -9.4 -2.9 0.12 21
+DS -9.4 -2.9 -8.2 -2.3 0.12 21
+DS -8.2 3.4 8.2 3.4 0.12 21
+DS 8.2 -4 -8.2 -4 0.12 21
+DS -1 3.4 -1 4.8 0.12 21
+DS -1 4.8 1 4.8 0.12 21
+DS 1 4.8 1 3.4 0.12 21
+DS -8.2 -4 -8.2 3.4 0.12 21
+DS 8.2 3.4 8.2 -4 0.12 21
+$PAD
+Sh "1" R 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -4.5 -1.5
+$EndPAD
+$PAD
+Sh "3" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.5 -1.5
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po -7.5 2.4
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po 7.5 2.4
+$EndPAD
+$PAD
+Sh "2" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.5 -1.5
+$EndPAD
+$PAD
+Sh "4" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 4.5 -1.5
+$EndPAD
+$PAD
+Sh "5" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -4.5 1.5
+$EndPAD
+$PAD
+Sh "6" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.5 1.5
+$EndPAD
+$PAD
+Sh "7" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.5 1.5
+$EndPAD
+$PAD
+Sh "8" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 4.5 1.5
+$EndPAD
+$PAD
+Sh "1" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.5 -4.7
+$EndPAD
+$PAD
+Sh "2" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.5 -4.7
+$EndPAD
+$PAD
+Sh "3" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 -4.7
+$EndPAD
+$PAD
+Sh "4" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 -4.7
+$EndPAD
+$PAD
+Sh "5" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.5 4.7
+$EndPAD
+$PAD
+Sh "6" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.5 4.7
+$EndPAD
+$PAD
+Sh "7" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 4.7
+$EndPAD
+$PAD
+Sh "8" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 4.7
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.4 0
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.4 0
+$EndPAD
+$EndMODULE MICROFIT-43045-08
+$MODULE MICROFIT-43045-08RA
+Po 50 125 0 15 520DEE78 00000000 ~~
+Li MICROFIT-43045-08RA
+Cd Microfit 3.0 right angle header 2x4 pin
+Sc 0
+AR MICROFIT-43045-08
+Op 0 0 0
+At SMD
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "MICROFIT-43045-08RA"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "MICROFIT-43045-08RA"
+DS -7.9 -9.4 -6.9 -10.4 0.12 30
+DS -6.7 -0.4 -7.3 0.8 0.12 21
+DS -7.3 0.8 -6.1 0.8 0.12 21
+DS -6.1 0.8 -6.7 -0.4 0.12 21
+DS 7.9 -2.3 7.9 -10.4 0.12 21
+DS 7.9 -10.4 -7.9 -10.4 0.12 21
+DS -7.9 -10.4 -7.9 -0.4 0.12 21
+DS 4.5 -1.5 4.5 1.5 0.12 30
+DS 1.5 1.5 1.5 -1.5 0.12 30
+DS -1.5 -1.5 -1.5 1.5 0.12 30
+DS -4.5 1.5 -4.5 -1.5 0.12 30
+DS -8.25 -10.5 8.25 -10.5 0.01 32
+DS 8.25 -10.5 8.25 2.6 0.01 32
+DS 8.25 2.6 -8.25 2.6 0.01 32
+DS -8.25 2.6 -8.25 -10.5 0.01 32
+DS -0.7 -10.4 -0.7 -8.4 0.12 30
+DS -0.7 -8.4 0.7 -8.4 0.12 30
+DS 0.7 -8.4 0.7 -10.4 0.12 30
+DS -7.9 -10.4 7.9 -10.4 0.12 30
+DS 7.9 -10.4 7.9 -0.4 0.12 30
+DS 7.9 -0.4 -7.9 -0.4 0.12 30
+DS -7.9 -0.4 -7.9 -10.4 0.12 30
+$PAD
+Sh "1" R 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -4.5 -1.5
+$EndPAD
+$PAD
+Sh "3" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.5 -1.5
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00C0FFFF
+Ne 0 ""
+Po -2.35 -5.8
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00C0FFFF
+Ne 0 ""
+Po 2.35 -5.8
+$EndPAD
+$PAD
+Sh "2" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.5 -1.5
+$EndPAD
+$PAD
+Sh "4" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 4.5 -1.5
+$EndPAD
+$PAD
+Sh "5" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -4.5 1.5
+$EndPAD
+$PAD
+Sh "6" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.5 1.5
+$EndPAD
+$PAD
+Sh "7" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.5 1.5
+$EndPAD
+$PAD
+Sh "8" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 4.5 1.5
+$EndPAD
+$EndMODULE MICROFIT-43045-08RA
+$MODULE MICROFIT-43045-10
+Po 50 90 0 15 514F4CDC 00000000 ~~
+Li MICROFIT-43045-10
+Cd Microfit 3.0 vertical header 2x5 pin
+Sc 0
+AR MICROFIT-43045-10
+Op 0 0 0
+At SMD
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "MICROFIT-43045-10"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "MICROFIT-43045-10"
+DS 11.9 -6.25 -11.9 -6.25 0.01 32
+DS -11.9 -6.25 -11.9 6.25 0.01 32
+DS -11.9 6.25 11.9 6.25 0.01 32
+DS 11.9 6.25 11.9 -6.25 0.01 32
+DS -9.7 -2.3 -10.9 -2.9 0.12 21
+DS -10.9 -2.9 -10.9 -1.7 0.12 21
+DS -10.9 -1.7 -9.7 -2.3 0.12 21
+DS 9.7 3.4 -9.7 3.4 0.12 21
+DS -9.7 -4 9.7 -4 0.12 21
+DS -1 3.4 -1 4.8 0.12 21
+DS -1 4.8 1 4.8 0.12 21
+DS 1 4.8 1 3.4 0.12 21
+DS -9.7 -4 -9.7 3.4 0.12 21
+DS 9.7 3.4 9.7 -4 0.12 21
+$PAD
+Sh "1" R 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6 -1.5
+$EndPAD
+$PAD
+Sh "3" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -1.5
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po -9 2.4
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po 9 2.4
+$EndPAD
+$PAD
+Sh "2" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3 -1.5
+$EndPAD
+$PAD
+Sh "4" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3 -1.5
+$EndPAD
+$PAD
+Sh "5" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6 -1.5
+$EndPAD
+$PAD
+Sh "6" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6 1.5
+$EndPAD
+$PAD
+Sh "7" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3 1.5
+$EndPAD
+$PAD
+Sh "8" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 1.5
+$EndPAD
+$PAD
+Sh "9" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3 1.5
+$EndPAD
+$PAD
+Sh "10" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6 1.5
+$EndPAD
+$PAD
+Sh "1" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 -4.7
+$EndPAD
+$PAD
+Sh "2" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 -4.7
+$EndPAD
+$PAD
+Sh "3" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -4.7
+$EndPAD
+$PAD
+Sh "4" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 -4.7
+$EndPAD
+$PAD
+Sh "5" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 -4.7
+$EndPAD
+$PAD
+Sh "6" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 4.7
+$EndPAD
+$PAD
+Sh "7" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 4.7
+$EndPAD
+$PAD
+Sh "8" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 4.7
+$EndPAD
+$PAD
+Sh "9" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 4.7
+$EndPAD
+$PAD
+Sh "10" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 4.7
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.9 0
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.9 0
+$EndPAD
+$EndMODULE MICROFIT-43045-10
+$MODULE MICROFIT-43045-12
+Po 50 105 0 15 514F4D10 00000000 ~~
+Li MICROFIT-43045-12
+Cd Microfit 3.0 vertical header 2x6 pin
+Sc 0
+AR MICROFIT-43045-12
+Op 0 0 0
+At SMD
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "MICROFIT-43045-12"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "MICROFIT-43045-12"
+DS 13.4 -6.25 -13.4 -6.25 0.01 32
+DS -13.4 -6.25 -13.4 6.25 0.01 32
+DS -13.4 6.25 13.4 6.25 0.01 32
+DS 13.4 6.25 13.4 -6.25 0.01 32
+DS -11.2 -2.3 -12.4 -2.9 0.12 21
+DS -12.4 -2.9 -12.4 -1.7 0.12 21
+DS -12.4 -1.7 -11.2 -2.3 0.12 21
+DS 11.2 3.4 -11.2 3.4 0.12 21
+DS -11.2 -4 11.2 -4 0.12 21
+DS -1 3.4 -1 4.8 0.12 21
+DS -1 4.8 1 4.8 0.12 21
+DS 1 4.8 1 3.4 0.12 21
+DS -11.2 -4 -11.2 3.4 0.12 21
+DS 11.2 3.4 11.2 -4 0.12 21
+$PAD
+Sh "1" R 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.5 -1.5
+$EndPAD
+$PAD
+Sh "3" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.5 -1.5
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po -10.5 2.4
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po 10.5 2.4
+$EndPAD
+$PAD
+Sh "2" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -4.5 -1.5
+$EndPAD
+$PAD
+Sh "4" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.5 -1.5
+$EndPAD
+$PAD
+Sh "5" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 4.5 -1.5
+$EndPAD
+$PAD
+Sh "6" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.5 -1.5
+$EndPAD
+$PAD
+Sh "7" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.5 1.5
+$EndPAD
+$PAD
+Sh "8" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -4.5 1.5
+$EndPAD
+$PAD
+Sh "9" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.5 1.5
+$EndPAD
+$PAD
+Sh "10" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.5 1.5
+$EndPAD
+$PAD
+Sh "11" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 4.5 1.5
+$EndPAD
+$PAD
+Sh "12" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.5 1.5
+$EndPAD
+$PAD
+Sh "1" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 -4.7
+$EndPAD
+$PAD
+Sh "2" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.5 -4.7
+$EndPAD
+$PAD
+Sh "3" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.5 -4.7
+$EndPAD
+$PAD
+Sh "4" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 -4.7
+$EndPAD
+$PAD
+Sh "5" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 -4.7
+$EndPAD
+$PAD
+Sh "6" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 -4.7
+$EndPAD
+$PAD
+Sh "7" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 4.7
+$EndPAD
+$PAD
+Sh "8" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.5 4.7
+$EndPAD
+$PAD
+Sh "9" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.5 4.7
+$EndPAD
+$PAD
+Sh "10" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 4.7
+$EndPAD
+$PAD
+Sh "11" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 4.7
+$EndPAD
+$PAD
+Sh "12" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 4.7
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -11.4 0
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.4 0
+$EndPAD
+$EndMODULE MICROFIT-43045-12
+$MODULE MICROFIT-43045-14
+Po 95 105 0 15 514F4D78 00000000 ~~
+Li MICROFIT-43045-14
+Cd Microfit 3.0 vertical header 2x7 pin
+Sc 0
+AR MICROFIT-43045-14
+Op 0 0 0
+At SMD
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "MICROFIT-43045-14"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "MICROFIT-43045-14"
+DS 14.9 -6.25 14.9 6.25 0.01 32
+DS 14.9 6.25 -14.9 6.25 0.01 32
+DS -14.9 6.25 -14.9 -6.25 0.01 32
+DS -14.9 -6.25 14.9 -6.25 0.01 32
+DS -12.7 -2.3 -13.9 -2.9 0.12 21
+DS -13.9 -2.9 -13.9 -1.7 0.12 21
+DS -13.9 -1.7 -12.7 -2.3 0.12 21
+DS 12.7 3.4 -12.7 3.4 0.12 21
+DS -12.7 -4 12.7 -4 0.12 21
+DS -1 3.4 -1 4.8 0.12 21
+DS -1 4.8 1 4.8 0.12 21
+DS 1 4.8 1 3.4 0.12 21
+DS -12.7 -4 -12.7 3.4 0.12 21
+DS 12.7 3.4 12.7 -4 0.12 21
+$PAD
+Sh "1" R 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -9 -1.5
+$EndPAD
+$PAD
+Sh "3" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3 -1.5
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po -12 2.4
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po 12 2.4
+$EndPAD
+$PAD
+Sh "2" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6 -1.5
+$EndPAD
+$PAD
+Sh "4" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -1.5
+$EndPAD
+$PAD
+Sh "5" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3 -1.5
+$EndPAD
+$PAD
+Sh "6" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6 -1.5
+$EndPAD
+$PAD
+Sh "7" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 9 -1.5
+$EndPAD
+$PAD
+Sh "8" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -9 1.5
+$EndPAD
+$PAD
+Sh "9" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6 1.5
+$EndPAD
+$PAD
+Sh "10" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3 1.5
+$EndPAD
+$PAD
+Sh "11" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 1.5
+$EndPAD
+$PAD
+Sh "12" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3 1.5
+$EndPAD
+$PAD
+Sh "13" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6 1.5
+$EndPAD
+$PAD
+Sh "14" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 9 1.5
+$EndPAD
+$PAD
+Sh "1" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 -4.7
+$EndPAD
+$PAD
+Sh "2" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 -4.7
+$EndPAD
+$PAD
+Sh "3" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 -4.7
+$EndPAD
+$PAD
+Sh "4" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -4.7
+$EndPAD
+$PAD
+Sh "5" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 -4.7
+$EndPAD
+$PAD
+Sh "6" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 -4.7
+$EndPAD
+$PAD
+Sh "7" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 -4.7
+$EndPAD
+$PAD
+Sh "8" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 4.7
+$EndPAD
+$PAD
+Sh "9" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 4.7
+$EndPAD
+$PAD
+Sh "10" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 4.7
+$EndPAD
+$PAD
+Sh "11" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 4.7
+$EndPAD
+$PAD
+Sh "12" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 4.7
+$EndPAD
+$PAD
+Sh "13" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 4.7
+$EndPAD
+$PAD
+Sh "14" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 4.7
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12.9 0
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.9 0
+$EndPAD
+$EndMODULE MICROFIT-43045-14
+$MODULE MICROFIT-43045-16
+Po 95 90 0 15 514F4DB1 00000000 ~~
+Li MICROFIT-43045-16
+Cd Microfit 3.0 vertical header 2x8 pin
+Sc 0
+AR MICROFIT-43045-16
+Op 0 0 0
+At SMD
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "MICROFIT-43045-16"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "MICROFIT-43045-16"
+DS 16.4 -6.25 16.4 6.25 0.01 32
+DS 16.4 6.25 -16.4 6.25 0.01 32
+DS -16.4 6.25 -16.4 -6.25 0.01 32
+DS -16.4 -6.25 16.4 -6.25 0.01 32
+DS -14.2 -2.3 -15.4 -2.9 0.12 21
+DS -15.4 -2.9 -15.4 -1.7 0.12 21
+DS -15.4 -1.7 -14.2 -2.3 0.12 21
+DS -14.2 -4 14.2 -4 0.12 21
+DS 14.2 3.4 -14.2 3.4 0.12 21
+DS -1 3.4 -1 4.8 0.12 21
+DS -1 4.8 1 4.8 0.12 21
+DS 1 4.8 1 3.4 0.12 21
+DS -14.2 -4 -14.2 3.4 0.12 21
+DS 14.2 3.4 14.2 -4 0.12 21
+$PAD
+Sh "1" R 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.5 -1.5
+$EndPAD
+$PAD
+Sh "3" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -4.5 -1.5
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po -13.5 2.4
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po 13.5 2.4
+$EndPAD
+$PAD
+Sh "2" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.5 -1.5
+$EndPAD
+$PAD
+Sh "4" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.5 -1.5
+$EndPAD
+$PAD
+Sh "5" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.5 -1.5
+$EndPAD
+$PAD
+Sh "6" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 4.5 -1.5
+$EndPAD
+$PAD
+Sh "7" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.5 -1.5
+$EndPAD
+$PAD
+Sh "8" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.5 -1.5
+$EndPAD
+$PAD
+Sh "9" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.5 1.5
+$EndPAD
+$PAD
+Sh "10" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.5 1.5
+$EndPAD
+$PAD
+Sh "11" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -4.5 1.5
+$EndPAD
+$PAD
+Sh "12" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.5 1.5
+$EndPAD
+$PAD
+Sh "13" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.5 1.5
+$EndPAD
+$PAD
+Sh "14" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 4.5 1.5
+$EndPAD
+$PAD
+Sh "15" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.5 1.5
+$EndPAD
+$PAD
+Sh "16" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.5 1.5
+$EndPAD
+$PAD
+Sh "1" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -10.5 -4.7
+$EndPAD
+$PAD
+Sh "2" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 -4.7
+$EndPAD
+$PAD
+Sh "3" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.5 -4.7
+$EndPAD
+$PAD
+Sh "4" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.5 -4.7
+$EndPAD
+$PAD
+Sh "5" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 -4.7
+$EndPAD
+$PAD
+Sh "6" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 -4.7
+$EndPAD
+$PAD
+Sh "7" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 -4.7
+$EndPAD
+$PAD
+Sh "8" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.5 -4.7
+$EndPAD
+$PAD
+Sh "9" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -10.5 4.7
+$EndPAD
+$PAD
+Sh "10" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 4.7
+$EndPAD
+$PAD
+Sh "11" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.5 4.7
+$EndPAD
+$PAD
+Sh "12" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.5 4.7
+$EndPAD
+$PAD
+Sh "13" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 4.7
+$EndPAD
+$PAD
+Sh "14" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 4.7
+$EndPAD
+$PAD
+Sh "15" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 4.7
+$EndPAD
+$PAD
+Sh "16" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.5 4.7
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -14.4 0
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 14.4 0
+$EndPAD
+$EndMODULE MICROFIT-43045-16
+$MODULE MICROFIT-43045-18
+Po 95 75 0 15 514F4DD4 00000000 ~~
+Li MICROFIT-43045-18
+Cd Microfit 3.0 vertical header 2x9 pin
+Sc 0
+AR MICROFIT-43045-18
+Op 0 0 0
+At SMD
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "MICROFIT-43045-18"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "MICROFIT-43045-18"
+DS 17.9 -6.25 17.9 6.25 0.01 32
+DS 17.9 6.25 -17.9 6.25 0.01 32
+DS -17.9 6.25 -17.9 -6.25 0.01 32
+DS -17.9 -6.25 17.9 -6.25 0.01 32
+DS -15.7 -2.3 -16.9 -2.9 0.12 21
+DS -16.9 -2.9 -16.9 -1.7 0.12 21
+DS -16.9 -1.7 -15.7 -2.3 0.12 21
+DS 15.7 -4 -15.7 -4 0.12 21
+DS -15.7 3.4 15.7 3.4 0.12 21
+DS -1 3.4 -1 4.8 0.12 21
+DS -1 4.8 1 4.8 0.12 21
+DS 1 4.8 1 3.4 0.12 21
+DS -15.7 -4 -15.7 3.4 0.12 21
+DS 15.7 3.4 15.7 -4 0.12 21
+$PAD
+Sh "1" R 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -12 -1.5
+$EndPAD
+$PAD
+Sh "3" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6 -1.5
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po -15 2.4
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po 15 2.4
+$EndPAD
+$PAD
+Sh "2" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -9 -1.5
+$EndPAD
+$PAD
+Sh "4" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3 -1.5
+$EndPAD
+$PAD
+Sh "5" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -1.5
+$EndPAD
+$PAD
+Sh "6" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3 -1.5
+$EndPAD
+$PAD
+Sh "7" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6 -1.5
+$EndPAD
+$PAD
+Sh "8" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 9 -1.5
+$EndPAD
+$PAD
+Sh "9" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 12 -1.5
+$EndPAD
+$PAD
+Sh "10" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -12 1.5
+$EndPAD
+$PAD
+Sh "11" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -9 1.5
+$EndPAD
+$PAD
+Sh "12" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6 1.5
+$EndPAD
+$PAD
+Sh "13" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3 1.5
+$EndPAD
+$PAD
+Sh "14" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 1.5
+$EndPAD
+$PAD
+Sh "15" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3 1.5
+$EndPAD
+$PAD
+Sh "16" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6 1.5
+$EndPAD
+$PAD
+Sh "17" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 9 1.5
+$EndPAD
+$PAD
+Sh "18" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 12 1.5
+$EndPAD
+$PAD
+Sh "1" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 -4.7
+$EndPAD
+$PAD
+Sh "2" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 -4.7
+$EndPAD
+$PAD
+Sh "3" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 -4.7
+$EndPAD
+$PAD
+Sh "4" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 -4.7
+$EndPAD
+$PAD
+Sh "5" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -4.7
+$EndPAD
+$PAD
+Sh "6" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 -4.7
+$EndPAD
+$PAD
+Sh "7" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 -4.7
+$EndPAD
+$PAD
+Sh "8" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 -4.7
+$EndPAD
+$PAD
+Sh "9" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 -4.7
+$EndPAD
+$PAD
+Sh "10" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 4.7
+$EndPAD
+$PAD
+Sh "11" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 4.7
+$EndPAD
+$PAD
+Sh "12" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 4.7
+$EndPAD
+$PAD
+Sh "13" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 4.7
+$EndPAD
+$PAD
+Sh "14" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 4.7
+$EndPAD
+$PAD
+Sh "15" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 4.7
+$EndPAD
+$PAD
+Sh "16" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 4.7
+$EndPAD
+$PAD
+Sh "17" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 4.7
+$EndPAD
+$PAD
+Sh "18" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 4.7
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -15.9 0
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 15.9 0
+$EndPAD
+$EndMODULE MICROFIT-43045-18
+$MODULE MICROFIT-43045-20
+Po 95 60 0 15 514F4DFA 00000000 ~~
+Li MICROFIT-43045-20
+Cd Microfit 3.0 vertical header 2x10 pin
+Sc 0
+AR MICROFIT-43045-20
+Op 0 0 0
+At SMD
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "MICROFIT-43045-20"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "MICROFIT-43045-20"
+DS 19.4 -6.25 19.4 6.25 0.01 32
+DS 19.4 6.25 -19.4 6.25 0.01 32
+DS -19.4 6.25 -19.4 -6.25 0.01 32
+DS -19.4 -6.25 19.4 -6.25 0.01 32
+DS -17.2 -2.3 -18.4 -2.9 0.12 21
+DS -18.4 -2.9 -18.4 -1.7 0.12 21
+DS -18.4 -1.7 -17.2 -2.3 0.12 21
+DS -17.2 -4 17.2 -4 0.12 21
+DS 17.2 3.4 -17.2 3.4 0.12 21
+DS -1 3.4 -1 4.8 0.12 21
+DS -1 4.8 1 4.8 0.12 21
+DS 1 4.8 1 3.4 0.12 21
+DS -17.2 -4 -17.2 3.4 0.12 21
+DS 17.2 3.4 17.2 -4 0.12 21
+$PAD
+Sh "1" R 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.5 -1.5
+$EndPAD
+$PAD
+Sh "3" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.5 -1.5
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po -16.5 2.4
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po 16.5 2.4
+$EndPAD
+$PAD
+Sh "2" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.5 -1.5
+$EndPAD
+$PAD
+Sh "4" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -4.5 -1.5
+$EndPAD
+$PAD
+Sh "5" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.5 -1.5
+$EndPAD
+$PAD
+Sh "6" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.5 -1.5
+$EndPAD
+$PAD
+Sh "7" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 4.5 -1.5
+$EndPAD
+$PAD
+Sh "8" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.5 -1.5
+$EndPAD
+$PAD
+Sh "9" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.5 -1.5
+$EndPAD
+$PAD
+Sh "10" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.5 -1.5
+$EndPAD
+$PAD
+Sh "11" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.5 1.5
+$EndPAD
+$PAD
+Sh "12" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.5 1.5
+$EndPAD
+$PAD
+Sh "13" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.5 1.5
+$EndPAD
+$PAD
+Sh "14" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -4.5 1.5
+$EndPAD
+$PAD
+Sh "15" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.5 1.5
+$EndPAD
+$PAD
+Sh "16" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.5 1.5
+$EndPAD
+$PAD
+Sh "17" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 4.5 1.5
+$EndPAD
+$PAD
+Sh "18" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.5 1.5
+$EndPAD
+$PAD
+Sh "19" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.5 1.5
+$EndPAD
+$PAD
+Sh "20" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.5 1.5
+$EndPAD
+$PAD
+Sh "1" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -13.5 -4.7
+$EndPAD
+$PAD
+Sh "2" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -10.5 -4.7
+$EndPAD
+$PAD
+Sh "3" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 -4.7
+$EndPAD
+$PAD
+Sh "4" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.5 -4.7
+$EndPAD
+$PAD
+Sh "5" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.5 -4.7
+$EndPAD
+$PAD
+Sh "6" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 -4.7
+$EndPAD
+$PAD
+Sh "7" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 -4.7
+$EndPAD
+$PAD
+Sh "8" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 -4.7
+$EndPAD
+$PAD
+Sh "9" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.5 -4.7
+$EndPAD
+$PAD
+Sh "10" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13.5 -4.7
+$EndPAD
+$PAD
+Sh "11" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -13.5 4.7
+$EndPAD
+$PAD
+Sh "12" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -10.5 4.7
+$EndPAD
+$PAD
+Sh "13" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 4.7
+$EndPAD
+$PAD
+Sh "14" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.5 4.7
+$EndPAD
+$PAD
+Sh "15" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.5 4.7
+$EndPAD
+$PAD
+Sh "16" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 4.7
+$EndPAD
+$PAD
+Sh "17" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 4.7
+$EndPAD
+$PAD
+Sh "18" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 4.7
+$EndPAD
+$PAD
+Sh "19" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.5 4.7
+$EndPAD
+$PAD
+Sh "20" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13.5 4.7
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -17.4 0
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 17.4 0
+$EndPAD
+$EndMODULE MICROFIT-43045-20
+$MODULE MICROFIT-43045-22
+Po 95 45 0 15 514F4E41 00000000 ~~
+Li MICROFIT-43045-22
+Cd Microfit 3.0 vertical header 2x11 pin
+Sc 0
+AR MICROFIT-43045-22
+Op 0 0 0
+At SMD
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "MICROFIT-43045-22"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "MICROFIT-43045-22"
+DS 20.9 -6.25 20.9 6.25 0.01 32
+DS 20.9 6.25 -20.9 6.25 0.01 32
+DS -20.9 6.25 -20.9 -6.25 0.01 32
+DS -20.9 -6.25 20.9 -6.25 0.01 32
+DS -18.7 -2.3 -19.9 -2.9 0.12 21
+DS -19.9 -2.9 -19.9 -1.7 0.12 21
+DS -19.9 -1.7 -18.7 -2.3 0.12 21
+DS -18.7 -4 18.7 -4 0.12 21
+DS 18.7 3.4 -18.7 3.4 0.12 21
+DS -1 3.4 -1 4.8 0.12 21
+DS -1 4.8 1 4.8 0.12 21
+DS 1 4.8 1 3.4 0.12 21
+DS -18.7 -4 -18.7 3.4 0.12 21
+DS 18.7 3.4 18.7 -4 0.12 21
+$PAD
+Sh "1" R 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -15 -1.5
+$EndPAD
+$PAD
+Sh "3" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -9 -1.5
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po -18 2.4
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po 18 2.4
+$EndPAD
+$PAD
+Sh "2" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -12 -1.5
+$EndPAD
+$PAD
+Sh "4" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6 -1.5
+$EndPAD
+$PAD
+Sh "5" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3 -1.5
+$EndPAD
+$PAD
+Sh "6" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 -1.5
+$EndPAD
+$PAD
+Sh "7" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3 -1.5
+$EndPAD
+$PAD
+Sh "8" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6 -1.5
+$EndPAD
+$PAD
+Sh "9" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 9 -1.5
+$EndPAD
+$PAD
+Sh "10" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 12 -1.5
+$EndPAD
+$PAD
+Sh "11" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 15 -1.5
+$EndPAD
+$PAD
+Sh "12" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -15.01016 1.5
+$EndPAD
+$PAD
+Sh "13" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -12 1.5
+$EndPAD
+$PAD
+Sh "14" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -9 1.5
+$EndPAD
+$PAD
+Sh "15" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -6 1.5
+$EndPAD
+$PAD
+Sh "16" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -3 1.5
+$EndPAD
+$PAD
+Sh "17" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 1.5
+$EndPAD
+$PAD
+Sh "18" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 3 1.5
+$EndPAD
+$PAD
+Sh "19" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 6 1.5
+$EndPAD
+$PAD
+Sh "20" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 9 1.5
+$EndPAD
+$PAD
+Sh "21" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 12 1.5
+$EndPAD
+$PAD
+Sh "22" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 15 1.5
+$EndPAD
+$PAD
+Sh "1" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -15 -4.7
+$EndPAD
+$PAD
+Sh "2" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 -4.7
+$EndPAD
+$PAD
+Sh "3" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 -4.7
+$EndPAD
+$PAD
+Sh "4" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 -4.7
+$EndPAD
+$PAD
+Sh "5" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 -4.7
+$EndPAD
+$PAD
+Sh "6" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -4.7
+$EndPAD
+$PAD
+Sh "7" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 -4.7
+$EndPAD
+$PAD
+Sh "8" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 -4.7
+$EndPAD
+$PAD
+Sh "9" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 -4.7
+$EndPAD
+$PAD
+Sh "10" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 -4.7
+$EndPAD
+$PAD
+Sh "11" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 15 -4.7
+$EndPAD
+$PAD
+Sh "12" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -15 4.7
+$EndPAD
+$PAD
+Sh "13" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -12 4.7
+$EndPAD
+$PAD
+Sh "14" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 4.7
+$EndPAD
+$PAD
+Sh "15" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 4.7
+$EndPAD
+$PAD
+Sh "16" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 4.7
+$EndPAD
+$PAD
+Sh "17" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 4.7
+$EndPAD
+$PAD
+Sh "18" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 4.7
+$EndPAD
+$PAD
+Sh "19" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 4.7
+$EndPAD
+$PAD
+Sh "20" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 4.7
+$EndPAD
+$PAD
+Sh "21" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 4.7
+$EndPAD
+$PAD
+Sh "22" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 15 4.7
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -18.9 0
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 18.9 0
+$EndPAD
+$EndMODULE MICROFIT-43045-22
+$MODULE MICROFIT-43045-24
+Po 95 30 0 15 514F4E69 00000000 ~~
+Li MICROFIT-43045-24
+Cd Microfit 3.0 vertical header 2x12 pin
+Sc 0
+AR MICROFIT-43045-24
+Op 0 0 0
+At SMD
+T0 0 0 1.2 1.2 0 0.12 N V 21 N "MICROFIT-43045-24"
+T1 0 0 1.2 1.2 0 0.12 N I 21 N "MICROFIT-43045-24"
+DS 22.4 -6.25 22.4 6.25 0.01 32
+DS 22.4 6.25 -22.4 6.25 0.01 32
+DS -22.4 6.25 -22.4 -6.25 0.01 32
+DS -22.4 -6.25 22.4 -6.25 0.01 32
+DS -20.2 -2.3 -21.4 -2.9 0.12 21
+DS -21.4 -2.9 -21.4 -1.7 0.12 21
+DS -21.4 -1.7 -20.2 -2.3 0.12 21
+DS 20.2 -4 -20.2 -4 0.12 21
+DS -20.2 3.4 20.2 3.4 0.12 21
+DS -1 3.4 -1 4.8 0.12 21
+DS -1 4.8 1 4.8 0.12 21
+DS 1 4.8 1 3.4 0.12 21
+DS -20.2 -4 -20.2 3.4 0.12 21
+DS 20.2 3.4 20.2 -4 0.12 21
+$PAD
+Sh "1" R 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.5 -1.5
+$EndPAD
+$PAD
+Sh "3" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.5 -1.5
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po -19.5 2.4
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00C00000
+Ne 0 ""
+Po 19.5 2.4
+$EndPAD
+$PAD
+Sh "2" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.5 -1.5
+$EndPAD
+$PAD
+Sh "4" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.5 -1.5
+$EndPAD
+$PAD
+Sh "5" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -4.5 -1.5
+$EndPAD
+$PAD
+Sh "6" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.5 -1.5
+$EndPAD
+$PAD
+Sh "7" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.5 -1.5
+$EndPAD
+$PAD
+Sh "8" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 4.5 -1.5
+$EndPAD
+$PAD
+Sh "9" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.5 -1.5
+$EndPAD
+$PAD
+Sh "10" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.5 -1.5
+$EndPAD
+$PAD
+Sh "11" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.5 -1.5
+$EndPAD
+$PAD
+Sh "12" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.5 -1.5
+$EndPAD
+$PAD
+Sh "13" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -16.5 1.5
+$EndPAD
+$PAD
+Sh "14" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -13.5 1.5
+$EndPAD
+$PAD
+Sh "15" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -10.5 1.5
+$EndPAD
+$PAD
+Sh "16" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -7.5 1.5
+$EndPAD
+$PAD
+Sh "17" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -4.5 1.5
+$EndPAD
+$PAD
+Sh "18" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po -1.5 1.5
+$EndPAD
+$PAD
+Sh "19" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 1.5 1.5
+$EndPAD
+$PAD
+Sh "20" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 4.5 1.5
+$EndPAD
+$PAD
+Sh "21" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 7.5 1.5
+$EndPAD
+$PAD
+Sh "22" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 10.5 1.5
+$EndPAD
+$PAD
+Sh "23" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 13.5 1.5
+$EndPAD
+$PAD
+Sh "24" C 1.7 1.7 0 0 0
+Dr 1.1 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 16.5 1.5
+$EndPAD
+$PAD
+Sh "1" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -16.5 -4.7
+$EndPAD
+$PAD
+Sh "2" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -13.5 -4.7
+$EndPAD
+$PAD
+Sh "3" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -10.5 -4.7
+$EndPAD
+$PAD
+Sh "4" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 -4.7
+$EndPAD
+$PAD
+Sh "5" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.5 -4.7
+$EndPAD
+$PAD
+Sh "6" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.5 -4.7
+$EndPAD
+$PAD
+Sh "7" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 -4.7
+$EndPAD
+$PAD
+Sh "8" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 -4.7
+$EndPAD
+$PAD
+Sh "9" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 -4.7
+$EndPAD
+$PAD
+Sh "10" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.5 -4.7
+$EndPAD
+$PAD
+Sh "11" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13.5 -4.7
+$EndPAD
+$PAD
+Sh "12" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 16.5 -4.7
+$EndPAD
+$PAD
+Sh "13" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -16.5 4.7
+$EndPAD
+$PAD
+Sh "14" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -13.5 4.7
+$EndPAD
+$PAD
+Sh "15" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -10.5 4.7
+$EndPAD
+$PAD
+Sh "16" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 4.7
+$EndPAD
+$PAD
+Sh "17" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.5 4.7
+$EndPAD
+$PAD
+Sh "18" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.5 4.7
+$EndPAD
+$PAD
+Sh "19" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 4.7
+$EndPAD
+$PAD
+Sh "20" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 4.7
+$EndPAD
+$PAD
+Sh "21" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 4.7
+$EndPAD
+$PAD
+Sh "22" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.5 4.7
+$EndPAD
+$PAD
+Sh "23" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13.5 4.7
+$EndPAD
+$PAD
+Sh "24" R 1.3 2.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 16.5 4.7
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -20.4 0
+$EndPAD
+$PAD
+Sh "" R 3.5 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 20.4 0
+$EndPAD
+$EndMODULE MICROFIT-43045-24
+$EndLIBRARY

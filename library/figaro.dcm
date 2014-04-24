@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0  Date: dom 25 set 2011 18:49:04 CEST
+#
+$CMP TGS2180
+D Sensor for Water Vapor
+$ENDCMP
+#
+$CMP TGS2442
+D Sensor for Carbon Monoxide
+$ENDCMP
+#
+$CMP TGS2444
+D Sensor for Ammonia
+$ENDCMP
+#
+$CMP TGS2600
+D Sensor for Air Contaminants
+$ENDCMP
+#
+$CMP TGS2602
+D Sensor for Air Contaminants
+$ENDCMP
+#
+$CMP TGS2610
+D Sensor for LP Gas
+$ENDCMP
+#
+$CMP TGS2611
+D Sensor for Methane
+$ENDCMP
+#
+$CMP TGS2612
+D Sensor for Methane and LP Gas
+$ENDCMP
+#
+$CMP TGS2620
+D Sensor for Solvent Vapors
+$ENDCMP
+#
+$CMP TGS3870
+D Sensor for both Methane and Carbon Monoxide
+$ENDCMP
+#
+$CMP TGS5042
+D Sensor for Carbon Monoxide
+$ENDCMP
+#
+$CMP TGS821
+D Special Sensor for Hydrogen Gas
+$ENDCMP
+#
+$CMP TGS825
+D Special Sensor for Hydrogen Sulphide
+$ENDCMP
+#
+$CMP TGS826
+D Sensor for Ammonia
+$ENDCMP
+#
+$CMP TGS832
+D Sensor for Chlorofluorocarbons
+$ENDCMP
+#
+#End Doc Library

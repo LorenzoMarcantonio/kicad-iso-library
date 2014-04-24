@@ -1,0 +1,260 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 555
+D Timer
+$ENDCMP
+#
+$CMP AD623
+D Single-Supply, Rail-to-Rail, Low Cost Instrumentation Amplifier
+$ENDCMP
+#
+$CMP AD629
+D High Common-Mode Voltage Difference Amplifier
+$ENDCMP
+#
+$CMP AD813
+D Single Supply, Low Power Triple Video Amplifier
+$ENDCMP
+#
+$CMP LF398
+D Monolithic Sample and Hold Circuit 
+$ENDCMP
+#
+$CMP LM111
+D Voltage Comparator
+$ENDCMP
+#
+$CMP LM118
+D Operational Amplifier
+$ENDCMP
+#
+$CMP LM119
+D High Speed Dual Comparator
+$ENDCMP
+#
+$CMP LM124
+D Low Power Quad Operational Amplifiers
+$ENDCMP
+#
+$CMP LM158
+D Low Power Dual Operational Amplifier
+$ENDCMP
+#
+$CMP LM211
+D Voltage Comparator
+$ENDCMP
+#
+$CMP LM218
+D Operational Amplifier
+$ENDCMP
+#
+$CMP LM219
+D High Speed Dual Comparator
+$ENDCMP
+#
+$CMP LM224
+D Low Power Quad Operational Amplifiers
+$ENDCMP
+#
+$CMP LM258
+D Low Power Dual Operational Amplifier
+$ENDCMP
+#
+$CMP LM2902
+D Low Power Quad Operational Amplifiers
+$ENDCMP
+#
+$CMP LM2903
+D Low Power Low Offset Voltage Dual Comparator 
+$ENDCMP
+#
+$CMP LM2904
+D Low Power Dual Operational Amplifier
+$ENDCMP
+#
+$CMP LM311
+D Voltage Comparator
+$ENDCMP
+#
+$CMP LM318
+D Operational Amplifier
+$ENDCMP
+#
+$CMP LM319
+D High Speed Dual Comparator
+$ENDCMP
+#
+$CMP LM321
+D Low Power Single Op Amp
+$ENDCMP
+#
+$CMP LM324
+D Low Power Quad Operational Amplifiers
+$ENDCMP
+#
+$CMP LM358
+D Low Power Dual Operational Amplifier
+$ENDCMP
+#
+$CMP LM386
+D Low Voltage Audio Power Amplifier 
+$ENDCMP
+#
+$CMP LM393
+D Low Power Low Offset Voltage Dual Comparator
+$ENDCMP
+#
+$CMP LM567C
+D Tone Decoder/PLL
+$ENDCMP
+#
+$CMP LMC567C
+D Tone Decoder/PLL
+$ENDCMP
+#
+$CMP LMC6062
+D Precision CMOS Dual Micropower Operational Amplifier 
+$ENDCMP
+#
+$CMP LMC6082
+D Precision CMOS Dual Operational Amplifier 
+$ENDCMP
+#
+$CMP LMH6639_6PIN
+D 190MHz Rail-to-Rail Output Amplifier with Disable
+$ENDCMP
+#
+$CMP LMH6639_8PIN
+D 190MHz Rail-to-Rail Output Amplifier with Disable
+$ENDCMP
+#
+$CMP LMV118
+D Low Voltage, 45MHz, Rail-to-Rail Output Operational Amplifiers with Shutdown Option 
+$ENDCMP
+#
+$CMP LMV119
+D Low Voltage, 45MHz, Rail-to-Rail Output Operational Amplifiers with Shutdown Option 
+$ENDCMP
+#
+$CMP LTC1068
+D Clock-Tunable Quad Second Order Filter Building Block
+$ENDCMP
+#
+$CMP LTC1068-200
+D Clock-Tunable Quad Second Order Filter Building Block
+$ENDCMP
+#
+$CMP LTC1068-25
+D Clock-Tunable Quad Second Order Filter Building Block
+$ENDCMP
+#
+$CMP LTC1068-50
+D Clock-Tunable Quad Second Order Filter Building Block
+$ENDCMP
+#
+$CMP MC33178
+D Low Power, Low Noise Dual Operational Amplifier
+$ENDCMP
+#
+$CMP NE567
+D Tone Decoder/PLL
+$ENDCMP
+#
+$CMP OP275
+D Dual Bipolar/JFET, Audio Operational Amplifier
+K AUDIO OPAMP
+$ENDCMP
+#
+$CMP OPA2333
+D 1.8 MicroPower CMOS OpAmp Zero Drift Series
+$ENDCMP
+#
+$CMP OPA333
+D 1.8 MicroPower CMOS OpAmp Zero Drift Series
+$ENDCMP
+#
+$CMP OPA695_SO
+D Ultra-Wideband, Current-Feedback Operational Amplifier with Disable
+$ENDCMP
+#
+$CMP OPA695_SOT
+D Ultra-Wideband, Current-Feedback Operational Amplifier with Disable
+$ENDCMP
+#
+$CMP PGA112
+D Zero Drift Programmable Gain Amplifier with MUX
+$ENDCMP
+#
+$CMP PGA308
+D Single-Supply, Auto-Zero Sensor Amplifier with Programmable Gain and Offset
+$ENDCMP
+#
+$CMP TL071
+D Low-Noise JFET-Input General-Purpose Operational Amplifier
+$ENDCMP
+#
+$CMP TL072
+D Dual Low-Noise JFET-Input General-Purpose Operational Amplifier
+$ENDCMP
+#
+$CMP TL082
+D Dual JFET-Input Operational Amplifier
+$ENDCMP
+#
+$CMP TL084
+D Quad JFET-input Operational Amplifier
+$ENDCMP
+#
+$CMP TL331
+D Single Differential Comparator
+$ENDCMP
+#
+$CMP TL971_8PIN
+D Output Rail-to-Rail Very-Low-Noise Operational Amplifier
+$ENDCMP
+#
+$CMP TLC071
+D Wide-Bandwidth High-Output-Drive Operational Amplifier
+$ENDCMP
+#
+$CMP TLC072
+D Dual Wide-Bandwidth High-Output-Drive Single Supply Operational Amplifier
+$ENDCMP
+#
+$CMP TLC081
+D Wide-Bandwidth High-Output-Drive Operational Amplifier
+$ENDCMP
+#
+$CMP TLC082
+D Dual Wide-Bandwidth High-Output-Drive Single Supply Operational Amplifier
+$ENDCMP
+#
+$CMP TLC2272
+D Dual Rail-to-Rail Operational Amplifier
+$ENDCMP
+#
+$CMP TLC274
+D Quad Single Supply Operational Amplifier
+$ENDCMP
+#
+$CMP TLC279
+D Quad Precision Single Supply Operational Amplifier
+$ENDCMP
+#
+$CMP TLE2027
+D Low-Noise Precision Operational Amplifier
+$ENDCMP
+#
+$CMP TLE2037
+D Low-Noise High-Speed Precision Decomp. Operational Amplifier
+$ENDCMP
+#
+$CMP TS3011
+D Rail-to-rail High-Speed Comparator
+$ENDCMP
+#
+$CMP TS922
+D Rail-to-rail high output current dual operational amplifier
+$ENDCMP
+#
+#End Doc Library

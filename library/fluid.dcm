@@ -1,0 +1,123 @@
+EESchema-DOCLIB  Version 2.0  Date: ven 01 mar 2013 12:04:57 CET
+#
+$CMP CHECK-VALVE
+D Non-return Valve without Spring
+$ENDCMP
+#
+$CMP CHECK-VALVE-SPRING
+D Non-return Valve with Spring
+$ENDCMP
+#
+$CMP COMPRESSOR
+D Compressor
+$ENDCMP
+#
+$CMP EV-2-2-NC
+D 2/2 Solenoid Valve, Normally Closed
+$ENDCMP
+#
+$CMP EV-2-2-NC-B
+D 2/2 Solenoid Bidirectional Valve, Normally Closed
+$ENDCMP
+#
+$CMP EV-2-2-NO
+D 2/2 Solenoid Valve, Normally Open
+$ENDCMP
+#
+$CMP EV-2-2-NO-B
+D 2/2 Solenoid Bidirectional Valve, Normally Open
+$ENDCMP
+#
+$CMP EV-3-2-DEV
+D 3/2 Solenoid Valve, Universal
+$ENDCMP
+#
+$CMP EV-3-2-NC
+D 3/2 Solenoid Valve, Normally Closed
+$ENDCMP
+#
+$CMP EV-3-2-NO
+D 3/2 Solenoid Valve, Normally Open
+$ENDCMP
+#
+$CMP EV-3-2-SEL
+D 3/2 Solenoid Valve, Selector
+$ENDCMP
+#
+$CMP EV-3-2-U
+D 3/2 Solenoid Valve, Universal
+$ENDCMP
+#
+$CMP EV-3-2-U-13-12
+D 3/2 Solenoid Valve, Universal
+$ENDCMP
+#
+$CMP EV-4-2
+D 4/2 Solenoid Valve
+$ENDCMP
+#
+$CMP EV-5-2
+D 5/2 Solenoid Valve
+$ENDCMP
+#
+$CMP FILTER-AIR
+D Air Filter
+$ENDCMP
+#
+$CMP FILTER-AIR-SEP-AUTO
+D Air Filter with Automatic Water Separator
+$ENDCMP
+#
+$CMP FILTER-AIR-SEPARATOR
+D Air Filter with Manual Water Separator
+$ENDCMP
+#
+$CMP FILTER-FLUID
+D Fluid Filter
+$ENDCMP
+#
+$CMP FILTER-FLUID-FOOT
+D Fluid Foot Filter
+$ENDCMP
+#
+$CMP FLOW-REDUCER
+D Shutoff Valve
+$ENDCMP
+#
+$CMP FLOW-REDUCER-FIXED
+D Shutoff Valve
+$ENDCMP
+#
+$CMP FRL
+D FRL Service Unit
+$ENDCMP
+#
+$CMP LUBRICATOR
+D Air Lubricator
+$ENDCMP
+#
+$CMP PUMP
+D Pump
+$ENDCMP
+#
+$CMP SHUTOFF-VALVE
+D Shutoff Valve
+$ENDCMP
+#
+$CMP SIGHT-GLASS
+D Sight Glass
+$ENDCMP
+#
+$CMP SILENCER
+D Air Silencer
+$ENDCMP
+#
+$CMP TANK
+D Simple Small Tank
+$ENDCMP
+#
+$CMP TANK-BIG
+D Simple Bigger Tank
+$ENDCMP
+#
+#End Doc Library

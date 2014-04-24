@@ -1,0 +1,99 @@
+EESchema-DOCLIB  Version 2.0  Date: gio 28 mag 2009 16:04:14 CEST
+#
+$CMP MAX6351
+D Double voltage supervisor circuit
+K VOLTAGE SUPERVISOR
+F maxim/max6355.pdf
+$ENDCMP
+#
+$CMP MAX6352
+D Double voltage supervisor circuit
+K VOLTAGE SUPERVISOR
+F maxim/max6355.pdf
+$ENDCMP
+#
+$CMP MAX6353
+D Double voltage supervisor circuit
+K VOLTAGE SUPERVISOR
+F maxim/max6355.pdf
+$ENDCMP
+#
+$CMP MAX6354
+D Double voltage supervisor circuit
+K VOLTAGE SUPERVISOR
+F maxim/max6355.pdf
+$ENDCMP
+#
+$CMP MAX6355
+D Triple voltage supervisor circuit
+K VOLTAGE SUPERVISOR
+F maxim/max6355.pdf
+$ENDCMP
+#
+$CMP MAX6356
+D Triple voltage supervisor circuit
+K VOLTAGE SUPERVISOR
+F maxim/max6355.pdf
+$ENDCMP
+#
+$CMP MAX6357
+D Triple voltage supervisor circuit
+K VOLTAGE SUPERVISOR
+F maxim/max6355.pdf
+$ENDCMP
+#
+$CMP MAX6358
+D Double voltage supervisor circuit with watchdog
+K VOLTAGE SUPERVISOR WATCHDOG
+F maxim/max6355.pdf
+$ENDCMP
+#
+$CMP MAX6359
+D Double voltage supervisor circuit with watchdog
+K VOLTAGE SUPERVISOR WATCHDOG
+F maxim/max6355.pdf
+$ENDCMP
+#
+$CMP MAX6360
+D Double voltage supervisor circuit with watchdog
+K VOLTAGE SUPERVISOR WATCHDOG
+F maxim/max6355.pdf
+$ENDCMP
+#
+$CMP MAX690
+D Microprocessor supervisory circuit
+K VOLTAGE SUPERVISOR
+F maxim/max690-max695.pdf
+$ENDCMP
+#
+$CMP MAX691
+D Microprocessor supervisory circuit
+K VOLTAGE SUPERVISOR
+F maxim/max690-max695.pdf
+$ENDCMP
+#
+$CMP MAX692
+D Microprocessor supervisory circuit
+K VOLTAGE SUPERVISOR
+F maxim/max690-max695.pdf
+$ENDCMP
+#
+$CMP MAX693
+D Microprocessor supervisory circuit
+K VOLTAGE SUPERVISOR
+F maxim/max690-max695.pdf
+$ENDCMP
+#
+$CMP MAX694
+D Microprocessor supervisory circuit
+K VOLTAGE SUPERVISOR
+F maxim/max690-max695.pdf
+$ENDCMP
+#
+$CMP MAX695
+D Microprocessor supervisory circuit
+K VOLTAGE SUPERVISOR
+F maxim/max690-max695.pdf
+$ENDCMP
+#
+#End Doc Library

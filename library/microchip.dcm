@@ -1,0 +1,522 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC10F200_6PIN
+D 6-pin, 8-bit Flash Microcontroller
+$ENDCMP
+#
+$CMP PIC10F200_8PIN
+D 6-pin, 8-bit Flash Microcontroller
+$ENDCMP
+#
+$CMP PIC10F202_6PIN
+D 6-pin, 8-bit Flash Microcontroller
+$ENDCMP
+#
+$CMP PIC10F202_8PIN
+D 6-pin, 8-bit Flash Microcontroller
+$ENDCMP
+#
+$CMP PIC10F204_6PIN
+D 6-pin, 8-bit Flash Microcontroller
+$ENDCMP
+#
+$CMP PIC10F204_8PIN
+D 6-pin, 8-bit Flash Microcontroller
+$ENDCMP
+#
+$CMP PIC10F206_6PIN
+D 6-pin, 8-bit Flash Microcontroller
+$ENDCMP
+#
+$CMP PIC10F206_8PIN
+D 6-pin, 8-bit Flash Microcontroller
+$ENDCMP
+#
+$CMP PIC12C508
+D 8-Bit, 8-Pin CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40139e.pdf
+$ENDCMP
+#
+$CMP PIC12C508A
+D 8-Bit, 8-Pin CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40139e.pdf
+$ENDCMP
+#
+$CMP PIC12C509
+D 8-Bit, 8-Pin CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40139e.pdf
+$ENDCMP
+#
+$CMP PIC12C509A
+D 8-Bit, 8-Pin CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40139e.pdf
+$ENDCMP
+#
+$CMP PIC12C671
+D 8-Pin, 8-Bit CMOS Microcontroller with A/D Converter and EEPROM Data Memory
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30561b.pdf
+$ENDCMP
+#
+$CMP PIC12C672
+D 8-Pin, 8-Bit CMOS Microcontroller with A/D Converter and EEPROM Data Memory
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30561b.pdf
+$ENDCMP
+#
+$CMP PIC12CE508
+D 8-Bit, 8-Pin CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40139e.pdf
+$ENDCMP
+#
+$CMP PIC12CE509
+D 8-Bit, 8-Pin CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40139e.pdf
+$ENDCMP
+#
+$CMP PIC12CE673
+D 8-Pin, 8-Bit CMOS Microcontroller with A/D Converter and EEPROM Data Memory
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30561b.pdf
+$ENDCMP
+#
+$CMP PIC12CE674
+D 8-Pin, 8-Bit CMOS Microcontroller with A/D Converter and EEPROM Data Memory
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30561b.pdf
+$ENDCMP
+#
+$CMP PIC12F508
+D 8-Pin, 8-Bit Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41236B.pdf
+$ENDCMP
+#
+$CMP PIC12F509
+D 8-Pin, 8-Bit Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41236B.pdf
+$ENDCMP
+#
+$CMP PIC12F609
+D 8-Pin Flash-Based 8-Bit CMOS Microcontroller
+$ENDCMP
+#
+$CMP PIC12F615
+D 8-Pin Flash-Based 8-Bit CMOS Microcontroller
+$ENDCMP
+#
+$CMP PIC12F629
+D 8-Pin Flash-Based 8-Bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41190c.pdf
+$ENDCMP
+#
+$CMP PIC12F635
+D 8-Pin Flash-Based, 8-Bit Microcontroller (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41232B.pdf
+$ENDCMP
+#
+$CMP PIC12F675
+D 8-Pin Flash-Based 8-Bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41190c.pdf
+$ENDCMP
+#
+$CMP PIC12F683
+D 8-Pin Flash-Based, 8-Bit CMOS Microcontroller (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41211C.pdf
+$ENDCMP
+#
+$CMP PIC16C505
+D 14-Pin, 8-Bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40192c.pdf
+$ENDCMP
+#
+$CMP PIC16F505
+D 14-Pin, 8-Bit Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41236B.pdf
+$ENDCMP
+#
+$CMP PIC16F54
+D 18 pins, Flash-Based 8-Bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41213C.pdf
+$ENDCMP
+#
+$CMP PIC16F57
+D 28 pins, Flash-Based 8-Bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41213C.pdf
+$ENDCMP
+#
+$CMP PIC16F59
+D 40 pins, Flash-Based 8-Bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41213C.pdf
+$ENDCMP
+#
+$CMP PIC16F627
+D Flash-Based 8-Bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40300C.pdf
+$ENDCMP
+#
+$CMP PIC16F627A
+D Flash-Based 8-Bit CMOS Microcontroller (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40044E.pdf
+$ENDCMP
+#
+$CMP PIC16F628
+D Flash-Based 8-Bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40300C.pdf
+$ENDCMP
+#
+$CMP PIC16F628A
+D Flash-Based 8-Bit CMOS Microcontroller (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40044E.pdf
+$ENDCMP
+#
+$CMP PIC16F636
+D 8-Pin Flash-Based, 8-Bit Microcontroller (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41232B.pdf
+$ENDCMP
+#
+$CMP PIC16F639
+D 8-Pin Flash-Based, 8-Bit Microcontroller (nanoWatt) with LF Analog Front End
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41232B.pdf
+$ENDCMP
+#
+$CMP PIC16F648A
+D Flash-Based 8-Bit CMOS Microcontroller (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40044E.pdf
+$ENDCMP
+#
+$CMP PIC16F716
+D 8-Bit Flash-based Microcontroller with A/D Converter and Enhanced CCP
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41206a.pdf
+$ENDCMP
+#
+$CMP PIC16F818
+D 18 pins Enhanced Flash Microcontroller (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39598e.pdf
+$ENDCMP
+#
+$CMP PIC16F819
+D 18 pins Enhanced Flash Microcontroller (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39598e.pdf
+$ENDCMP
+#
+$CMP PIC16F83
+D 18-pin Flash/EEPROM 8-Bit Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30430c.pdf
+$ENDCMP
+#
+$CMP PIC16F84
+D 18-Pin Flash/EEPROM 8-bit Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30430c.pdf
+$ENDCMP
+#
+$CMP PIC16F84A
+D 18-Pin Enhanced Flash/EEPROM 8-bit Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/35007b.pdf
+$ENDCMP
+#
+$CMP PIC16F870
+D 28-pin, 8-bit CMOS FLASH Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30569b.pdf
+$ENDCMP
+#
+$CMP PIC16F871
+D 40-pin, 8-bit CMOS FLASH Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30569b.pdf
+$ENDCMP
+#
+$CMP PIC16F873
+D 28-pin, 8-bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30292c.pdf
+$ENDCMP
+#
+$CMP PIC16F873A
+D 28-pin Enhanced Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39520b.pdf
+$ENDCMP
+#
+$CMP PIC16F874
+D 40-pin 8-bit Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30292c.pdf
+$ENDCMP
+#
+$CMP PIC16F874A
+D 40-pin Enhanced Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30292c.pdf
+$ENDCMP
+#
+$CMP PIC16F874A_TQFP
+D 40-pin Enhanced Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30292c.pdf
+$ENDCMP
+#
+$CMP PIC16F876
+D 28-pin, 8-bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30292c.pdf
+$ENDCMP
+#
+$CMP PIC16F876A
+D 28-pin Enhanced Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39520b.pdf
+$ENDCMP
+#
+$CMP PIC16F877
+D 40-pin 8-bit Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30292c.pdf
+$ENDCMP
+#
+$CMP PIC16F877A
+D 40-pin Enhanced Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30292c.pdf
+$ENDCMP
+#
+$CMP PIC16F877A_TQFP
+D 40-pin Enhanced Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30292c.pdf
+$ENDCMP
+#
+$CMP PIC16F88
+D 18 pins Enhanced Flash Microcontroller (nanoWatt)
+$ENDCMP
+#
+$CMP PIC16LF505
+D 14-Pin, 8-Bit Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41236B.pdf
+$ENDCMP
+#
+$CMP PIC16LF54
+D 18 pins, Flash-Based 8-Bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41213C.pdf
+$ENDCMP
+#
+$CMP PIC16LF57
+D 28 pins, Flash-Based 8-Bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41213C.pdf
+$ENDCMP
+#
+$CMP PIC16LF59
+D 40 pins, Flash-Based 8-Bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41213C.pdf
+$ENDCMP
+#
+$CMP PIC16LF627
+D Flash-Based 8-Bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40300C.pdf
+$ENDCMP
+#
+$CMP PIC16LF627A
+D Flash-Based 8-Bit CMOS Microcontroller (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40044E.pdf
+$ENDCMP
+#
+$CMP PIC16LF628
+D Flash-Based 8-Bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40300C.pdf
+$ENDCMP
+#
+$CMP PIC16LF628A
+D Flash-Based 8-Bit CMOS Microcontroller (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40044E.pdf
+$ENDCMP
+#
+$CMP PIC16LF636
+D 8-Pin Flash-Based, 8-Bit Microcontroller (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41232B.pdf
+$ENDCMP
+#
+$CMP PIC16LF639
+D 8-Pin Flash-Based, 8-Bit Microcontroller (nanoWatt) with LF Analog Front End
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41232B.pdf
+$ENDCMP
+#
+$CMP PIC16LF648A
+D Flash-Based 8-Bit CMOS Microcontroller (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40044E.pdf
+$ENDCMP
+#
+$CMP PIC16LF716
+D 8-Bit Flash-based Microcontroller with A/D Converter and Enhanced CCP
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41206a.pdf
+$ENDCMP
+#
+$CMP PIC16LF818
+D 18 pins Enhanced Flash Microcontroller (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39598e.pdf
+$ENDCMP
+#
+$CMP PIC16LF819
+D 18 pins Enhanced Flash Microcontroller (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39598e.pdf
+$ENDCMP
+#
+$CMP PIC16LF83
+D 18-Pin Flash/EEPROM 8-bit Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30430c.pdf
+$ENDCMP
+#
+$CMP PIC16LF84
+D 18-Pin Flash/EEPROM 8-bit Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30430c.pdf
+$ENDCMP
+#
+$CMP PIC16LF84A
+D 18-Pin Enhanced Flash/EEPROM 8-bit Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/35007b.pdf
+$ENDCMP
+#
+$CMP PIC16LF870
+D 28-pin, 8-bit CMOS FLASH Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30569b.pdf
+$ENDCMP
+#
+$CMP PIC16LF871
+D 40-pin, 8-bit CMOS FLASH Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30569b.pdf
+$ENDCMP
+#
+$CMP PIC16LF873
+D 28-pin, 8-bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30292c.pdf
+$ENDCMP
+#
+$CMP PIC16LF873A
+D 28-pin Enhanced Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39520b.pdf
+$ENDCMP
+#
+$CMP PIC16LF874
+D 40-pin 8-bit Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30292c.pdf
+$ENDCMP
+#
+$CMP PIC16LF874A
+D 40-pin Enhanced Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30292c.pdf
+$ENDCMP
+#
+$CMP PIC16LF874A_TQFP
+D 40-pin Enhanced Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30292c.pdf
+$ENDCMP
+#
+$CMP PIC16LF876
+D 28-pin, 8-bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30292c.pdf
+$ENDCMP
+#
+$CMP PIC16LF876A
+D 28-pin Enhanced Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39520b.pdf
+$ENDCMP
+#
+$CMP PIC16LF877
+D 40-pin 8-bit Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30292c.pdf
+$ENDCMP
+#
+$CMP PIC16LF877A
+D 40-pin Enhanced Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30292c.pdf
+$ENDCMP
+#
+$CMP PIC16LF877A_TQFP
+D 40-pin Enhanced Flash Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/30292c.pdf
+$ENDCMP
+#
+$CMP PIC18F242
+D 28-pin Enhanced Flash Microcontroller with 10-bit A/D
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39594c.pdf
+$ENDCMP
+#
+$CMP PIC18F2420
+D 28-pin Enhanced Flash Microcontroller with 10-bit A/D (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39631a.pdf
+$ENDCMP
+#
+$CMP PIC18F252
+D 28-pin Enhanced Flash Microcontroller with 10-bit A/D
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39594c.pdf
+$ENDCMP
+#
+$CMP PIC18F2520
+D 28-pin Enhanced Flash Microcontroller with 10-bit A/D (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39631a.pdf
+$ENDCMP
+#
+$CMP PIC18F442
+D 40-pin High Performance Enhanced Flash Microcontroller with 10-bit A/D
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39564c.pdf
+$ENDCMP
+#
+$CMP PIC18F4420
+D 40-pin Enhanced Flash Microcontroller with 10-bit A/D (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39631a.pdf
+$ENDCMP
+#
+$CMP PIC18F452
+D 40-pin High Performance Enhanced Flash Microcontroller with 10-bit A/D
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39564c.pdf
+$ENDCMP
+#
+$CMP PIC18F4520
+D 40-pin Enhanced Flash Microcontroller with 10-bit A/D (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39631a.pdf
+$ENDCMP
+#
+$CMP PIC18LF242
+D 28-pin Enhanced Flash Microcontroller with 10-bit A/D (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39594c.pdf
+$ENDCMP
+#
+$CMP PIC18LF2420
+D 28-pin Enhanced Flash Microcontroller with 10-bit A/D (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39631a.pdf
+$ENDCMP
+#
+$CMP PIC18LF252
+D 28-pin Enhanced Flash Microcontroller with 10-bit A/D
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39594c.pdf
+$ENDCMP
+#
+$CMP PIC18LF2520
+D 28-pin Enhanced Flash Microcontroller with 10-bit A/D (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39631a.pdf
+$ENDCMP
+#
+$CMP PIC18LF442
+D 40-pin High Performance Enhanced Flash Microcontroller with 10-bit A/D
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39564c.pdf
+$ENDCMP
+#
+$CMP PIC18LF4420
+D 40-pin Enhanced Flash Microcontroller with 10-bit A/D (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39631a.pdf
+$ENDCMP
+#
+$CMP PIC18LF452
+D 40-pin High Performance Enhanced Flash Microcontroller with 10-bit A/D
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39564c.pdf
+$ENDCMP
+#
+$CMP PIC18LF4520
+D 40-pin Enhanced Flash Microcontroller with 10-bit A/D (nanoWatt)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39631a.pdf
+$ENDCMP
+#
+$CMP TC642
+D PWM Fan Speed Controller with FanSense
+$ENDCMP
+#
+$CMP TC642B
+D PWM Fan Speed Controller with FanSense
+$ENDCMP
+#
+$CMP TC647
+D PWM Fan Speed Controller with FanSense
+$ENDCMP
+#
+$CMP TC647B
+D PWM Fan Speed Controller with FanSense
+$ENDCMP
+#
+$CMP TC648
+D Fan Speed Controller with Auto-Shutdown and Over-Temperature Alert
+$ENDCMP
+#
+#End Doc Library

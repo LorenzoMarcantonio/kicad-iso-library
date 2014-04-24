@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0  Date: ven 29 mag 2009 12:19:03 CEST
+#
+$CMP CS5361
+D 114 dB, 192 KHz, 24 bit audio A/D converter
+K AUDIO ADC
+F digital-audio/cs5361.pdf
+$ENDCMP
+#
+$CMP CS8406_hard
+D 192 KHz Digital audio interface transmitter (hard mode)
+K DIGITAL AUDIO TRANSMITTER
+F digital-audio/cs8406.pdf
+$ENDCMP
+#
+$CMP CS8406_soft
+D 192 KHz Digital audio interface transmitter (soft mode)
+K DIGITAL AUDIO TRANSMITTER
+F digital-audio/cs8406.pdf
+$ENDCMP
+#
+$CMP CS8414
+D 96KHz Digital Audio Receiver
+K DIGITAL AUDIO RECEIVER
+F digital-audio/cs8413-4.pdf
+$ENDCMP
+#
+$CMP CS8420_hard
+D Digital Audio Sample Rate Converter (hard mode)
+K DIGITAL AUDIO SAMPLE CONVERTER
+F digital-audio/cs8420.pdf
+$ENDCMP
+#
+$CMP CS8420_soft
+D Digital Audio Sample Rate Converter (soft mode)
+K DIGITAL AUDIO SAMPLE CONVERTER
+F digital-audio/cs8420.pdf
+$ENDCMP
+#
+#End Doc Library

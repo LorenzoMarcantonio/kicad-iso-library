@@ -1,0 +1,57 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD7224
+D 8-Bit DAC with Output Amplifiers
+K DAC
+$ENDCMP
+#
+$CMP AD7225
+D Quad 8-Bit DAC with Separate Reference Inputs
+K DAC
+$ENDCMP
+#
+$CMP AD7226
+D Quad 8-Bit Voltage Output DAC
+K DAC
+$ENDCMP
+#
+$CMP AD7228
+D Octal, 8-Bit Voltage Out DAC
+K DAC
+$ENDCMP
+#
+$CMP AD7819
+D +2.7 V to +5.5 V, 200 kSPS 8-Bit Sampling ADC
+K ADC
+F adc-dac/ad7819.pdf
+$ENDCMP
+#
+$CMP AD9708
+D 8-Bit, 100 MSPS+ D/A Converter
+K DAC
+$ENDCMP
+#
+$CMP ADC0832
+D 8-Bit Serial I/O A/D Converter with Multiplexer Option
+K ADC
+$ENDCMP
+#
+$CMP ADC1173
+D 8-Bit, 3-Volt, 15MSPS, 33mW A/D Converter
+K ADC
+F adc-dac/adc1173.pdf
+$ENDCMP
+#
+$CMP DAC082S085
+D 8-Bit Micro Power Dual Digital-to-Analog Converter with Rail-to-Rail Output
+$ENDCMP
+#
+$CMP LTC2487
+D 16-bit 2-/4-Channel Sigma/Delta ADC with PGA, Easy Drive and I2C Interface
+$ENDCMP
+#
+$CMP LTC2495
+D 16-bit 8-/-16-Channel Sigma/Delta ADC with PGA, Easy Drive and I2C Interface
+$ENDCMP
+#
+#End Doc Library
